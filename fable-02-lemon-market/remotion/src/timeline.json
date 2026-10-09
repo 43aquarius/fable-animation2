@@ -1,0 +1,1200 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 8899,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "image",
+      "image": "s01_dusk",
+      "narration": "西域有座月泉城，马市养活了城里三代人。三十年后，马市没了。没遭兵灾，没闹马瘟，也没人使坏。它是自己，一步一步，把自己逼死的。",
+      "emphasis": [
+        "三十年后",
+        "逼死"
+      ],
+      "start": 0,
+      "duration": 422,
+      "audioFrames": 404,
+      "captions": [
+        {
+          "text": "西域有座月泉城",
+          "start": 0,
+          "duration": 54
+        },
+        {
+          "text": "马市养活了城里三代人",
+          "start": 54,
+          "duration": 78
+        },
+        {
+          "text": "三十年后",
+          "start": 132,
+          "duration": 31
+        },
+        {
+          "text": "马市没了",
+          "start": 163,
+          "duration": 31
+        },
+        {
+          "text": "没遭兵灾",
+          "start": 194,
+          "duration": 31
+        },
+        {
+          "text": "没闹马瘟",
+          "start": 225,
+          "duration": 31
+        },
+        {
+          "text": "也没人使坏",
+          "start": 256,
+          "duration": 39
+        },
+        {
+          "text": "它是自己",
+          "start": 295,
+          "duration": 31
+        },
+        {
+          "text": "一步一步",
+          "start": 326,
+          "duration": 31
+        },
+        {
+          "text": "把自己逼死的",
+          "start": 357,
+          "duration": 47
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_peak",
+      "narration": "鼎盛那几年，月泉马市一天能走三千匹马。大宛的宝驹，河曲的骏马，还有叫不上名的驽马，都拴在同一排栅栏里。客商从四面八方赶来，银子拍在案上，眼睛都不眨。",
+      "emphasis": [
+        "三千匹"
+      ],
+      "start": 422,
+      "duration": 445,
+      "audioFrames": 431,
+      "captions": [
+        {
+          "text": "鼎盛那几年",
+          "start": 0,
+          "duration": 33
+        },
+        {
+          "text": "月泉马市一天能走三千匹马",
+          "start": 33,
+          "duration": 80
+        },
+        {
+          "text": "大宛的宝驹",
+          "start": 113,
+          "duration": 33
+        },
+        {
+          "text": "河曲的骏马",
+          "start": 146,
+          "duration": 33
+        },
+        {
+          "text": "还有叫不上名的驽马",
+          "start": 179,
+          "duration": 60
+        },
+        {
+          "text": "都拴在同一排栅栏里",
+          "start": 239,
+          "duration": 60
+        },
+        {
+          "text": "客商从四面八方赶来",
+          "start": 299,
+          "duration": 60
+        },
+        {
+          "text": "银子拍在案上",
+          "start": 359,
+          "duration": 40
+        },
+        {
+          "text": "眼睛都不眨",
+          "start": 399,
+          "duration": 33
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_look",
+      "narration": "坏就坏在，马这东西，外人看不透。牵出来个个皮毛油亮，蹄子锃亮。是宝驹还是病马，只有马贩子心里有数。你在马市里蹲上三天，也就能看出个毛色。",
+      "emphasis": [
+        "看不透",
+        "心里有数"
+      ],
+      "start": 867,
+      "duration": 411,
+      "audioFrames": 397,
+      "captions": [
+        {
+          "text": "坏就坏在",
+          "start": 0,
+          "duration": 27
+        },
+        {
+          "text": "马这东西",
+          "start": 27,
+          "duration": 27
+        },
+        {
+          "text": "外人看不透",
+          "start": 54,
+          "duration": 34
+        },
+        {
+          "text": "牵出来个个皮毛油亮",
+          "start": 88,
+          "duration": 61
+        },
+        {
+          "text": "蹄子锃亮",
+          "start": 149,
+          "duration": 27
+        },
+        {
+          "text": "是宝驹还是病马",
+          "start": 176,
+          "duration": 47
+        },
+        {
+          "text": "只有马贩子心里有数",
+          "start": 223,
+          "duration": 61
+        },
+        {
+          "text": "你在马市里蹲上三天",
+          "start": 284,
+          "duration": 61
+        },
+        {
+          "text": "也就能看出个毛色",
+          "start": 345,
+          "duration": 54
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_price",
+      "narration": "买家不傻。看不出来，就只肯出中间价。宝驹值一百两，病马值二十两，那就出六十两，买到什么算什么。全城都这么干，谁也不肯多掏一个铜板。",
+      "emphasis": [
+        "中间价"
+      ],
+      "start": 1278,
+      "duration": 399,
+      "audioFrames": 385,
+      "captions": [
+        {
+          "text": "买家不傻",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "看不出来",
+          "start": 28,
+          "duration": 28
+        },
+        {
+          "text": "就只肯出中间价",
+          "start": 56,
+          "duration": 48
+        },
+        {
+          "text": "宝驹值一百两",
+          "start": 104,
+          "duration": 41
+        },
+        {
+          "text": "病马值二十两",
+          "start": 145,
+          "duration": 41
+        },
+        {
+          "text": "那就出六十两",
+          "start": 186,
+          "duration": 41
+        },
+        {
+          "text": "买到什么算什么",
+          "start": 227,
+          "duration": 48
+        },
+        {
+          "text": "全城都这么干",
+          "start": 275,
+          "duration": 41
+        },
+        {
+          "text": "谁也不肯多掏一个铜板",
+          "start": 316,
+          "duration": 69
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_leave",
+      "narration": "第一个撑不住的，是卖宝驹的康掌柜。他一匹宝驹，本钱就要九十两。六十两卖出去，卖一匹，亏一匹。年关那天，他把栅栏一收，赶着马群，去了别的城。",
+      "emphasis": [
+        "亏一匹"
+      ],
+      "start": 1677,
+      "duration": 442,
+      "audioFrames": 428,
+      "captions": [
+        {
+          "text": "第一个撑不住的",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "是卖宝驹的康掌柜",
+          "start": 52,
+          "duration": 59
+        },
+        {
+          "text": "他一匹宝驹",
+          "start": 111,
+          "duration": 37
+        },
+        {
+          "text": "本钱就要九十两",
+          "start": 148,
+          "duration": 52
+        },
+        {
+          "text": "六十两卖出去",
+          "start": 200,
+          "duration": 44
+        },
+        {
+          "text": "卖一匹",
+          "start": 244,
+          "duration": 22
+        },
+        {
+          "text": "亏一匹",
+          "start": 266,
+          "duration": 22
+        },
+        {
+          "text": "年关那天",
+          "start": 288,
+          "duration": 30
+        },
+        {
+          "text": "他把栅栏一收",
+          "start": 318,
+          "duration": 44
+        },
+        {
+          "text": "赶着马群",
+          "start": 362,
+          "duration": 30
+        },
+        {
+          "text": "去了别的城",
+          "start": 392,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_night",
+      "narration": "康掌柜一走，市面上的好马少了一成。买家掂量掂量，中间价还得再压。这回，轮到卖骏马的亏本了。当夜，又有十几家收拾行头，悄悄拔了桩子。",
+      "emphasis": [
+        "再压",
+        "拔了桩子"
+      ],
+      "start": 2119,
+      "duration": 413,
+      "audioFrames": 399,
+      "captions": [
+        {
+          "text": "康掌柜一走",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "市面上的好马少了一成",
+          "start": 36,
+          "duration": 71
+        },
+        {
+          "text": "买家掂量掂量",
+          "start": 107,
+          "duration": 43
+        },
+        {
+          "text": "中间价还得再压",
+          "start": 150,
+          "duration": 50
+        },
+        {
+          "text": "这回",
+          "start": 200,
+          "duration": 14
+        },
+        {
+          "text": "轮到卖骏马的亏本了",
+          "start": 214,
+          "duration": 64
+        },
+        {
+          "text": "当夜",
+          "start": 278,
+          "duration": 14
+        },
+        {
+          "text": "又有十几家收拾行头",
+          "start": 292,
+          "duration": 64
+        },
+        {
+          "text": "悄悄拔了桩子",
+          "start": 356,
+          "duration": 43
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "image",
+      "image": "s07_lemon",
+      "narration": "就这么一轮压一轮。价钱每落一次，就走掉一批好马。到第十年，栅栏里拴着的，十匹里有八匹是瘸马病马。马贩子私底下管它们，叫柠檬马。",
+      "emphasis": [
+        "柠檬马"
+      ],
+      "start": 2532,
+      "duration": 388,
+      "audioFrames": 374,
+      "captions": [
+        {
+          "text": "就这么一轮压一轮",
+          "start": 0,
+          "duration": 54
+        },
+        {
+          "text": "价钱每落一次",
+          "start": 54,
+          "duration": 41
+        },
+        {
+          "text": "就走掉一批好马",
+          "start": 95,
+          "duration": 48
+        },
+        {
+          "text": "到第十年",
+          "start": 143,
+          "duration": 27
+        },
+        {
+          "text": "栅栏里拴着的",
+          "start": 170,
+          "duration": 41
+        },
+        {
+          "text": "十匹里有八匹是瘸马病马",
+          "start": 211,
+          "duration": 75
+        },
+        {
+          "text": "马贩子私底下管它们",
+          "start": 286,
+          "duration": 61
+        },
+        {
+          "text": "叫柠檬马",
+          "start": 347,
+          "duration": 27
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "image",
+      "image": "s08_smart",
+      "narration": "最后，连最老实的买家都咂摸出味儿来了。能留到今天的马，还用挑吗？他们连中间价都不肯出了，只出废马价。这点钱，连一冬天的草料都填不上。",
+      "emphasis": [
+        "废马价"
+      ],
+      "start": 2920,
+      "duration": 417,
+      "audioFrames": 403,
+      "captions": [
+        {
+          "text": "最后",
+          "start": 0,
+          "duration": 14
+        },
+        {
+          "text": "连最老实的买家都",
+          "start": 14,
+          "duration": 56
+        },
+        {
+          "text": "咂摸出味儿来了",
+          "start": 70,
+          "duration": 49
+        },
+        {
+          "text": "能留到今天的马",
+          "start": 119,
+          "duration": 49
+        },
+        {
+          "text": "还用挑吗",
+          "start": 168,
+          "duration": 28
+        },
+        {
+          "text": "他们连中间价都不肯出了",
+          "start": 196,
+          "duration": 76
+        },
+        {
+          "text": "只出废马价",
+          "start": 272,
+          "duration": 35
+        },
+        {
+          "text": "这点钱",
+          "start": 307,
+          "duration": 21
+        },
+        {
+          "text": "连一冬天的草料都填不上",
+          "start": 328,
+          "duration": 76
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "image",
+      "image": "s09_empty",
+      "narration": "第二十年，月泉马市只剩一排空栅栏，沙土埋了半截拴马桩。靠马市吃饭的牙行、草料铺、客栈，一间接一间熄了灯。没有仇家，没有禁令。这个市场，是被一件看不见的东西，慢慢杀死的。",
+      "emphasis": [
+        "看不见的东西"
+      ],
+      "start": 3337,
+      "duration": 593,
+      "audioFrames": 579,
+      "captions": [
+        {
+          "text": "第二十年",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "月泉马市只剩一排空栅栏",
+          "start": 32,
+          "duration": 88
+        },
+        {
+          "text": "沙土埋了半截拴马桩",
+          "start": 120,
+          "duration": 72
+        },
+        {
+          "text": "靠马市吃饭的牙行",
+          "start": 192,
+          "duration": 64
+        },
+        {
+          "text": "草料铺",
+          "start": 256,
+          "duration": 24
+        },
+        {
+          "text": "客栈",
+          "start": 280,
+          "duration": 16
+        },
+        {
+          "text": "一间接一间熄了灯",
+          "start": 296,
+          "duration": 64
+        },
+        {
+          "text": "没有仇家",
+          "start": 360,
+          "duration": 32
+        },
+        {
+          "text": "没有禁令",
+          "start": 392,
+          "duration": 32
+        },
+        {
+          "text": "这个市场",
+          "start": 424,
+          "duration": 32
+        },
+        {
+          "text": "是被一件看不见的东西",
+          "start": 456,
+          "duration": 80
+        },
+        {
+          "text": "慢慢杀死的",
+          "start": 536,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "image",
+      "image": "s10_sign",
+      "narration": "第三十年，集市口来了个赶骆驼的老太太，人称阿依婆。她在空市口立了块木牌，上面刻着一行字：凡我卖出的马，一年内腿瘸眼瞎，赔十倍价银。全城的人都笑她疯了。",
+      "emphasis": [
+        "十倍价银"
+      ],
+      "start": 3930,
+      "duration": 474,
+      "audioFrames": 460,
+      "captions": [
+        {
+          "text": "第三十年",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "集市口来了个赶骆驼的老太太",
+          "start": 28,
+          "duration": 91
+        },
+        {
+          "text": "人称阿依婆",
+          "start": 119,
+          "duration": 35
+        },
+        {
+          "text": "她在空市口立了块木牌",
+          "start": 154,
+          "duration": 70
+        },
+        {
+          "text": "上面刻着一行字",
+          "start": 224,
+          "duration": 49
+        },
+        {
+          "text": "凡我卖出的马",
+          "start": 273,
+          "duration": 42
+        },
+        {
+          "text": "一年内腿瘸眼瞎",
+          "start": 315,
+          "duration": 49
+        },
+        {
+          "text": "赔十倍价银",
+          "start": 364,
+          "duration": 35
+        },
+        {
+          "text": "全城的人都笑她疯了",
+          "start": 399,
+          "duration": 63
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "image",
+      "image": "s11_queue",
+      "narration": "笑归笑，买家都在算同一笔账：敢赔十倍，说明她的马经得起赔。卖瘸马的敢学吗？不敢，赔一次就倾家荡产。一个月后，全城买家绕开所有马贩，只认阿依婆的摊子。",
+      "emphasis": [
+        "倾家荡产",
+        "只认阿依婆"
+      ],
+      "start": 4404,
+      "duration": 439,
+      "audioFrames": 425,
+      "captions": [
+        {
+          "text": "笑归笑",
+          "start": 0,
+          "duration": 20
+        },
+        {
+          "text": "买家都在算同一笔账",
+          "start": 20,
+          "duration": 60
+        },
+        {
+          "text": "敢赔十倍",
+          "start": 80,
+          "duration": 27
+        },
+        {
+          "text": "说明她的马经得起赔",
+          "start": 107,
+          "duration": 60
+        },
+        {
+          "text": "卖瘸马的敢学吗",
+          "start": 167,
+          "duration": 46
+        },
+        {
+          "text": "不敢",
+          "start": 213,
+          "duration": 13
+        },
+        {
+          "text": "赔一次就倾家荡产",
+          "start": 226,
+          "duration": 53
+        },
+        {
+          "text": "一个月后",
+          "start": 279,
+          "duration": 27
+        },
+        {
+          "text": "全城买家绕开所有马贩",
+          "start": 306,
+          "duration": 66
+        },
+        {
+          "text": "只认阿依婆的摊子",
+          "start": 372,
+          "duration": 53
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "image",
+      "image": "s12_alive",
+      "narration": "后来，别的马贩也一块一块立起了牌子，画押，找牙人作保。三年后，月泉马市又活了。救回它的，不是官府，也不是谁的良心。是一块敢赔十倍的木牌。",
+      "emphasis": [
+        "敢赔十倍",
+        "木牌"
+      ],
+      "start": 4843,
+      "duration": 437,
+      "audioFrames": 423,
+      "captions": [
+        {
+          "text": "后来",
+          "start": 0,
+          "duration": 15
+        },
+        {
+          "text": "别的马贩也一块一块立起了牌子",
+          "start": 15,
+          "duration": 102
+        },
+        {
+          "text": "画押",
+          "start": 117,
+          "duration": 15
+        },
+        {
+          "text": "找牙人作保",
+          "start": 132,
+          "duration": 36
+        },
+        {
+          "text": "三年后",
+          "start": 168,
+          "duration": 22
+        },
+        {
+          "text": "月泉马市又活了",
+          "start": 190,
+          "duration": 51
+        },
+        {
+          "text": "救回它的",
+          "start": 241,
+          "duration": 29
+        },
+        {
+          "text": "不是官府",
+          "start": 270,
+          "duration": 29
+        },
+        {
+          "text": "也不是谁的良心",
+          "start": 299,
+          "duration": 51
+        },
+        {
+          "text": "是一块敢赔十倍的木牌",
+          "start": 350,
+          "duration": 73
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "econReveal",
+      "image": null,
+      "narration": "故事讲完了。你以为这是古人的烦恼？你今天走进二手车市场，听车商拍着胸口说车况极佳的时候，你就站在月泉城的马市里。毛病藏在漆面底下，底细只有卖家有数。",
+      "emphasis": [
+        "二手车市场",
+        "漆面底下"
+      ],
+      "start": 5280,
+      "duration": 471,
+      "audioFrames": 455,
+      "captions": [
+        {
+          "text": "故事讲完了",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "你以为这是古人的烦恼",
+          "start": 34,
+          "duration": 68
+        },
+        {
+          "text": "你今天走进二手车市场",
+          "start": 102,
+          "duration": 68
+        },
+        {
+          "text": "听车商拍着胸口说",
+          "start": 170,
+          "duration": 54
+        },
+        {
+          "text": "车况极佳的时候",
+          "start": 224,
+          "duration": 48
+        },
+        {
+          "text": "你就站在月泉城的马市里",
+          "start": 272,
+          "duration": 75
+        },
+        {
+          "text": "毛病藏在漆面底下",
+          "start": 347,
+          "duration": 54
+        },
+        {
+          "text": "底细只有卖家有数",
+          "start": 401,
+          "duration": 54
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "titleReveal",
+      "image": null,
+      "narration": "这个能把好市场活活逼死的病，经济学里有个名字，叫逆向选择。",
+      "emphasis": [
+        "逆向选择"
+      ],
+      "start": 5751,
+      "duration": 236,
+      "audioFrames": 188,
+      "captions": []
+    },
+    {
+      "id": "s15",
+      "type": "map1",
+      "image": null,
+      "narration": "拆开讲。马贩子知道底细，买家不知道，这叫信息不对称。买家按平均质量出价，好马卖不上好价，只好先走，坏马留下，市场一轮一轮掉血，这就是柠檬市场。1970年，经济学家阿克洛夫把它写成论文，题目就叫《柠檬市场》。三十年后，这篇论文替他拿回了诺贝尔奖。",
+      "emphasis": [
+        "信息不对称",
+        "柠檬市场",
+        "诺贝尔"
+      ],
+      "start": 5987,
+      "duration": 682,
+      "audioFrames": 664,
+      "captions": [
+        {
+          "text": "拆开讲",
+          "start": 0,
+          "duration": 19
+        },
+        {
+          "text": "马贩子知道底细",
+          "start": 19,
+          "duration": 44
+        },
+        {
+          "text": "买家不知道",
+          "start": 63,
+          "duration": 32
+        },
+        {
+          "text": "这叫信息不对称",
+          "start": 95,
+          "duration": 44
+        },
+        {
+          "text": "买家按平均质量出价",
+          "start": 139,
+          "duration": 57
+        },
+        {
+          "text": "好马卖不上好价",
+          "start": 196,
+          "duration": 44
+        },
+        {
+          "text": "只好先走",
+          "start": 240,
+          "duration": 25
+        },
+        {
+          "text": "坏马留下",
+          "start": 265,
+          "duration": 25
+        },
+        {
+          "text": "市场一轮一轮掉血",
+          "start": 290,
+          "duration": 51
+        },
+        {
+          "text": "这就是柠檬市场",
+          "start": 341,
+          "duration": 44
+        },
+        {
+          "text": "1970年",
+          "start": 385,
+          "duration": 32
+        },
+        {
+          "text": "经济学家阿克洛夫把它写成论文",
+          "start": 417,
+          "duration": 89
+        },
+        {
+          "text": "题目就叫柠檬市场",
+          "start": 506,
+          "duration": 51
+        },
+        {
+          "text": "三十年后",
+          "start": 557,
+          "duration": 25
+        },
+        {
+          "text": "这篇论文替他拿回了诺贝尔奖",
+          "start": 582,
+          "duration": 82
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "spiral",
+      "image": null,
+      "narration": "阿克洛夫把市场的死法画成一个圈：买家看不见质量，只敢出平均价；平均价，必让最好的马先亏本；好马一撤，平均质量再跌，价钱只能再压。一圈比一圈狠，转到最后，市场只剩柠檬，价格归零。当年这篇论文被三家顶级期刊退稿，理由是太简单。后来，它成了经济学被引用最多的文章之一。",
+      "emphasis": [
+        "一圈比一圈狠",
+        "太简单"
+      ],
+      "start": 6669,
+      "duration": 772,
+      "audioFrames": 754,
+      "captions": [
+        {
+          "text": "阿克洛夫把市场的",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "死法画成一个圈",
+          "start": 52,
+          "duration": 46
+        },
+        {
+          "text": "买家看不见质量",
+          "start": 98,
+          "duration": 46
+        },
+        {
+          "text": "只敢出平均价",
+          "start": 144,
+          "duration": 39
+        },
+        {
+          "text": "平均价",
+          "start": 183,
+          "duration": 20
+        },
+        {
+          "text": "必让最好的马先亏本",
+          "start": 203,
+          "duration": 59
+        },
+        {
+          "text": "好马一撤",
+          "start": 262,
+          "duration": 26
+        },
+        {
+          "text": "平均质量再跌",
+          "start": 288,
+          "duration": 39
+        },
+        {
+          "text": "价钱只能再压",
+          "start": 327,
+          "duration": 39
+        },
+        {
+          "text": "一圈比一圈狠",
+          "start": 366,
+          "duration": 39
+        },
+        {
+          "text": "转到最后",
+          "start": 405,
+          "duration": 26
+        },
+        {
+          "text": "市场只剩柠檬",
+          "start": 431,
+          "duration": 39
+        },
+        {
+          "text": "价格归零",
+          "start": 470,
+          "duration": 26
+        },
+        {
+          "text": "当年这篇论文被三",
+          "start": 496,
+          "duration": 52
+        },
+        {
+          "text": "家顶级期刊退稿",
+          "start": 548,
+          "duration": 46
+        },
+        {
+          "text": "理由是太简单",
+          "start": 594,
+          "duration": 39
+        },
+        {
+          "text": "后来",
+          "start": 633,
+          "duration": 13
+        },
+        {
+          "text": "它成了经济学被引",
+          "start": 646,
+          "duration": 52
+        },
+        {
+          "text": "用最多的文章之一",
+          "start": 698,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "map3",
+      "image": "s10_sign",
+      "narration": "救活马市的阿依婆，经济学里也有名字，叫信号发送。敢赔十倍，等于把马的质量，变成看得见、又模仿不了的信号。卖瘸马的学不起，这块牌子才值钱。你今天看到的质保、七天无理由退换、大品牌砸几个亿打广告，都是那块木牌的后代。第三方检测、平台评分，就是新时代的牙人作保。",
+      "emphasis": [
+        "信号发送",
+        "木牌的后代"
+      ],
+      "start": 7441,
+      "duration": 801,
+      "audioFrames": 783,
+      "captions": [
+        {
+          "text": "救活马市的阿依婆",
+          "start": 0,
+          "duration": 56
+        },
+        {
+          "text": "经济学里也有名字",
+          "start": 56,
+          "duration": 56
+        },
+        {
+          "text": "叫信号发送",
+          "start": 112,
+          "duration": 35
+        },
+        {
+          "text": "敢赔十倍",
+          "start": 147,
+          "duration": 28
+        },
+        {
+          "text": "等于把马的质量",
+          "start": 175,
+          "duration": 49
+        },
+        {
+          "text": "变成看得见",
+          "start": 224,
+          "duration": 35
+        },
+        {
+          "text": "又模仿不了的信号",
+          "start": 259,
+          "duration": 56
+        },
+        {
+          "text": "卖瘸马的学不起",
+          "start": 315,
+          "duration": 49
+        },
+        {
+          "text": "这块牌子才值钱",
+          "start": 364,
+          "duration": 49
+        },
+        {
+          "text": "你今天看到的质保",
+          "start": 413,
+          "duration": 56
+        },
+        {
+          "text": "七天无理由退换",
+          "start": 469,
+          "duration": 49
+        },
+        {
+          "text": "大品牌砸几个亿打广告",
+          "start": 518,
+          "duration": 70
+        },
+        {
+          "text": "都是那块木牌的后代",
+          "start": 588,
+          "duration": 63
+        },
+        {
+          "text": "第三方检测",
+          "start": 651,
+          "duration": 35
+        },
+        {
+          "text": "平台评分",
+          "start": 686,
+          "duration": 28
+        },
+        {
+          "text": "就是新时代的牙人作保",
+          "start": 714,
+          "duration": 70
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "outro",
+      "image": null,
+      "narration": "阿克洛夫用一篇论文讲明白一件事：市场最怕的不是坏人，是不知道。坏的能明码标价，都有得谈；看不见底细的市场，好东西会自己走光。关注我。下一期讲它的孪生兄弟：买了保险就敢浪，签了合同就摆烂，那叫道德风险。",
+      "emphasis": [
+        "不知道",
+        "道德风险"
+      ],
+      "start": 8242,
+      "duration": 657,
+      "audioFrames": 579,
+      "captions": [
+        {
+          "text": "阿克洛夫用一篇论",
+          "start": 0,
+          "duration": 53
+        },
+        {
+          "text": "文讲明白一件事",
+          "start": 53,
+          "duration": 46
+        },
+        {
+          "text": "市场最怕的不是坏人",
+          "start": 99,
+          "duration": 59
+        },
+        {
+          "text": "是不知道",
+          "start": 158,
+          "duration": 26
+        },
+        {
+          "text": "坏的能明码标价",
+          "start": 184,
+          "duration": 46
+        },
+        {
+          "text": "都有得谈",
+          "start": 230,
+          "duration": 26
+        },
+        {
+          "text": "看不见底细的市场",
+          "start": 256,
+          "duration": 53
+        },
+        {
+          "text": "好东西会自己走光",
+          "start": 309,
+          "duration": 53
+        },
+        {
+          "text": "关注我",
+          "start": 362,
+          "duration": 20
+        },
+        {
+          "text": "下一期讲它的孪生兄弟",
+          "start": 382,
+          "duration": 66
+        },
+        {
+          "text": "买了保险就敢浪",
+          "start": 448,
+          "duration": 46
+        },
+        {
+          "text": "签了合同就摆烂",
+          "start": 494,
+          "duration": 46
+        },
+        {
+          "text": "那叫道德风险",
+          "start": 540,
+          "duration": 39
+        }
+      ]
+    }
+  ]
+}
