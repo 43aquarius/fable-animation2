@@ -1,0 +1,1409 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 10438,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "image",
+      "image": "s01_dusk",
+      "narration": "雍正年间，平遥城有家永丰号，票号生意做得极大。可东家有块心病：银子押去扬州，十年里，路越走越险，镖越丢越多。镖师换了一茬又一茬，个个是千里挑一的好手。路还是那条路，人还是那样的人。出事的，是别的东西。",
+      "emphasis": [
+        "越丢越多",
+        "别的东西"
+      ],
+      "start": 0,
+      "duration": 671,
+      "audioFrames": 653,
+      "captions": [
+        {
+          "text": "雍正年间",
+          "start": 0,
+          "duration": 30
+        },
+        {
+          "text": "平遥城有家永丰号",
+          "start": 30,
+          "duration": 61
+        },
+        {
+          "text": "票号生意做得极大",
+          "start": 91,
+          "duration": 61
+        },
+        {
+          "text": "可东家有块心病",
+          "start": 152,
+          "duration": 53
+        },
+        {
+          "text": "银子押去扬州",
+          "start": 205,
+          "duration": 46
+        },
+        {
+          "text": "十年里",
+          "start": 251,
+          "duration": 23
+        },
+        {
+          "text": "路越走越险",
+          "start": 274,
+          "duration": 38
+        },
+        {
+          "text": "镖越丢越多",
+          "start": 312,
+          "duration": 38
+        },
+        {
+          "text": "镖师换了一茬又一茬",
+          "start": 350,
+          "duration": 68
+        },
+        {
+          "text": "个个是千里挑一的好手",
+          "start": 418,
+          "duration": 76
+        },
+        {
+          "text": "路还是那条路",
+          "start": 494,
+          "duration": 46
+        },
+        {
+          "text": "人还是那样的人",
+          "start": 540,
+          "duration": 53
+        },
+        {
+          "text": "出事的",
+          "start": 593,
+          "duration": 23
+        },
+        {
+          "text": "是别的东西",
+          "start": 616,
+          "duration": 38
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_convoy",
+      "narration": "早年不是这样。那时走镖，镖头比东家还上心：铜锣开道，白天赶路，逢镇必歇。一趟扬州，稳稳当当七天。东家按趟付银，一趟三两，外加酒钱。宾主相得，二十年没红过脸。",
+      "emphasis": [
+        "二十年"
+      ],
+      "start": 671,
+      "duration": 539,
+      "audioFrames": 525,
+      "captions": [
+        {
+          "text": "早年不是这样",
+          "start": 0,
+          "duration": 48
+        },
+        {
+          "text": "那时走镖",
+          "start": 48,
+          "duration": 32
+        },
+        {
+          "text": "镖头比东家还上心",
+          "start": 80,
+          "duration": 65
+        },
+        {
+          "text": "铜锣开道",
+          "start": 145,
+          "duration": 32
+        },
+        {
+          "text": "白天赶路",
+          "start": 177,
+          "duration": 32
+        },
+        {
+          "text": "逢镇必歇",
+          "start": 209,
+          "duration": 32
+        },
+        {
+          "text": "一趟扬州",
+          "start": 241,
+          "duration": 32
+        },
+        {
+          "text": "稳稳当当七天",
+          "start": 273,
+          "duration": 48
+        },
+        {
+          "text": "东家按趟付银",
+          "start": 321,
+          "duration": 48
+        },
+        {
+          "text": "一趟三两",
+          "start": 369,
+          "duration": 32
+        },
+        {
+          "text": "外加酒钱",
+          "start": 401,
+          "duration": 32
+        },
+        {
+          "text": "宾主相得",
+          "start": 433,
+          "duration": 32
+        },
+        {
+          "text": "二十年没红过脸",
+          "start": 465,
+          "duration": 57
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "contractOld",
+      "image": null,
+      "narration": "永丰号的规矩，是老东家亲手定的：按趟结钱。平安送到，拿三两；路上怎么走，几点歇，带几个人，镖局自己掂量。东家只问一句：到了没有。山里夜里的事，他看不见，也听不见。",
+      "emphasis": [
+        "按趟结钱",
+        "看不见"
+      ],
+      "start": 1210,
+      "duration": 494,
+      "audioFrames": 480,
+      "captions": [
+        {
+          "text": "永丰号的规矩",
+          "start": 0,
+          "duration": 43
+        },
+        {
+          "text": "是老东家亲手定的",
+          "start": 43,
+          "duration": 57
+        },
+        {
+          "text": "按趟结钱",
+          "start": 100,
+          "duration": 29
+        },
+        {
+          "text": "平安送到",
+          "start": 129,
+          "duration": 29
+        },
+        {
+          "text": "拿三两",
+          "start": 158,
+          "duration": 21
+        },
+        {
+          "text": "路上怎么走",
+          "start": 179,
+          "duration": 36
+        },
+        {
+          "text": "几点歇",
+          "start": 215,
+          "duration": 21
+        },
+        {
+          "text": "带几个人",
+          "start": 236,
+          "duration": 29
+        },
+        {
+          "text": "镖局自己掂量",
+          "start": 265,
+          "duration": 43
+        },
+        {
+          "text": "东家只问一句",
+          "start": 308,
+          "duration": 43
+        },
+        {
+          "text": "到了没有",
+          "start": 351,
+          "duration": 29
+        },
+        {
+          "text": "山里夜里的事",
+          "start": 380,
+          "duration": 43
+        },
+        {
+          "text": "他看不见",
+          "start": 423,
+          "duration": 29
+        },
+        {
+          "text": "也听不见",
+          "start": 452,
+          "duration": 29
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "routeChoose",
+      "image": null,
+      "narration": "新镖头姓赵，是个算盘精。他趴在地图上算了一夜：官道走七天，黑风峪只走三天。一年多走四趟，趟趟白花花的银子。黑风峪名字渗人？他呵呵一笑：哪有那么巧，回回撞上山匪？",
+      "emphasis": [
+        "三天",
+        "四趟"
+      ],
+      "start": 1704,
+      "duration": 480,
+      "audioFrames": 466,
+      "captions": [
+        {
+          "text": "新镖头姓赵",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "是个算盘精",
+          "start": 34,
+          "duration": 34
+        },
+        {
+          "text": "他趴在地图上算了一夜",
+          "start": 68,
+          "duration": 68
+        },
+        {
+          "text": "官道走七天",
+          "start": 136,
+          "duration": 34
+        },
+        {
+          "text": "黑风峪只走三天",
+          "start": 170,
+          "duration": 47
+        },
+        {
+          "text": "一年多走四趟",
+          "start": 217,
+          "duration": 41
+        },
+        {
+          "text": "趟趟白花花的银子",
+          "start": 258,
+          "duration": 54
+        },
+        {
+          "text": "黑风峪名字渗人",
+          "start": 312,
+          "duration": 47
+        },
+        {
+          "text": "他呵呵一笑",
+          "start": 359,
+          "duration": 34
+        },
+        {
+          "text": "哪有那么巧",
+          "start": 393,
+          "duration": 34
+        },
+        {
+          "text": "回回撞上山匪",
+          "start": 427,
+          "duration": 41
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "ledger",
+      "image": null,
+      "narration": "算盘越打越顺。跟车的伙计，从八个减到四个，省一半工钱；骡马挑瘦的租，省三成草料；夜行不宿镇，又省下店钱。一笔是一笔，都算得干净利落。省下来的银子，一文不剩，全进了镖局的柜。",
+      "emphasis": [
+        "镖局的柜"
+      ],
+      "start": 2184,
+      "duration": 503,
+      "audioFrames": 489,
+      "captions": [
+        {
+          "text": "算盘越打越顺",
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "text": "跟车的伙计",
+          "start": 40,
+          "duration": 33
+        },
+        {
+          "text": "从八个减到四个",
+          "start": 73,
+          "duration": 47
+        },
+        {
+          "text": "省一半工钱",
+          "start": 120,
+          "duration": 33
+        },
+        {
+          "text": "骡马挑瘦的租",
+          "start": 153,
+          "duration": 40
+        },
+        {
+          "text": "省三成草料",
+          "start": 193,
+          "duration": 33
+        },
+        {
+          "text": "夜行不宿镇",
+          "start": 226,
+          "duration": 33
+        },
+        {
+          "text": "又省下店钱",
+          "start": 259,
+          "duration": 33
+        },
+        {
+          "text": "一笔是一笔",
+          "start": 292,
+          "duration": 33
+        },
+        {
+          "text": "都算得干净利落",
+          "start": 325,
+          "duration": 47
+        },
+        {
+          "text": "省下来的银子",
+          "start": 372,
+          "duration": 40
+        },
+        {
+          "text": "一文不剩",
+          "start": 412,
+          "duration": 27
+        },
+        {
+          "text": "全进了镖局的柜",
+          "start": 439,
+          "duration": 47
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_crash",
+      "narration": "第三年秋，黑风峪果然出了事。夜里赶路，头车翻进山涧，两千两官银滚了半条沟。赵镖头亲自押着残银回平遥，按行规赔了镖价：一千两，赔五十。剩下的窟窿，永丰号自己认。",
+      "emphasis": [
+        "赔五十",
+        "自己认"
+      ],
+      "start": 2687,
+      "duration": 549,
+      "audioFrames": 535,
+      "captions": [
+        {
+          "text": "第三年秋",
+          "start": 0,
+          "duration": 31
+        },
+        {
+          "text": "黑风峪果然出了事",
+          "start": 31,
+          "duration": 63
+        },
+        {
+          "text": "夜里赶路",
+          "start": 94,
+          "duration": 31
+        },
+        {
+          "text": "头车翻进山涧",
+          "start": 125,
+          "duration": 47
+        },
+        {
+          "text": "两千两官银滚了半条沟",
+          "start": 172,
+          "duration": 79
+        },
+        {
+          "text": "赵镖头亲自押着残银回平遥",
+          "start": 251,
+          "duration": 94
+        },
+        {
+          "text": "按行规赔了镖价",
+          "start": 345,
+          "duration": 55
+        },
+        {
+          "text": "一千两",
+          "start": 400,
+          "duration": 24
+        },
+        {
+          "text": "赔五十",
+          "start": 424,
+          "duration": 24
+        },
+        {
+          "text": "剩下的窟窿",
+          "start": 448,
+          "duration": 39
+        },
+        {
+          "text": "永丰号自己认",
+          "start": 487,
+          "duration": 47
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "riskMath",
+      "image": null,
+      "narration": "老东家疼得三天没吃下饭。赵镖头像没事人一样：赔五十两，这趟还净赚。这笔账他夜里早算好了：十趟里丢一趟，赔出去的，追不回省出来的。镖，接着走。",
+      "emphasis": [
+        "净赚",
+        "省出来的"
+      ],
+      "start": 3236,
+      "duration": 442,
+      "audioFrames": 428,
+      "captions": [
+        {
+          "text": "老东家疼得三天没吃下饭",
+          "start": 0,
+          "duration": 78
+        },
+        {
+          "text": "赵镖头像没事人一样",
+          "start": 78,
+          "duration": 64
+        },
+        {
+          "text": "赔五十两",
+          "start": 142,
+          "duration": 29
+        },
+        {
+          "text": "这趟还净赚",
+          "start": 171,
+          "duration": 36
+        },
+        {
+          "text": "这笔账他夜里早算好了",
+          "start": 207,
+          "duration": 71
+        },
+        {
+          "text": "十趟里丢一趟",
+          "start": 278,
+          "duration": 43
+        },
+        {
+          "text": "赔出去的",
+          "start": 321,
+          "duration": 29
+        },
+        {
+          "text": "追不回省出来的",
+          "start": 350,
+          "duration": 50
+        },
+        {
+          "text": "镖",
+          "start": 400,
+          "duration": 10
+        },
+        {
+          "text": "接着走",
+          "start": 410,
+          "duration": 21
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "image",
+      "image": "s08_account",
+      "narration": "老东家不放心，派伙计跟车查岗。镖师前脚过了镇口，后脚就拐进黑风峪。查一次，躲一次。跟车的从两个加到六个，工钱年年翻。年底一盘账，老东家眼前一黑：押镖的本钱，十年翻了四倍。",
+      "emphasis": [
+        "翻了四倍"
+      ],
+      "start": 3678,
+      "duration": 600,
+      "audioFrames": 586,
+      "captions": [
+        {
+          "text": "老东家不放心",
+          "start": 0,
+          "duration": 48
+        },
+        {
+          "text": "派伙计跟车查岗",
+          "start": 48,
+          "duration": 56
+        },
+        {
+          "text": "镖师前脚过了镇口",
+          "start": 104,
+          "duration": 64
+        },
+        {
+          "text": "后脚就拐进黑风峪",
+          "start": 168,
+          "duration": 64
+        },
+        {
+          "text": "查一次",
+          "start": 232,
+          "duration": 24
+        },
+        {
+          "text": "躲一次",
+          "start": 256,
+          "duration": 24
+        },
+        {
+          "text": "跟车的从两个加到六个",
+          "start": 280,
+          "duration": 80
+        },
+        {
+          "text": "工钱年年翻",
+          "start": 360,
+          "duration": 40
+        },
+        {
+          "text": "年底一盘账",
+          "start": 400,
+          "duration": 40
+        },
+        {
+          "text": "老东家眼前一黑",
+          "start": 440,
+          "duration": 56
+        },
+        {
+          "text": "押镖的本钱",
+          "start": 496,
+          "duration": 40
+        },
+        {
+          "text": "十年翻了四倍",
+          "start": 536,
+          "duration": 48
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "split",
+      "image": null,
+      "narration": "年关，留洋回来的少东家接过账本，看了一夜。天亮只问两句：快赶一天省下的银子，归谁？翻车赔的窟窿，又归谁？账房答：省的归镖局，赔的归票号。少东家合上账本：这不结了。利是他的，险是我的，他凭什么替我省着走？",
+      "emphasis": [
+        "归镖局",
+        "归票号",
+        "利是他的",
+        "险是我的"
+      ],
+      "start": 4278,
+      "duration": 612,
+      "audioFrames": 598,
+      "captions": [
+        {
+          "text": "年关",
+          "start": 0,
+          "duration": 14
+        },
+        {
+          "text": "留洋回来的少东家接过账本",
+          "start": 14,
+          "duration": 84
+        },
+        {
+          "text": "看了一夜",
+          "start": 98,
+          "duration": 28
+        },
+        {
+          "text": "天亮只问两句",
+          "start": 126,
+          "duration": 42
+        },
+        {
+          "text": "快赶一天省下的银子",
+          "start": 168,
+          "duration": 63
+        },
+        {
+          "text": "归谁",
+          "start": 231,
+          "duration": 14
+        },
+        {
+          "text": "翻车赔的窟窿",
+          "start": 245,
+          "duration": 42
+        },
+        {
+          "text": "又归谁",
+          "start": 287,
+          "duration": 21
+        },
+        {
+          "text": "账房答",
+          "start": 308,
+          "duration": 21
+        },
+        {
+          "text": "省的归镖局",
+          "start": 329,
+          "duration": 35
+        },
+        {
+          "text": "赔的归票号",
+          "start": 364,
+          "duration": 35
+        },
+        {
+          "text": "少东家合上账本",
+          "start": 399,
+          "duration": 49
+        },
+        {
+          "text": "这不结了",
+          "start": 448,
+          "duration": 28
+        },
+        {
+          "text": "利是他的",
+          "start": 476,
+          "duration": 28
+        },
+        {
+          "text": "险是我的",
+          "start": 504,
+          "duration": 28
+        },
+        {
+          "text": "他凭什么替我省着走",
+          "start": 532,
+          "duration": 63
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "contractNew",
+      "image": null,
+      "narration": "开春，永丰号换了新合约，只改两条。头一条：平安准点，每趟加赏二两。第二条：路上丢一箱，镖局赔十倍。满城都笑永丰号钱多烧的：这不白送镖局银子吗？赵镖头盯着那张新契，也盯了一夜。这一夜，他算的不是快，是稳。",
+      "emphasis": [
+        "加赏二两",
+        "赔十倍"
+      ],
+      "start": 4890,
+      "duration": 822,
+      "audioFrames": 808,
+      "captions": [
+        {
+          "text": "开春",
+          "start": 0,
+          "duration": 19
+        },
+        {
+          "text": "永丰号换了新合约",
+          "start": 19,
+          "duration": 76
+        },
+        {
+          "text": "只改两条",
+          "start": 95,
+          "duration": 38
+        },
+        {
+          "text": "头一条",
+          "start": 133,
+          "duration": 29
+        },
+        {
+          "text": "平安准点",
+          "start": 162,
+          "duration": 38
+        },
+        {
+          "text": "每趟加赏二两",
+          "start": 200,
+          "duration": 57
+        },
+        {
+          "text": "第二条",
+          "start": 257,
+          "duration": 29
+        },
+        {
+          "text": "路上丢一箱",
+          "start": 286,
+          "duration": 48
+        },
+        {
+          "text": "镖局赔十倍",
+          "start": 334,
+          "duration": 48
+        },
+        {
+          "text": "满城都笑永丰号钱多烧的",
+          "start": 382,
+          "duration": 105
+        },
+        {
+          "text": "这不白送镖局银子吗",
+          "start": 487,
+          "duration": 86
+        },
+        {
+          "text": "赵镖头盯着那张新契",
+          "start": 573,
+          "duration": 86
+        },
+        {
+          "text": "也盯了一夜",
+          "start": 659,
+          "duration": 48
+        },
+        {
+          "text": "这一夜",
+          "start": 707,
+          "duration": 29
+        },
+        {
+          "text": "他算的不是快",
+          "start": 736,
+          "duration": 57
+        },
+        {
+          "text": "是稳",
+          "start": 793,
+          "duration": 19
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "routeChange",
+      "image": null,
+      "narration": "第二天起，黑风峪再没见过永丰号的镖车。跟车的伙计，赵镖头自己加回了八个，一个不许减。夜路停了，宁可多走两天。没人查岗，没人盯着。镖还是那些镖，人还是那个人，走的已经不是那条路了。",
+      "emphasis": [
+        "加回了八个",
+        "不是那条路"
+      ],
+      "start": 5712,
+      "duration": 570,
+      "audioFrames": 556,
+      "captions": [
+        {
+          "text": "第二天起",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "黑风峪再没见过永丰号的镖车",
+          "start": 29,
+          "duration": 94
+        },
+        {
+          "text": "跟车的伙计",
+          "start": 123,
+          "duration": 36
+        },
+        {
+          "text": "赵镖头自己加回了八个",
+          "start": 159,
+          "duration": 72
+        },
+        {
+          "text": "一个不许减",
+          "start": 231,
+          "duration": 36
+        },
+        {
+          "text": "夜路停了",
+          "start": 267,
+          "duration": 29
+        },
+        {
+          "text": "宁可多走两天",
+          "start": 296,
+          "duration": 43
+        },
+        {
+          "text": "没人查岗",
+          "start": 339,
+          "duration": 29
+        },
+        {
+          "text": "没人盯着",
+          "start": 368,
+          "duration": 29
+        },
+        {
+          "text": "镖还是那些镖",
+          "start": 397,
+          "duration": 43
+        },
+        {
+          "text": "人还是那个人",
+          "start": 440,
+          "duration": 43
+        },
+        {
+          "text": "走的已经不是那条路了",
+          "start": 483,
+          "duration": 72
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "image",
+      "image": "s12_peace",
+      "narration": "十年下来，永丰号再没丢过一趟镖，押镖的本钱，反倒降回了从前。老东家到死也没想通：人心，怎么能说变就变？少东家在坟前烧了一本账：爹，人心从来没变过。变的是那张纸。",
+      "emphasis": [
+        "人心从来没变过",
+        "那张纸"
+      ],
+      "start": 6282,
+      "duration": 521,
+      "audioFrames": 497,
+      "captions": [
+        {
+          "text": "十年下来",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "永丰号再没丢过一趟镖",
+          "start": 29,
+          "duration": 72
+        },
+        {
+          "text": "押镖的本钱",
+          "start": 101,
+          "duration": 36
+        },
+        {
+          "text": "反倒降回了从前",
+          "start": 137,
+          "duration": 50
+        },
+        {
+          "text": "老东家到死也没想通",
+          "start": 187,
+          "duration": 65
+        },
+        {
+          "text": "人心",
+          "start": 252,
+          "duration": 14
+        },
+        {
+          "text": "怎么能说变就变",
+          "start": 266,
+          "duration": 50
+        },
+        {
+          "text": "少东家在坟前烧了一本账",
+          "start": 316,
+          "duration": 79
+        },
+        {
+          "text": "爹",
+          "start": 395,
+          "duration": 10
+        },
+        {
+          "text": "人心从来没变过",
+          "start": 405,
+          "duration": 50
+        },
+        {
+          "text": "变的是那张纸",
+          "start": 455,
+          "duration": 43
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "real",
+      "image": null,
+      "narration": "故事讲完了。你以为这是古人的烦恼？买了全保的车，剐蹭一下还心疼吗？停车还挑地方吗？公司报销的差旅，还挑最便宜的航班吗？零八年，华尔街捅出大娄子，最后谁买单？每一个，都是黑风峪。",
+      "emphasis": [
+        "全保",
+        "谁买单",
+        "黑风峪"
+      ],
+      "start": 6803,
+      "duration": 561,
+      "audioFrames": 547,
+      "captions": [
+        {
+          "text": "故事讲完了",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "你以为这是古人的烦恼",
+          "start": 36,
+          "duration": 72
+        },
+        {
+          "text": "买了全保的车",
+          "start": 108,
+          "duration": 43
+        },
+        {
+          "text": "剐蹭一下还心疼吗",
+          "start": 151,
+          "duration": 58
+        },
+        {
+          "text": "停车还挑地方吗",
+          "start": 209,
+          "duration": 50
+        },
+        {
+          "text": "公司报销的差旅",
+          "start": 259,
+          "duration": 50
+        },
+        {
+          "text": "还挑最便宜的航班吗",
+          "start": 309,
+          "duration": 65
+        },
+        {
+          "text": "零八年",
+          "start": 374,
+          "duration": 22
+        },
+        {
+          "text": "华尔街捅出大娄子",
+          "start": 396,
+          "duration": 58
+        },
+        {
+          "text": "最后谁买单",
+          "start": 454,
+          "duration": 36
+        },
+        {
+          "text": "每一个",
+          "start": 490,
+          "duration": 22
+        },
+        {
+          "text": "都是黑风峪",
+          "start": 512,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "titleReveal",
+      "image": null,
+      "narration": "这个藏在合同背后、悄悄改写人行为的病，经济学里有个名字，叫道德风险。",
+      "emphasis": [
+        "道德风险"
+      ],
+      "start": 7364,
+      "duration": 253,
+      "audioFrames": 205,
+      "captions": []
+    },
+    {
+      "id": "s15",
+      "type": "map1",
+      "image": null,
+      "narration": "拆开讲。镖局在路上怎么走，票号看不见，这叫隐藏行动。按趟结钱，快慢都一样，这叫固定报酬。省下的归镖局，赔的归票号，风险和利益劈成两半，这叫激励错位。合同怎么写，人就怎么活。",
+      "emphasis": [
+        "隐藏行动",
+        "固定报酬",
+        "激励错位"
+      ],
+      "start": 7617,
+      "duration": 595,
+      "audioFrames": 577,
+      "captions": [
+        {
+          "text": "拆开讲",
+          "start": 0,
+          "duration": 24
+        },
+        {
+          "text": "镖局在路上怎么走",
+          "start": 24,
+          "duration": 63
+        },
+        {
+          "text": "票号看不见",
+          "start": 87,
+          "duration": 40
+        },
+        {
+          "text": "这叫隐藏行动",
+          "start": 127,
+          "duration": 47
+        },
+        {
+          "text": "按趟结钱",
+          "start": 174,
+          "duration": 32
+        },
+        {
+          "text": "快慢都一样",
+          "start": 206,
+          "duration": 40
+        },
+        {
+          "text": "这叫固定报酬",
+          "start": 246,
+          "duration": 47
+        },
+        {
+          "text": "省下的归镖局",
+          "start": 293,
+          "duration": 47
+        },
+        {
+          "text": "赔的归票号",
+          "start": 340,
+          "duration": 40
+        },
+        {
+          "text": "风险和利益劈成两半",
+          "start": 380,
+          "duration": 71
+        },
+        {
+          "text": "这叫激励错位",
+          "start": 451,
+          "duration": 47
+        },
+        {
+          "text": "合同怎么写",
+          "start": 498,
+          "duration": 40
+        },
+        {
+          "text": "人就怎么活",
+          "start": 538,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "remedies",
+      "image": null,
+      "narration": "上一期的柠檬市场，是签约前看不清对方，叫逆向选择。这一期，是签约后看不住对方的手，叫道德风险。俩兄弟，一个管选人，一个管用人，2001年一起拿了诺贝尔奖。经济学开的药方，一共三味。第一味，盯着他，可查岗的成本，十年翻了四倍。第二味，换合约，把他的利跟你的险捆在一起。第三味，让他自己也押点什么。",
+      "emphasis": [
+        "逆向选择",
+        "道德风险",
+        "三味"
+      ],
+      "start": 8212,
+      "duration": 891,
+      "audioFrames": 873,
+      "captions": [
+        {
+          "text": "上一期的柠檬市场",
+          "start": 0,
+          "duration": 55
+        },
+        {
+          "text": "是签约前看不清对方",
+          "start": 55,
+          "duration": 62
+        },
+        {
+          "text": "叫逆向选择",
+          "start": 117,
+          "duration": 35
+        },
+        {
+          "text": "这一期",
+          "start": 152,
+          "duration": 21
+        },
+        {
+          "text": "是签约后看不住对方的手",
+          "start": 173,
+          "duration": 76
+        },
+        {
+          "text": "叫道德风险",
+          "start": 249,
+          "duration": 35
+        },
+        {
+          "text": "俩兄弟",
+          "start": 284,
+          "duration": 21
+        },
+        {
+          "text": "一个管选人",
+          "start": 305,
+          "duration": 35
+        },
+        {
+          "text": "一个管用人",
+          "start": 340,
+          "duration": 35
+        },
+        {
+          "text": "2001年一起拿了诺贝尔奖",
+          "start": 375,
+          "duration": 90
+        },
+        {
+          "text": "经济学开的药方",
+          "start": 465,
+          "duration": 49
+        },
+        {
+          "text": "一共三味",
+          "start": 514,
+          "duration": 28
+        },
+        {
+          "text": "第一味",
+          "start": 542,
+          "duration": 21
+        },
+        {
+          "text": "盯着他",
+          "start": 563,
+          "duration": 21
+        },
+        {
+          "text": "可查岗的成本",
+          "start": 584,
+          "duration": 42
+        },
+        {
+          "text": "十年翻了四倍",
+          "start": 626,
+          "duration": 42
+        },
+        {
+          "text": "第二味",
+          "start": 668,
+          "duration": 21
+        },
+        {
+          "text": "换合约",
+          "start": 689,
+          "duration": 21
+        },
+        {
+          "text": "把他的利跟你的险捆在一起",
+          "start": 710,
+          "duration": 83
+        },
+        {
+          "text": "第三味",
+          "start": 793,
+          "duration": 21
+        },
+        {
+          "text": "让他自己也押点什么",
+          "start": 814,
+          "duration": 62
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "map3",
+      "image": "real_signing",
+      "narration": "你今天签的合同里，都藏着少东家的算盘。车险里的免赔额，是让你也赔一点，剐蹭了才心疼；绩效和期权，是把你未来的利，跟公司的险捆在同一根绳上；押金、对赌，就是赔十倍的现代版。看不见的地方，人只认合同，不认良心。",
+      "emphasis": [
+        "免赔额",
+        "赔一点",
+        "现代版"
+      ],
+      "start": 9103,
+      "duration": 609,
+      "audioFrames": 591,
+      "captions": [
+        {
+          "text": "你今天签的合同里",
+          "start": 0,
+          "duration": 53
+        },
+        {
+          "text": "都藏着少东家的算盘",
+          "start": 53,
+          "duration": 60
+        },
+        {
+          "text": "车险里的免赔额",
+          "start": 113,
+          "duration": 46
+        },
+        {
+          "text": "是让你也赔一点",
+          "start": 159,
+          "duration": 46
+        },
+        {
+          "text": "剐蹭了才心疼",
+          "start": 205,
+          "duration": 40
+        },
+        {
+          "text": "绩效和期权",
+          "start": 245,
+          "duration": 33
+        },
+        {
+          "text": "是把你未来的利",
+          "start": 278,
+          "duration": 46
+        },
+        {
+          "text": "跟公司的险捆在同一根绳上",
+          "start": 324,
+          "duration": 80
+        },
+        {
+          "text": "押金",
+          "start": 404,
+          "duration": 13
+        },
+        {
+          "text": "对赌",
+          "start": 417,
+          "duration": 13
+        },
+        {
+          "text": "就是赔十倍的现代版",
+          "start": 430,
+          "duration": 60
+        },
+        {
+          "text": "看不见的地方",
+          "start": 490,
+          "duration": 40
+        },
+        {
+          "text": "人只认合同",
+          "start": 530,
+          "duration": 33
+        },
+        {
+          "text": "不认良心",
+          "start": 563,
+          "duration": 27
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "outro",
+      "image": null,
+      "narration": "少东家看明白的事，经济学家又算了一百年：人心不用变，纸得换。坏合约让好人铤而走险，好合约让懒人精打细算。关注我。下一期换个战场：一片谁都能放羊的草场，家家都算得精，最后草没了，羊也没了。那叫公地悲剧。",
+      "emphasis": [
+        "纸得换",
+        "公地悲剧"
+      ],
+      "start": 9712,
+      "duration": 726,
+      "audioFrames": 648,
+      "captions": [
+        {
+          "text": "少东家看明白的事",
+          "start": 0,
+          "duration": 60
+        },
+        {
+          "text": "经济学家又算了一百年",
+          "start": 60,
+          "duration": 74
+        },
+        {
+          "text": "人心不用变",
+          "start": 134,
+          "duration": 37
+        },
+        {
+          "text": "纸得换",
+          "start": 171,
+          "duration": 22
+        },
+        {
+          "text": "坏合约让好人铤而走险",
+          "start": 193,
+          "duration": 74
+        },
+        {
+          "text": "好合约让懒人精打细算",
+          "start": 267,
+          "duration": 74
+        },
+        {
+          "text": "关注我",
+          "start": 341,
+          "duration": 22
+        },
+        {
+          "text": "下一期换个战场",
+          "start": 363,
+          "duration": 52
+        },
+        {
+          "text": "一片谁都能放羊的草场",
+          "start": 415,
+          "duration": 74
+        },
+        {
+          "text": "家家都算得精",
+          "start": 489,
+          "duration": 45
+        },
+        {
+          "text": "最后草没了",
+          "start": 534,
+          "duration": 37
+        },
+        {
+          "text": "羊也没了",
+          "start": 571,
+          "duration": 30
+        },
+        {
+          "text": "那叫公地悲剧",
+          "start": 601,
+          "duration": 45
+        }
+      ]
+    }
+  ]
+}

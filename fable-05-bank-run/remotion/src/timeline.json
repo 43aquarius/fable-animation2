@@ -1,0 +1,1293 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 9517,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "image",
+      "image": "s01_town",
+      "narration": "江南有个青石镇，镇上的同和钱庄，掌柜厚道，账目干净，放出去的款子笔笔收得回。就是这么一家好钱庄，三天，倒了。没有坏账，没有亏空，也没有贼。扳倒它的，是一句没影儿的话。",
+      "emphasis": [
+        "一句没影儿的话"
+      ],
+      "start": 0,
+      "duration": 524,
+      "audioFrames": 506,
+      "captions": [
+        {
+          "text": "江南有个青石镇",
+          "start": 0,
+          "duration": 51
+        },
+        {
+          "text": "镇上的同和钱庄",
+          "start": 51,
+          "duration": 51
+        },
+        {
+          "text": "掌柜厚道",
+          "start": 102,
+          "duration": 29
+        },
+        {
+          "text": "账目干净",
+          "start": 131,
+          "duration": 29
+        },
+        {
+          "text": "放出去的款子笔笔收得回",
+          "start": 160,
+          "duration": 80
+        },
+        {
+          "text": "就是这么一家好钱庄",
+          "start": 240,
+          "duration": 65
+        },
+        {
+          "text": "三天",
+          "start": 305,
+          "duration": 14
+        },
+        {
+          "text": "倒了",
+          "start": 319,
+          "duration": 14
+        },
+        {
+          "text": "没有坏账",
+          "start": 333,
+          "duration": 29
+        },
+        {
+          "text": "没有亏空",
+          "start": 362,
+          "duration": 29
+        },
+        {
+          "text": "也没有贼",
+          "start": 391,
+          "duration": 29
+        },
+        {
+          "text": "扳倒它的",
+          "start": 420,
+          "duration": 29
+        },
+        {
+          "text": "是一句没影儿的话",
+          "start": 449,
+          "duration": 58
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "pool",
+      "image": null,
+      "narration": "钱庄怎么赚钱？东街张婶存进一百两，钱庄不能让银子睡觉，转手借给酒坊，三年期，利钱高三成。存户的银子随时能取，贷出去的款三年才回。这门生意的命门，就卡在随时和三年中间。",
+      "emphasis": [
+        "随时",
+        "三年"
+      ],
+      "start": 524,
+      "duration": 524,
+      "audioFrames": 510,
+      "captions": [
+        {
+          "text": "钱庄怎么赚钱",
+          "start": 0,
+          "duration": 42
+        },
+        {
+          "text": "东街张婶存进一百两",
+          "start": 42,
+          "duration": 63
+        },
+        {
+          "text": "钱庄不能让银子睡觉",
+          "start": 105,
+          "duration": 63
+        },
+        {
+          "text": "转手借给酒坊",
+          "start": 168,
+          "duration": 42
+        },
+        {
+          "text": "三年期",
+          "start": 210,
+          "duration": 21
+        },
+        {
+          "text": "利钱高三成",
+          "start": 231,
+          "duration": 35
+        },
+        {
+          "text": "存户的银子随时能取",
+          "start": 266,
+          "duration": 63
+        },
+        {
+          "text": "贷出去的款三年才回",
+          "start": 329,
+          "duration": 63
+        },
+        {
+          "text": "这门生意的命门",
+          "start": 392,
+          "duration": 49
+        },
+        {
+          "text": "就卡在随时和三年中间",
+          "start": 441,
+          "duration": 70
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "reserve",
+      "image": null,
+      "narration": "老掌柜有分寸。柜上永远压着三成现银。天天有人存，天天有人取，进的多、出的少，账总转得开。二十年没出过岔子，镇上人存钱，跟把银子搁自家柜里一样放心。",
+      "emphasis": [
+        "三成现银"
+      ],
+      "start": 1048,
+      "duration": 458,
+      "audioFrames": 444,
+      "captions": [
+        {
+          "text": "老掌柜有分寸",
+          "start": 0,
+          "duration": 42
+        },
+        {
+          "text": "柜上永远压着三成现银",
+          "start": 42,
+          "duration": 70
+        },
+        {
+          "text": "天天有人存",
+          "start": 112,
+          "duration": 35
+        },
+        {
+          "text": "天天有人取",
+          "start": 147,
+          "duration": 35
+        },
+        {
+          "text": "进的多",
+          "start": 182,
+          "duration": 21
+        },
+        {
+          "text": "出的少",
+          "start": 203,
+          "duration": 21
+        },
+        {
+          "text": "账总转得开",
+          "start": 224,
+          "duration": 35
+        },
+        {
+          "text": "二十年没出过岔子",
+          "start": 259,
+          "duration": 56
+        },
+        {
+          "text": "镇上人存钱",
+          "start": 315,
+          "duration": 35
+        },
+        {
+          "text": "跟把银子搁自家柜里一样放心",
+          "start": 350,
+          "duration": 92
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_rumor",
+      "narration": "出事那天，下着雨。米行的老板娘来取银子，跟柜上的人闲聊，说她听人讲：同和放给丝行的那笔大钱，收不回来了。她本是随口一说。可排在她后头的几个人，都听见了。",
+      "emphasis": [
+        "随口一说",
+        "都听见了"
+      ],
+      "start": 1506,
+      "duration": 489,
+      "audioFrames": 475,
+      "captions": [
+        {
+          "text": "出事那天",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "下着雨",
+          "start": 29,
+          "duration": 22
+        },
+        {
+          "text": "米行的老板娘来取银子",
+          "start": 51,
+          "duration": 72
+        },
+        {
+          "text": "跟柜上的人闲聊",
+          "start": 123,
+          "duration": 50
+        },
+        {
+          "text": "说她听人讲",
+          "start": 173,
+          "duration": 36
+        },
+        {
+          "text": "同和放给丝行的那笔大钱",
+          "start": 209,
+          "duration": 79
+        },
+        {
+          "text": "收不回来了",
+          "start": 288,
+          "duration": 36
+        },
+        {
+          "text": "她本是随口一说",
+          "start": 324,
+          "duration": 50
+        },
+        {
+          "text": "可排在她后头的几个人",
+          "start": 374,
+          "duration": 72
+        },
+        {
+          "text": "都听见了",
+          "start": 446,
+          "duration": 29
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "spread",
+      "image": null,
+      "narration": "这话过三条街，进七家茶馆，只用半天。传话的人还自己添料：有人说丝行掌柜跑了，有人说钱庄亏了三万两，有人连官府要封账都编出来了。没人去查。查，要走路；信，只要点头。",
+      "emphasis": [
+        "没人去查",
+        "只要点头"
+      ],
+      "start": 1995,
+      "duration": 526,
+      "audioFrames": 512,
+      "captions": [
+        {
+          "text": "这话过三条街",
+          "start": 0,
+          "duration": 45
+        },
+        {
+          "text": "进七家茶馆",
+          "start": 45,
+          "duration": 37
+        },
+        {
+          "text": "只用半天",
+          "start": 82,
+          "duration": 30
+        },
+        {
+          "text": "传话的人还自己添料",
+          "start": 112,
+          "duration": 67
+        },
+        {
+          "text": "有人说丝行掌柜跑了",
+          "start": 179,
+          "duration": 67
+        },
+        {
+          "text": "有人说钱庄亏了三万两",
+          "start": 246,
+          "duration": 74
+        },
+        {
+          "text": "有人连官府要封账都编出来了",
+          "start": 320,
+          "duration": 96
+        },
+        {
+          "text": "没人去查",
+          "start": 416,
+          "duration": 30
+        },
+        {
+          "text": "查",
+          "start": 446,
+          "duration": 10
+        },
+        {
+          "text": "要走路",
+          "start": 456,
+          "duration": 22
+        },
+        {
+          "text": "信",
+          "start": 478,
+          "duration": 10
+        },
+        {
+          "text": "只要点头",
+          "start": 488,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "smartMath",
+      "image": null,
+      "narration": "绸缎庄的吴老板，头一个赶到。他其实不信。可他算了笔账：万一呢？今天不取，明天人人去取，我就取不出来了。取，顶多折几个利钱；不取，可能连本都捞不回。这笔账，傻子才不算。",
+      "emphasis": [
+        "万一呢",
+        "傻子才不算"
+      ],
+      "start": 2521,
+      "duration": 535,
+      "audioFrames": 521,
+      "captions": [
+        {
+          "text": "绸缎庄的吴老板",
+          "start": 0,
+          "duration": 53
+        },
+        {
+          "text": "头一个赶到",
+          "start": 53,
+          "duration": 38
+        },
+        {
+          "text": "他其实不信",
+          "start": 91,
+          "duration": 38
+        },
+        {
+          "text": "可他算了笔账",
+          "start": 129,
+          "duration": 45
+        },
+        {
+          "text": "万一呢",
+          "start": 174,
+          "duration": 23
+        },
+        {
+          "text": "今天不取",
+          "start": 197,
+          "duration": 30
+        },
+        {
+          "text": "明天人人去取",
+          "start": 227,
+          "duration": 45
+        },
+        {
+          "text": "我就取不出来了",
+          "start": 272,
+          "duration": 53
+        },
+        {
+          "text": "取",
+          "start": 325,
+          "duration": 10
+        },
+        {
+          "text": "顶多折几个利钱",
+          "start": 335,
+          "duration": 53
+        },
+        {
+          "text": "不取",
+          "start": 388,
+          "duration": 15
+        },
+        {
+          "text": "可能连本都捞不回",
+          "start": 403,
+          "duration": 60
+        },
+        {
+          "text": "这笔账",
+          "start": 463,
+          "duration": 23
+        },
+        {
+          "text": "傻子才不算",
+          "start": 486,
+          "duration": 38
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "image",
+      "image": "s07_queue",
+      "narration": "第二天鸡叫，同和门口排起了队。挑担的、开铺的、当家的娘子，把一条街站满了。队里多数人，跟吴老板一样：不是怕钱庄坏，是怕别人怕。",
+      "emphasis": [
+        "一条街站满"
+      ],
+      "start": 3056,
+      "duration": 393,
+      "audioFrames": 379,
+      "captions": [
+        {
+          "text": "第二天鸡叫",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "同和门口排起了队",
+          "start": 36,
+          "duration": 57
+        },
+        {
+          "text": "挑担的",
+          "start": 93,
+          "duration": 21
+        },
+        {
+          "text": "开铺的",
+          "start": 114,
+          "duration": 21
+        },
+        {
+          "text": "当家的娘子",
+          "start": 135,
+          "duration": 36
+        },
+        {
+          "text": "把一条街站满了",
+          "start": 171,
+          "duration": 50
+        },
+        {
+          "text": "队里多数人",
+          "start": 221,
+          "duration": 36
+        },
+        {
+          "text": "跟吴老板一样",
+          "start": 257,
+          "duration": 43
+        },
+        {
+          "text": "不是怕钱庄坏",
+          "start": 300,
+          "duration": 43
+        },
+        {
+          "text": "是怕别人怕",
+          "start": 343,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "drain",
+      "image": null,
+      "narration": "老掌柜开柜，把三成现银全掏了出来，一炷香就见了底。可大头的银子在酒坊的窖里、丝行的机上，锁在三年期的契书里。柜上付不出，队尾开始砸门。到这一步，钱庄已经死了：它不是资不抵债，是拿不出今天的现钱。",
+      "emphasis": [
+        "见了底",
+        "拿不出今天的现钱"
+      ],
+      "start": 3449,
+      "duration": 556,
+      "audioFrames": 542,
+      "captions": [
+        {
+          "text": "老掌柜开柜",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "把三成现银全掏了出来",
+          "start": 32,
+          "duration": 64
+        },
+        {
+          "text": "一炷香就见了底",
+          "start": 96,
+          "duration": 45
+        },
+        {
+          "text": "可大头的银子在酒坊的窖里",
+          "start": 141,
+          "duration": 77
+        },
+        {
+          "text": "丝行的机上",
+          "start": 218,
+          "duration": 32
+        },
+        {
+          "text": "锁在三年期的契书里",
+          "start": 250,
+          "duration": 57
+        },
+        {
+          "text": "柜上付不出",
+          "start": 307,
+          "duration": 32
+        },
+        {
+          "text": "队尾开始砸门",
+          "start": 339,
+          "duration": 38
+        },
+        {
+          "text": "到这一步",
+          "start": 377,
+          "duration": 26
+        },
+        {
+          "text": "钱庄已经死了",
+          "start": 403,
+          "duration": 38
+        },
+        {
+          "text": "它不是资不抵债",
+          "start": 441,
+          "duration": 45
+        },
+        {
+          "text": "是拿不出今天的现钱",
+          "start": 486,
+          "duration": 57
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "image",
+      "image": "s09_closed",
+      "narration": "第三天，同和封了门板。掌柜变卖家产，赔了六成，酒坊的贷款烂在半路，存户折了四成本金。事后官府查账：同和的账，比镇上哪一家钱庄都干净。它是被怕倒本身，挤倒的。",
+      "emphasis": [
+        "干净",
+        "挤倒"
+      ],
+      "start": 4005,
+      "duration": 543,
+      "audioFrames": 529,
+      "captions": [
+        {
+          "text": "第三天",
+          "start": 0,
+          "duration": 24
+        },
+        {
+          "text": "同和封了门板",
+          "start": 24,
+          "duration": 47
+        },
+        {
+          "text": "掌柜变卖家产",
+          "start": 71,
+          "duration": 47
+        },
+        {
+          "text": "赔了六成",
+          "start": 118,
+          "duration": 32
+        },
+        {
+          "text": "酒坊的贷款烂在半路",
+          "start": 150,
+          "duration": 71
+        },
+        {
+          "text": "存户折了四成本金",
+          "start": 221,
+          "duration": 63
+        },
+        {
+          "text": "事后官府查账",
+          "start": 284,
+          "duration": 47
+        },
+        {
+          "text": "同和的账",
+          "start": 331,
+          "duration": 32
+        },
+        {
+          "text": "比镇上哪一家钱庄都干净",
+          "start": 363,
+          "duration": 87
+        },
+        {
+          "text": "它是被怕倒本身",
+          "start": 450,
+          "duration": 55
+        },
+        {
+          "text": "挤倒的",
+          "start": 505,
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "prophecy",
+      "image": null,
+      "narration": "复盘一下，这句没影儿的话，分两步杀人。第一步，让人怕。第二步，怕的人去取钱。取钱这个动作，把怕变成了真的。经济学管这叫自我实现的预言：你信它倒，它就真的倒。",
+      "emphasis": [
+        "自我实现的预言",
+        "真的倒"
+      ],
+      "start": 4548,
+      "duration": 506,
+      "audioFrames": 492,
+      "captions": [
+        {
+          "text": "复盘一下",
+          "start": 0,
+          "duration": 30
+        },
+        {
+          "text": "这句没影儿的话",
+          "start": 30,
+          "duration": 52
+        },
+        {
+          "text": "分两步杀人",
+          "start": 82,
+          "duration": 37
+        },
+        {
+          "text": "第一步",
+          "start": 119,
+          "duration": 22
+        },
+        {
+          "text": "让人怕",
+          "start": 141,
+          "duration": 22
+        },
+        {
+          "text": "第二步",
+          "start": 163,
+          "duration": 22
+        },
+        {
+          "text": "怕的人去取钱",
+          "start": 185,
+          "duration": 45
+        },
+        {
+          "text": "取钱这个动作",
+          "start": 230,
+          "duration": 45
+        },
+        {
+          "text": "把怕变成了真的",
+          "start": 275,
+          "duration": 52
+        },
+        {
+          "text": "经济学管这叫自我实现的预言",
+          "start": 327,
+          "duration": 97
+        },
+        {
+          "text": "你信它倒",
+          "start": 424,
+          "duration": 30
+        },
+        {
+          "text": "它就真的倒",
+          "start": 454,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "mutual",
+      "image": null,
+      "narration": "后来镇上重开钱庄，规矩变了。十几家钱庄立了联保的约：一家遭挤兑，其余各家开柜，替它兑银子。官府再压一笔官银做底。从那以后，一句闲话，再没掀动过哪家钱庄。",
+      "emphasis": [
+        "联保",
+        "替它兑银子"
+      ],
+      "start": 5054,
+      "duration": 481,
+      "audioFrames": 467,
+      "captions": [
+        {
+          "text": "后来镇上重开钱庄",
+          "start": 0,
+          "duration": 57
+        },
+        {
+          "text": "规矩变了",
+          "start": 57,
+          "duration": 28
+        },
+        {
+          "text": "十几家钱庄立了联保的约",
+          "start": 85,
+          "duration": 78
+        },
+        {
+          "text": "一家遭挤兑",
+          "start": 163,
+          "duration": 35
+        },
+        {
+          "text": "其余各家开柜",
+          "start": 198,
+          "duration": 42
+        },
+        {
+          "text": "替它兑银子",
+          "start": 240,
+          "duration": 35
+        },
+        {
+          "text": "官府再压一笔官银做底",
+          "start": 275,
+          "duration": 71
+        },
+        {
+          "text": "从那以后",
+          "start": 346,
+          "duration": 28
+        },
+        {
+          "text": "一句闲话",
+          "start": 374,
+          "duration": 28
+        },
+        {
+          "text": "再没掀动过哪家钱庄",
+          "start": 402,
+          "duration": 64
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "image",
+      "image": "s12_calm",
+      "narration": "因为人人都看明白了：真挤不动了。怕，退了潮；信，就跟着回来了。往后二十年，青石镇再没倒过一家钱庄。不是钱庄变乖了，是跑的理由没了。",
+      "emphasis": [
+        "跑的理由没了"
+      ],
+      "start": 5535,
+      "duration": 415,
+      "audioFrames": 391,
+      "captions": [
+        {
+          "text": "因为人人都看明白了",
+          "start": 0,
+          "duration": 64
+        },
+        {
+          "text": "真挤不动了",
+          "start": 64,
+          "duration": 36
+        },
+        {
+          "text": "怕",
+          "start": 100,
+          "duration": 10
+        },
+        {
+          "text": "退了潮",
+          "start": 110,
+          "duration": 21
+        },
+        {
+          "text": "信",
+          "start": 131,
+          "duration": 10
+        },
+        {
+          "text": "就跟着回来了",
+          "start": 141,
+          "duration": 43
+        },
+        {
+          "text": "往后二十年",
+          "start": 184,
+          "duration": 36
+        },
+        {
+          "text": "青石镇再没倒过一家钱庄",
+          "start": 220,
+          "duration": 78
+        },
+        {
+          "text": "不是钱庄变乖了",
+          "start": 298,
+          "duration": 50
+        },
+        {
+          "text": "是跑的理由没了",
+          "start": 348,
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "real",
+      "image": null,
+      "narration": "故事讲完了。你以为这是古人的事？1933年大萧条，美国一年倒了四千家银行，罗斯福下令全国银行歇业整顿；2023年3月，硅谷银行，两天被挤倒。照片里那些排队的背影，跟同和门口的，是同一批人。",
+      "emphasis": [
+        "四千家",
+        "同一批人"
+      ],
+      "start": 5950,
+      "duration": 600,
+      "audioFrames": 586,
+      "captions": [
+        {
+          "text": "故事讲完了",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "你以为这是古人的事",
+          "start": 35,
+          "duration": 64
+        },
+        {
+          "text": "1933年大萧条",
+          "start": 99,
+          "duration": 56
+        },
+        {
+          "text": "美国一年倒了四千家银行",
+          "start": 155,
+          "duration": 78
+        },
+        {
+          "text": "罗斯福下令全国银行歇业整顿",
+          "start": 233,
+          "duration": 92
+        },
+        {
+          "text": "2023年3月",
+          "start": 325,
+          "duration": 49
+        },
+        {
+          "text": "硅谷银行",
+          "start": 374,
+          "duration": 28
+        },
+        {
+          "text": "两天被挤倒",
+          "start": 402,
+          "duration": 35
+        },
+        {
+          "text": "照片里那些排队的背影",
+          "start": 437,
+          "duration": 71
+        },
+        {
+          "text": "跟同和门口的",
+          "start": 508,
+          "duration": 42
+        },
+        {
+          "text": "是同一批人",
+          "start": 550,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "titleReveal",
+      "image": null,
+      "narration": "这个好银行也会得的猝死病，经济学里有个名字，叫银行挤兑。",
+      "emphasis": [
+        "银行挤兑"
+      ],
+      "start": 6550,
+      "duration": 190,
+      "audioFrames": 142,
+      "captions": []
+    },
+    {
+      "id": "s15",
+      "type": "map1",
+      "image": null,
+      "narration": "拆开讲。储户的钱随取随用，贷款三年才回，这叫期限转换，是银行的本职。柜上压三成现银，这叫存款准备金。一句闲话搅动人心，这叫信心冲击。人人怕倒都去取钱，这叫个体理性。挤兑，就是个体理性凑出来的集体死局。",
+      "emphasis": [
+        "期限转换",
+        "准备金",
+        "个体理性"
+      ],
+      "start": 6740,
+      "duration": 698,
+      "audioFrames": 680,
+      "captions": [
+        {
+          "text": "拆开讲",
+          "start": 0,
+          "duration": 23
+        },
+        {
+          "text": "储户的钱随取随用",
+          "start": 23,
+          "duration": 63
+        },
+        {
+          "text": "贷款三年才回",
+          "start": 86,
+          "duration": 47
+        },
+        {
+          "text": "这叫期限转换",
+          "start": 133,
+          "duration": 47
+        },
+        {
+          "text": "是银行的本职",
+          "start": 180,
+          "duration": 47
+        },
+        {
+          "text": "柜上压三成现银",
+          "start": 227,
+          "duration": 55
+        },
+        {
+          "text": "这叫存款准备金",
+          "start": 282,
+          "duration": 55
+        },
+        {
+          "text": "一句闲话搅动人心",
+          "start": 337,
+          "duration": 63
+        },
+        {
+          "text": "这叫信心冲击",
+          "start": 400,
+          "duration": 47
+        },
+        {
+          "text": "人人怕倒都去取钱",
+          "start": 447,
+          "duration": 63
+        },
+        {
+          "text": "这叫个体理性",
+          "start": 510,
+          "duration": 47
+        },
+        {
+          "text": "挤兑",
+          "start": 557,
+          "duration": 16
+        },
+        {
+          "text": "就是个体理性凑出来的集体死局",
+          "start": 573,
+          "duration": 109
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "equilibria",
+      "image": null,
+      "narration": "这门学问做到顶，是2022年的诺贝尔奖。戴蒙德和迪布维格把挤兑写成了数学：一家银行，天生有两个结局。好的那个，人人相安，钱生钱。坏的那个，人人抢跑，三天清盘。站到哪边，不看银行好坏，看大家信哪边。所以才需要那个局外人：中央银行，在人心塌的时候掏钱出来，名号就叫最后贷款人。",
+      "emphasis": [
+        "两个结局",
+        "最后贷款人"
+      ],
+      "start": 7438,
+      "duration": 829,
+      "audioFrames": 811,
+      "captions": [
+        {
+          "text": "这门学问做到顶",
+          "start": 0,
+          "duration": 48
+        },
+        {
+          "text": "是2022年的诺贝尔奖",
+          "start": 48,
+          "duration": 76
+        },
+        {
+          "text": "戴蒙德和迪布维格",
+          "start": 124,
+          "duration": 55
+        },
+        {
+          "text": "把挤兑写成了数学",
+          "start": 179,
+          "duration": 55
+        },
+        {
+          "text": "一家银行",
+          "start": 234,
+          "duration": 27
+        },
+        {
+          "text": "天生有两个结局",
+          "start": 261,
+          "duration": 48
+        },
+        {
+          "text": "好的那个",
+          "start": 309,
+          "duration": 27
+        },
+        {
+          "text": "人人相安",
+          "start": 336,
+          "duration": 27
+        },
+        {
+          "text": "钱生钱",
+          "start": 363,
+          "duration": 21
+        },
+        {
+          "text": "坏的那个",
+          "start": 384,
+          "duration": 27
+        },
+        {
+          "text": "人人抢跑",
+          "start": 411,
+          "duration": 27
+        },
+        {
+          "text": "三天清盘",
+          "start": 438,
+          "duration": 27
+        },
+        {
+          "text": "站到哪边",
+          "start": 465,
+          "duration": 27
+        },
+        {
+          "text": "不看银行好坏",
+          "start": 492,
+          "duration": 41
+        },
+        {
+          "text": "看大家信哪边",
+          "start": 533,
+          "duration": 41
+        },
+        {
+          "text": "所以才需要那个局外人",
+          "start": 574,
+          "duration": 69
+        },
+        {
+          "text": "中央银行",
+          "start": 643,
+          "duration": 27
+        },
+        {
+          "text": "在人心塌的时候掏钱出来",
+          "start": 670,
+          "duration": 76
+        },
+        {
+          "text": "名号就叫最后贷款人",
+          "start": 746,
+          "duration": 62
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "gates",
+      "image": null,
+      "narration": "今天的银行，站在三道闸后面。第一道，准备金，柜上先压一成现银。第二道，存款保险，五十万以内国家兜底，你不用跑，跑的理由就没了。第三道，最后贷款人，央行开柜。你手机银行里那串数字，全靠这三道闸撑着。",
+      "emphasis": [
+        "三道闸",
+        "五十万"
+      ],
+      "start": 8267,
+      "duration": 628,
+      "audioFrames": 610,
+      "captions": [
+        {
+          "text": "今天的银行",
+          "start": 0,
+          "duration": 37
+        },
+        {
+          "text": "站在三道闸后面",
+          "start": 37,
+          "duration": 51
+        },
+        {
+          "text": "第一道",
+          "start": 88,
+          "duration": 22
+        },
+        {
+          "text": "准备金",
+          "start": 110,
+          "duration": 22
+        },
+        {
+          "text": "柜上先压一成现银",
+          "start": 132,
+          "duration": 59
+        },
+        {
+          "text": "第二道",
+          "start": 191,
+          "duration": 22
+        },
+        {
+          "text": "存款保险",
+          "start": 213,
+          "duration": 29
+        },
+        {
+          "text": "五十万以内国家兜底",
+          "start": 242,
+          "duration": 66
+        },
+        {
+          "text": "你不用跑",
+          "start": 308,
+          "duration": 29
+        },
+        {
+          "text": "跑的理由就没了",
+          "start": 337,
+          "duration": 51
+        },
+        {
+          "text": "第三道",
+          "start": 388,
+          "duration": 22
+        },
+        {
+          "text": "最后贷款人",
+          "start": 410,
+          "duration": 37
+        },
+        {
+          "text": "央行开柜",
+          "start": 447,
+          "duration": 29
+        },
+        {
+          "text": "你手机银行里那串数字",
+          "start": 476,
+          "duration": 73
+        },
+        {
+          "text": "全靠这三道闸撑着",
+          "start": 549,
+          "duration": 59
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "outro",
+      "image": null,
+      "narration": "同和钱庄死于一句话，现代银行活在三道闸。信心这东西，聚起来要二十年，散掉，只要一个上午。关注我。下一期接着讲钱：最后贷款人掏出来的钱从哪来？印多了，会怎样？那叫通货膨胀。",
+      "emphasis": [
+        "一个上午",
+        "通货膨胀"
+      ],
+      "start": 8895,
+      "duration": 622,
+      "audioFrames": 544,
+      "captions": [
+        {
+          "text": "同和钱庄死于一句话",
+          "start": 0,
+          "duration": 67
+        },
+        {
+          "text": "现代银行活在三道闸",
+          "start": 67,
+          "duration": 67
+        },
+        {
+          "text": "信心这东西",
+          "start": 134,
+          "duration": 37
+        },
+        {
+          "text": "聚起来要二十年",
+          "start": 171,
+          "duration": 52
+        },
+        {
+          "text": "散掉",
+          "start": 223,
+          "duration": 15
+        },
+        {
+          "text": "只要一个上午",
+          "start": 238,
+          "duration": 45
+        },
+        {
+          "text": "关注我",
+          "start": 283,
+          "duration": 22
+        },
+        {
+          "text": "下一期接着讲钱",
+          "start": 305,
+          "duration": 52
+        },
+        {
+          "text": "最后贷款人掏出来的钱从哪来",
+          "start": 357,
+          "duration": 97
+        },
+        {
+          "text": "印多了",
+          "start": 454,
+          "duration": 22
+        },
+        {
+          "text": "会怎样",
+          "start": 476,
+          "duration": 22
+        },
+        {
+          "text": "那叫通货膨胀",
+          "start": 498,
+          "duration": 45
+        }
+      ]
+    }
+  ]
+}

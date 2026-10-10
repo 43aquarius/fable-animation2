@@ -1,0 +1,29 @@
+{
+  "series": "经济学寓言 · 肆",
+  "episode": 4,
+  "concept": "公地悲剧",
+  "conceptEn": "TRAGEDY OF THE COMMONS",
+  "conceptSub": "公共经济学 · Hardin 1968 / Ostrom 2009 诺贝尔经济学奖",
+  "title": "草洼村",
+  "sceneOrder": ["s01","s02","s03","s04","s05","s06","s07","s08","s09","s10","s11","s12","s13","s14","s15","s16","s17","s18"],
+  "scenes": {
+    "s01": { "type": "image", "image": "s01_grass", "emphasis": ["破了产"] },
+    "s02": { "type": "image", "image": "s02_village", "emphasis": ["公家的", "自家的"] },
+    "s03": { "type": "sheepMath", "emphasis": ["一百文", "不到一文"] },
+    "s04": { "type": "sheepStack", "emphasis": ["翻了一倍", "不吃白不吃"] },
+    "s05": { "type": "image", "image": "s05_short", "emphasis": ["你先减"] },
+    "s06": { "type": "doomLoop", "emphasis": ["草越差，羊越多"] },
+    "s07": { "type": "image", "image": "s07_sand", "emphasis": ["羊价当天就崩了"] },
+    "s08": { "type": "eightySeven", "emphasis": ["八十七个几只"] },
+    "s09": { "type": "image", "image": "s09_line", "emphasis": ["柴棍画了几道线"] },
+    "s10": { "type": "rules", "emphasis": ["八十七片", "罚三倍"] },
+    "s11": { "type": "image", "image": "s11_argue", "emphasis": ["限的不是羊"] },
+    "s12": { "type": "image", "image": "s12_green", "emphasis": ["柴棍画的线"] },
+    "s13": { "type": "real", "emphasis": ["草洼村的草场"] },
+    "s14": { "type": "titleReveal", "emphasis": ["公地悲剧"] },
+    "s15": { "type": "map1", "emphasis": ["非排他性", "囚徒困境"] },
+    "s16": { "type": "hardin", "emphasis": ["村里自己管", "诺贝尔奖"] },
+    "s17": { "type": "map3", "emphasis": ["八条原则", "后代"] },
+    "s18": { "type": "outro", "emphasis": ["不需要圣人", "银行挤兑"] }
+  }
+}

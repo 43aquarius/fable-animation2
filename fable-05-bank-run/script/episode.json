@@ -1,0 +1,29 @@
+{
+  "series": "经济学寓言 · 伍",
+  "episode": 5,
+  "concept": "银行挤兑",
+  "conceptEn": "BANK RUN",
+  "conceptSub": "金融经济学 · Diamond-Dybvig 1983 / 2022 诺贝尔经济学奖",
+  "title": "同和钱庄",
+  "sceneOrder": ["s01","s02","s03","s04","s05","s06","s07","s08","s09","s10","s11","s12","s13","s14","s15","s16","s17","s18"],
+  "scenes": {
+    "s01": { "type": "image", "image": "s01_town", "emphasis": ["一句没影儿的话"] },
+    "s02": { "type": "pool", "emphasis": ["随时", "三年"] },
+    "s03": { "type": "reserve", "emphasis": ["三成现银"] },
+    "s04": { "type": "image", "image": "s04_rumor", "emphasis": ["随口一说", "都听见了"] },
+    "s05": { "type": "spread", "emphasis": ["没人去查", "只要点头"] },
+    "s06": { "type": "smartMath", "emphasis": ["万一呢", "傻子才不算"] },
+    "s07": { "type": "image", "image": "s07_queue", "emphasis": ["一条街站满"] },
+    "s08": { "type": "drain", "emphasis": ["见了底", "拿不出今天的现钱"] },
+    "s09": { "type": "image", "image": "s09_closed", "emphasis": ["干净", "挤倒"] },
+    "s10": { "type": "prophecy", "emphasis": ["自我实现的预言", "真的倒"] },
+    "s11": { "type": "mutual", "emphasis": ["联保", "替它兑银子"] },
+    "s12": { "type": "image", "image": "s12_calm", "emphasis": ["跑的理由没了"] },
+    "s13": { "type": "real", "emphasis": ["四千家", "同一批人"] },
+    "s14": { "type": "titleReveal", "emphasis": ["银行挤兑"] },
+    "s15": { "type": "map1", "emphasis": ["期限转换", "准备金", "个体理性"] },
+    "s16": { "type": "equilibria", "emphasis": ["两个结局", "最后贷款人"] },
+    "s17": { "type": "gates", "emphasis": ["三道闸", "五十万"] },
+    "s18": { "type": "outro", "emphasis": ["一个上午", "通货膨胀"] }
+  }
+}

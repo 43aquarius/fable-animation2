@@ -1,0 +1,1332 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 9807,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "image",
+      "image": "s01_grass",
+      "narration": "草原深处有个草洼村，一片大草场养活了六代人。到了第七代，村子空了。没旱灾，没蝗灾，也没坏人作恶。羊越养越多，草越吃越少，最后草根都没了。全村没一个人做错事，可全村破了产。",
+      "emphasis": [
+        "破了产"
+      ],
+      "start": 0,
+      "duration": 534,
+      "audioFrames": 516,
+      "captions": [
+        {
+          "text": "草原深处有个草洼村",
+          "start": 0,
+          "duration": 64
+        },
+        {
+          "text": "一片大草场养活了六代人",
+          "start": 64,
+          "duration": 78
+        },
+        {
+          "text": "到了第七代",
+          "start": 142,
+          "duration": 35
+        },
+        {
+          "text": "村子空了",
+          "start": 177,
+          "duration": 28
+        },
+        {
+          "text": "没旱灾",
+          "start": 205,
+          "duration": 21
+        },
+        {
+          "text": "没蝗灾",
+          "start": 226,
+          "duration": 21
+        },
+        {
+          "text": "也没坏人作恶",
+          "start": 247,
+          "duration": 42
+        },
+        {
+          "text": "羊越养越多",
+          "start": 289,
+          "duration": 35
+        },
+        {
+          "text": "草越吃越少",
+          "start": 324,
+          "duration": 35
+        },
+        {
+          "text": "最后草根都没了",
+          "start": 359,
+          "duration": 49
+        },
+        {
+          "text": "全村没一个人做错事",
+          "start": 408,
+          "duration": 64
+        },
+        {
+          "text": "可全村破了产",
+          "start": 472,
+          "duration": 42
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_village",
+      "narration": "草场是老辈传下的规矩：村后那片，谁都能放，不收一文钱。想圈自己的地，得跟村里买，贵得吓人。所以家家都认准一个理：草是公家的，羊是自家的。羊往公地放，天经地义。",
+      "emphasis": [
+        "公家的",
+        "自家的"
+      ],
+      "start": 534,
+      "duration": 482,
+      "audioFrames": 468,
+      "captions": [
+        {
+          "text": "草场是老辈传下的规矩",
+          "start": 0,
+          "duration": 70
+        },
+        {
+          "text": "村后那片",
+          "start": 70,
+          "duration": 28
+        },
+        {
+          "text": "谁都能放",
+          "start": 98,
+          "duration": 28
+        },
+        {
+          "text": "不收一文钱",
+          "start": 126,
+          "duration": 35
+        },
+        {
+          "text": "想圈自己的地",
+          "start": 161,
+          "duration": 42
+        },
+        {
+          "text": "得跟村里买",
+          "start": 203,
+          "duration": 35
+        },
+        {
+          "text": "贵得吓人",
+          "start": 238,
+          "duration": 28
+        },
+        {
+          "text": "所以家家都认准一个理",
+          "start": 266,
+          "duration": 70
+        },
+        {
+          "text": "草是公家的",
+          "start": 336,
+          "duration": 35
+        },
+        {
+          "text": "羊是自家的",
+          "start": 371,
+          "duration": 35
+        },
+        {
+          "text": "羊往公地放",
+          "start": 406,
+          "duration": 35
+        },
+        {
+          "text": "天经地义",
+          "start": 441,
+          "duration": 28
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "sheepMath",
+      "image": null,
+      "narration": "老三家先算明白了一笔账。多买一只羊羔，开春放上公地，入冬卖了，净赚一百文。羊要吃草，草场的损耗，全村八十七户一起摊，摊到他头上，不到一文。这买卖，傻子才不做。",
+      "emphasis": [
+        "一百文",
+        "不到一文"
+      ],
+      "start": 1016,
+      "duration": 504,
+      "audioFrames": 490,
+      "captions": [
+        {
+          "text": "老三家先算明白了一笔账",
+          "start": 0,
+          "duration": 80
+        },
+        {
+          "text": "多买一只羊羔",
+          "start": 80,
+          "duration": 44
+        },
+        {
+          "text": "开春放上公地",
+          "start": 124,
+          "duration": 44
+        },
+        {
+          "text": "入冬卖了",
+          "start": 168,
+          "duration": 29
+        },
+        {
+          "text": "净赚一百文",
+          "start": 197,
+          "duration": 37
+        },
+        {
+          "text": "羊要吃草",
+          "start": 234,
+          "duration": 29
+        },
+        {
+          "text": "草场的损耗",
+          "start": 263,
+          "duration": 37
+        },
+        {
+          "text": "全村八十七户一起摊",
+          "start": 300,
+          "duration": 66
+        },
+        {
+          "text": "摊到他头上",
+          "start": 366,
+          "duration": 37
+        },
+        {
+          "text": "不到一文",
+          "start": 403,
+          "duration": 29
+        },
+        {
+          "text": "这买卖",
+          "start": 432,
+          "duration": 22
+        },
+        {
+          "text": "傻子才不做",
+          "start": 454,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "sheepStack",
+      "image": null,
+      "narration": "坏就坏在，八十七户，都不是傻子。你不多养，别人也在多养，草横竖是要被吃的，不吃白不吃。那年秋天，全村的羊翻了一倍。草原看着还绿，草根已经虚了。",
+      "emphasis": [
+        "翻了一倍",
+        "不吃白不吃"
+      ],
+      "start": 1520,
+      "duration": 529,
+      "audioFrames": 515,
+      "captions": [
+        {
+          "text": "坏就坏在",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "八十七户",
+          "start": 34,
+          "duration": 34
+        },
+        {
+          "text": "都不是傻子",
+          "start": 68,
+          "duration": 43
+        },
+        {
+          "text": "你不多养",
+          "start": 111,
+          "duration": 34
+        },
+        {
+          "text": "别人也在多养",
+          "start": 145,
+          "duration": 52
+        },
+        {
+          "text": "草横竖是要被吃的",
+          "start": 197,
+          "duration": 69
+        },
+        {
+          "text": "不吃白不吃",
+          "start": 266,
+          "duration": 43
+        },
+        {
+          "text": "那年秋天",
+          "start": 309,
+          "duration": 34
+        },
+        {
+          "text": "全村的羊翻了一倍",
+          "start": 343,
+          "duration": 69
+        },
+        {
+          "text": "草原看着还绿",
+          "start": 412,
+          "duration": 52
+        },
+        {
+          "text": "草根已经虚了",
+          "start": 464,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_short",
+      "narration": "第三年，草只到脚踝。羊开始掉膘，毛色发暗。有人在祠堂里嘀咕：该少养点了。话没落地就被人顶了回去：你先减？你减一只，省下的草，也是进了别人家羊的肚子。",
+      "emphasis": [
+        "你先减"
+      ],
+      "start": 2049,
+      "duration": 520,
+      "audioFrames": 506,
+      "captions": [
+        {
+          "text": "第三年",
+          "start": 0,
+          "duration": 24
+        },
+        {
+          "text": "草只到脚踝",
+          "start": 24,
+          "duration": 40
+        },
+        {
+          "text": "羊开始掉膘",
+          "start": 64,
+          "duration": 40
+        },
+        {
+          "text": "毛色发暗",
+          "start": 104,
+          "duration": 32
+        },
+        {
+          "text": "有人在祠堂里嘀咕",
+          "start": 136,
+          "duration": 64
+        },
+        {
+          "text": "该少养点了",
+          "start": 200,
+          "duration": 40
+        },
+        {
+          "text": "话没落地就被人顶了回去",
+          "start": 240,
+          "duration": 88
+        },
+        {
+          "text": "你先减",
+          "start": 328,
+          "duration": 24
+        },
+        {
+          "text": "你减一只",
+          "start": 352,
+          "duration": 32
+        },
+        {
+          "text": "省下的草",
+          "start": 384,
+          "duration": 32
+        },
+        {
+          "text": "也是进了别人家羊的肚子",
+          "start": 416,
+          "duration": 88
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "doomLoop",
+      "image": null,
+      "narration": "掉膘的羊卖不上价，村里人想的办法，是再添几只，把总收入凑回来。于是草越差，羊越多；羊越多，草越差。这个圈，村里人转了五年，谁也停不下来。",
+      "emphasis": [
+        "草越差，羊越多"
+      ],
+      "start": 2569,
+      "duration": 466,
+      "audioFrames": 452,
+      "captions": [
+        {
+          "text": "掉膘的羊卖不上价",
+          "start": 0,
+          "duration": 63
+        },
+        {
+          "text": "村里人想的办法",
+          "start": 63,
+          "duration": 56
+        },
+        {
+          "text": "是再添几只",
+          "start": 119,
+          "duration": 40
+        },
+        {
+          "text": "把总收入凑回来",
+          "start": 159,
+          "duration": 56
+        },
+        {
+          "text": "于是草越差",
+          "start": 215,
+          "duration": 40
+        },
+        {
+          "text": "羊越多",
+          "start": 255,
+          "duration": 24
+        },
+        {
+          "text": "羊越多",
+          "start": 279,
+          "duration": 24
+        },
+        {
+          "text": "草越差",
+          "start": 303,
+          "duration": 24
+        },
+        {
+          "text": "这个圈",
+          "start": 327,
+          "duration": 24
+        },
+        {
+          "text": "村里人转了五年",
+          "start": 351,
+          "duration": 56
+        },
+        {
+          "text": "谁也停不下来",
+          "start": 407,
+          "duration": 48
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "image",
+      "image": "s07_sand",
+      "narration": "第七年开春，草没有长出来。风一起，沙子埋了脚背。羊没草吃，全村抛售，羊价当天就崩了。卖羊的钱撑不到半年，八十七户，走的走，散的散。",
+      "emphasis": [
+        "羊价当天就崩了"
+      ],
+      "start": 3035,
+      "duration": 489,
+      "audioFrames": 475,
+      "captions": [
+        {
+          "text": "第七年开春",
+          "start": 0,
+          "duration": 44
+        },
+        {
+          "text": "草没有长出来",
+          "start": 44,
+          "duration": 53
+        },
+        {
+          "text": "风一起",
+          "start": 97,
+          "duration": 26
+        },
+        {
+          "text": "沙子埋了脚背",
+          "start": 123,
+          "duration": 53
+        },
+        {
+          "text": "羊没草吃",
+          "start": 176,
+          "duration": 35
+        },
+        {
+          "text": "全村抛售",
+          "start": 211,
+          "duration": 35
+        },
+        {
+          "text": "羊价当天就崩了",
+          "start": 246,
+          "duration": 62
+        },
+        {
+          "text": "卖羊的钱撑不到半年",
+          "start": 308,
+          "duration": 79
+        },
+        {
+          "text": "八十七户",
+          "start": 387,
+          "duration": 35
+        },
+        {
+          "text": "走的走",
+          "start": 422,
+          "duration": 26
+        },
+        {
+          "text": "散的散",
+          "start": 448,
+          "duration": 26
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "eightySeven",
+      "image": null,
+      "narration": "后来有外乡人路过废墟，问守坟的老头：这村子，毁于天灾还是人祸？老头想了半天：都不是。每家都只多放了那么几只。八十七家加在一起，就是八十七个几只。草场就是这么死的。",
+      "emphasis": [
+        "八十七个几只"
+      ],
+      "start": 3524,
+      "duration": 472,
+      "audioFrames": 458,
+      "captions": [
+        {
+          "text": "后来有外乡人路过废墟",
+          "start": 0,
+          "duration": 65
+        },
+        {
+          "text": "问守坟的老头",
+          "start": 65,
+          "duration": 39
+        },
+        {
+          "text": "这村子",
+          "start": 104,
+          "duration": 19
+        },
+        {
+          "text": "毁于天灾还是人祸",
+          "start": 123,
+          "duration": 52
+        },
+        {
+          "text": "老头想了半天",
+          "start": 175,
+          "duration": 39
+        },
+        {
+          "text": "都不是",
+          "start": 214,
+          "duration": 19
+        },
+        {
+          "text": "每家都只多放了那么几只",
+          "start": 233,
+          "duration": 71
+        },
+        {
+          "text": "八十七家加在一起",
+          "start": 304,
+          "duration": 52
+        },
+        {
+          "text": "就是八十七个几只",
+          "start": 356,
+          "duration": 52
+        },
+        {
+          "text": "草场就是这么死的",
+          "start": 408,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "image",
+      "image": "s09_line",
+      "narration": "再后来，县里派来个年轻人，把没走的二十几户叫进坍了半边的祠堂。他没骂人，也没提收地的事，就蹲在地上，拿柴棍画了几道线。",
+      "emphasis": [
+        "柴棍画了几道线"
+      ],
+      "start": 3996,
+      "duration": 326,
+      "audioFrames": 312,
+      "captions": [
+        {
+          "text": "再后来",
+          "start": 0,
+          "duration": 18
+        },
+        {
+          "text": "县里派来个年轻人",
+          "start": 18,
+          "duration": 48
+        },
+        {
+          "text": "把没走的二十几户叫",
+          "start": 66,
+          "duration": 54
+        },
+        {
+          "text": "进坍了半边的祠堂",
+          "start": 120,
+          "duration": 48
+        },
+        {
+          "text": "他没骂人",
+          "start": 168,
+          "duration": 24
+        },
+        {
+          "text": "也没提收地的事",
+          "start": 192,
+          "duration": 42
+        },
+        {
+          "text": "就蹲在地上",
+          "start": 234,
+          "duration": 30
+        },
+        {
+          "text": "拿柴棍画了几道线",
+          "start": 264,
+          "duration": 48
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "rules",
+      "image": null,
+      "narration": "草场划成八十七片，一家一片，写进村簿。轮着放，春天啃东坡，秋天换西坡。两个后生当护草员，工钱全村摊。羊进错了片，罚三倍。羊数也不由各家定，每年开春，按草的长势定。",
+      "emphasis": [
+        "八十七片",
+        "罚三倍"
+      ],
+      "start": 4322,
+      "duration": 589,
+      "audioFrames": 575,
+      "captions": [
+        {
+          "text": "草场划成八十七片",
+          "start": 0,
+          "duration": 68
+        },
+        {
+          "text": "一家一片",
+          "start": 68,
+          "duration": 34
+        },
+        {
+          "text": "写进村簿",
+          "start": 102,
+          "duration": 34
+        },
+        {
+          "text": "轮着放",
+          "start": 136,
+          "duration": 25
+        },
+        {
+          "text": "春天啃东坡",
+          "start": 161,
+          "duration": 42
+        },
+        {
+          "text": "秋天换西坡",
+          "start": 203,
+          "duration": 42
+        },
+        {
+          "text": "两个后生当护草员",
+          "start": 245,
+          "duration": 68
+        },
+        {
+          "text": "工钱全村摊",
+          "start": 313,
+          "duration": 42
+        },
+        {
+          "text": "羊进错了片",
+          "start": 355,
+          "duration": 42
+        },
+        {
+          "text": "罚三倍",
+          "start": 397,
+          "duration": 25
+        },
+        {
+          "text": "羊数也不由各家定",
+          "start": 422,
+          "duration": 68
+        },
+        {
+          "text": "每年开春",
+          "start": 490,
+          "duration": 34
+        },
+        {
+          "text": "按草的长势定",
+          "start": 524,
+          "duration": 51
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "image",
+      "image": "s11_argue",
+      "narration": "有人拍了桌子：羊是我自家的，凭什么限我？年轻人说：对，羊是你的。可草没了，你的羊吃什么？限的不是羊，是保住你家羊的草。吵了三天，二十几户，按了手印。",
+      "emphasis": [
+        "限的不是羊"
+      ],
+      "start": 4911,
+      "duration": 494,
+      "audioFrames": 480,
+      "captions": [
+        {
+          "text": "有人拍了桌子",
+          "start": 0,
+          "duration": 47
+        },
+        {
+          "text": "羊是我自家的",
+          "start": 47,
+          "duration": 47
+        },
+        {
+          "text": "凭什么限我",
+          "start": 94,
+          "duration": 39
+        },
+        {
+          "text": "年轻人说",
+          "start": 133,
+          "duration": 31
+        },
+        {
+          "text": "对",
+          "start": 164,
+          "duration": 10
+        },
+        {
+          "text": "羊是你的",
+          "start": 174,
+          "duration": 31
+        },
+        {
+          "text": "可草没了",
+          "start": 205,
+          "duration": 31
+        },
+        {
+          "text": "你的羊吃什么",
+          "start": 236,
+          "duration": 47
+        },
+        {
+          "text": "限的不是羊",
+          "start": 283,
+          "duration": 39
+        },
+        {
+          "text": "是保住你家羊的草",
+          "start": 322,
+          "duration": 63
+        },
+        {
+          "text": "吵了三天",
+          "start": 385,
+          "duration": 31
+        },
+        {
+          "text": "二十几户",
+          "start": 416,
+          "duration": 31
+        },
+        {
+          "text": "按了手印",
+          "start": 447,
+          "duration": 31
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "image",
+      "image": "s12_green",
+      "narration": "三年，草过脚踝。五年，草过膝，羊群比崩盘那年还壮。十年，草洼村的草场，比老照片里祖上那辈还厚。这回没靠官府，也没靠圣人，靠的是地上那几道柴棍画的线。",
+      "emphasis": [
+        "柴棍画的线"
+      ],
+      "start": 5405,
+      "duration": 578,
+      "audioFrames": 554,
+      "captions": [
+        {
+          "text": "三年",
+          "start": 0,
+          "duration": 18
+        },
+        {
+          "text": "草过脚踝",
+          "start": 18,
+          "duration": 35
+        },
+        {
+          "text": "五年",
+          "start": 53,
+          "duration": 18
+        },
+        {
+          "text": "草过膝",
+          "start": 71,
+          "duration": 26
+        },
+        {
+          "text": "羊群比崩盘那年还壮",
+          "start": 97,
+          "duration": 79
+        },
+        {
+          "text": "十年",
+          "start": 176,
+          "duration": 18
+        },
+        {
+          "text": "草洼村的草场",
+          "start": 194,
+          "duration": 53
+        },
+        {
+          "text": "比老照片里祖上那辈还厚",
+          "start": 247,
+          "duration": 97
+        },
+        {
+          "text": "这回没靠官府",
+          "start": 344,
+          "duration": 53
+        },
+        {
+          "text": "也没靠圣人",
+          "start": 397,
+          "duration": 44
+        },
+        {
+          "text": "靠的是地上那几道柴棍画的线",
+          "start": 441,
+          "duration": 114
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "real",
+      "image": null,
+      "narration": "故事讲完了。你以为这是村里的老黄历？太平洋的鱼，谁都能下网，捞上来归你，空了归大家。大气层，谁都能排，省下的成本归你，热了归全球。城市里堆成山的共享单车，照片你刷到过。每一片，都是草洼村的草场。",
+      "emphasis": [
+        "草洼村的草场"
+      ],
+      "start": 5983,
+      "duration": 598,
+      "audioFrames": 584,
+      "captions": [
+        {
+          "text": "故事讲完了",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "你以为这是村里的老黄历",
+          "start": 35,
+          "duration": 77
+        },
+        {
+          "text": "太平洋的鱼",
+          "start": 112,
+          "duration": 35
+        },
+        {
+          "text": "谁都能下网",
+          "start": 147,
+          "duration": 35
+        },
+        {
+          "text": "捞上来归你",
+          "start": 182,
+          "duration": 35
+        },
+        {
+          "text": "空了归大家",
+          "start": 217,
+          "duration": 35
+        },
+        {
+          "text": "大气层",
+          "start": 252,
+          "duration": 21
+        },
+        {
+          "text": "谁都能排",
+          "start": 273,
+          "duration": 28
+        },
+        {
+          "text": "省下的成本归你",
+          "start": 301,
+          "duration": 49
+        },
+        {
+          "text": "热了归全球",
+          "start": 350,
+          "duration": 35
+        },
+        {
+          "text": "城市里堆成山的共享单车",
+          "start": 385,
+          "duration": 77
+        },
+        {
+          "text": "照片你刷到过",
+          "start": 462,
+          "duration": 42
+        },
+        {
+          "text": "每一片",
+          "start": 504,
+          "duration": 21
+        },
+        {
+          "text": "都是草洼村的草场",
+          "start": 525,
+          "duration": 56
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "titleReveal",
+      "image": null,
+      "narration": "这个没有坏人也能发生的悲剧，经济学里有个名字，叫公地悲剧。",
+      "emphasis": [
+        "公地悲剧"
+      ],
+      "start": 6581,
+      "duration": 204,
+      "audioFrames": 156,
+      "captions": []
+    },
+    {
+      "id": "s15",
+      "type": "map1",
+      "image": null,
+      "narration": "拆开讲。草场谁都能用，这叫非排他性。多养一只羊，收益归自己，成本大家摊，这叫收益私有、成本公有。谁先减羊谁吃亏，谁也不会先停手，这叫囚徒困境。个人的算盘越打越精，公共的家底越算越薄。",
+      "emphasis": [
+        "非排他性",
+        "囚徒困境"
+      ],
+      "start": 6785,
+      "duration": 621,
+      "audioFrames": 603,
+      "captions": [
+        {
+          "text": "拆开讲",
+          "start": 0,
+          "duration": 23
+        },
+        {
+          "text": "草场谁都能用",
+          "start": 23,
+          "duration": 46
+        },
+        {
+          "text": "这叫非排他性",
+          "start": 69,
+          "duration": 46
+        },
+        {
+          "text": "多养一只羊",
+          "start": 115,
+          "duration": 39
+        },
+        {
+          "text": "收益归自己",
+          "start": 154,
+          "duration": 39
+        },
+        {
+          "text": "成本大家摊",
+          "start": 193,
+          "duration": 39
+        },
+        {
+          "text": "这叫收益私有",
+          "start": 232,
+          "duration": 46
+        },
+        {
+          "text": "成本公有",
+          "start": 278,
+          "duration": 31
+        },
+        {
+          "text": "谁先减羊谁吃亏",
+          "start": 309,
+          "duration": 54
+        },
+        {
+          "text": "谁也不会先停手",
+          "start": 363,
+          "duration": 54
+        },
+        {
+          "text": "这叫囚徒困境",
+          "start": 417,
+          "duration": 46
+        },
+        {
+          "text": "个人的算盘越打越精",
+          "start": 463,
+          "duration": 70
+        },
+        {
+          "text": "公共的家底越算越薄",
+          "start": 533,
+          "duration": 70
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "hardin",
+      "image": null,
+      "narration": "1968年，生物学家哈丁在《科学》杂志上写了篇六页的论文，标题就叫《公地悲剧》。他说，公地只有两条出路：要么卖掉，要么归官。四十年后，政治学家奥斯特罗姆跑了瑞士的高山草场、日本的村有山林、西班牙的灌溉渠，发现这些公地，有的用了一千年都没坏。她的答案：村里自己管。2009年，她成了第一个拿诺贝尔经济学奖的女人。",
+      "emphasis": [
+        "村里自己管",
+        "诺贝尔奖"
+      ],
+      "start": 7406,
+      "duration": 936,
+      "audioFrames": 918,
+      "captions": [
+        {
+          "text": "1968年",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "生物学家哈丁在科学杂",
+          "start": 34,
+          "duration": 69
+        },
+        {
+          "text": "志上写了篇六页的论文",
+          "start": 103,
+          "duration": 69
+        },
+        {
+          "text": "标题就叫公地悲剧",
+          "start": 172,
+          "duration": 55
+        },
+        {
+          "text": "他说",
+          "start": 227,
+          "duration": 14
+        },
+        {
+          "text": "公地只有两条出路",
+          "start": 241,
+          "duration": 55
+        },
+        {
+          "text": "要么卖掉",
+          "start": 296,
+          "duration": 27
+        },
+        {
+          "text": "要么归官",
+          "start": 323,
+          "duration": 27
+        },
+        {
+          "text": "四十年后",
+          "start": 350,
+          "duration": 27
+        },
+        {
+          "text": "政治学家奥斯特罗姆",
+          "start": 377,
+          "duration": 62
+        },
+        {
+          "text": "跑了瑞士的高山草场",
+          "start": 439,
+          "duration": 62
+        },
+        {
+          "text": "日本的村有山林",
+          "start": 501,
+          "duration": 48
+        },
+        {
+          "text": "西班牙的灌溉渠",
+          "start": 549,
+          "duration": 48
+        },
+        {
+          "text": "发现这些公地",
+          "start": 597,
+          "duration": 41
+        },
+        {
+          "text": "有的用了一千年都没坏",
+          "start": 638,
+          "duration": 69
+        },
+        {
+          "text": "她的答案",
+          "start": 707,
+          "duration": 27
+        },
+        {
+          "text": "村里自己管",
+          "start": 734,
+          "duration": 34
+        },
+        {
+          "text": "2009年",
+          "start": 768,
+          "duration": 34
+        },
+        {
+          "text": "她成了第一个拿诺贝",
+          "start": 802,
+          "duration": 62
+        },
+        {
+          "text": "尔经济学奖的女人",
+          "start": 864,
+          "duration": 55
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "map3",
+      "image": null,
+      "narration": "奥斯特罗姆把这些土办法总结成八条原则，草洼村全占了。边界划清楚：八十七片，一家一片。规矩自己定：写进村簿。监督在眼皮底下：护草员是自家后生。犯规真罚：三倍。你今天的渔业配额、碳交易、小区业委会，都是那几道柴棍线的后代。",
+      "emphasis": [
+        "八条原则",
+        "后代"
+      ],
+      "start": 8342,
+      "duration": 746,
+      "audioFrames": 728,
+      "captions": [
+        {
+          "text": "奥斯特罗姆把这些土",
+          "start": 0,
+          "duration": 70
+        },
+        {
+          "text": "办法总结成八条原则",
+          "start": 70,
+          "duration": 70
+        },
+        {
+          "text": "草洼村全占了",
+          "start": 140,
+          "duration": 46
+        },
+        {
+          "text": "边界划清楚",
+          "start": 186,
+          "duration": 39
+        },
+        {
+          "text": "八十七片",
+          "start": 225,
+          "duration": 31
+        },
+        {
+          "text": "一家一片",
+          "start": 256,
+          "duration": 31
+        },
+        {
+          "text": "规矩自己定",
+          "start": 287,
+          "duration": 39
+        },
+        {
+          "text": "写进村簿",
+          "start": 326,
+          "duration": 31
+        },
+        {
+          "text": "监督在眼皮底下",
+          "start": 357,
+          "duration": 54
+        },
+        {
+          "text": "护草员是自家后生",
+          "start": 411,
+          "duration": 62
+        },
+        {
+          "text": "犯规真罚",
+          "start": 473,
+          "duration": 31
+        },
+        {
+          "text": "三倍",
+          "start": 504,
+          "duration": 15
+        },
+        {
+          "text": "你今天的渔业配额",
+          "start": 519,
+          "duration": 62
+        },
+        {
+          "text": "碳交易",
+          "start": 581,
+          "duration": 23
+        },
+        {
+          "text": "小区业委会",
+          "start": 604,
+          "duration": 39
+        },
+        {
+          "text": "都是那几道柴棍线的后代",
+          "start": 643,
+          "duration": 85
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "outro",
+      "image": null,
+      "narration": "草洼村的故事，哈丁说无解，奥斯特罗姆说有解，解就在人怎么相处。一群人守着一份公共的家底，坏，不需要坏人；救回来，也不需要圣人。关注我。下一期讲钱的事：一家好好的银行，怎么被一句闲话，三天挤倒。那叫银行挤兑。",
+      "emphasis": [
+        "不需要圣人",
+        "银行挤兑"
+      ],
+      "start": 9088,
+      "duration": 719,
+      "audioFrames": 641,
+      "captions": [
+        {
+          "text": "草洼村的故事",
+          "start": 0,
+          "duration": 44
+        },
+        {
+          "text": "哈丁说无解",
+          "start": 44,
+          "duration": 36
+        },
+        {
+          "text": "奥斯特罗姆说有解",
+          "start": 80,
+          "duration": 58
+        },
+        {
+          "text": "解就在人怎么相处",
+          "start": 138,
+          "duration": 58
+        },
+        {
+          "text": "一群人守着一份公共的家底",
+          "start": 196,
+          "duration": 87
+        },
+        {
+          "text": "坏",
+          "start": 283,
+          "duration": 10
+        },
+        {
+          "text": "不需要坏人",
+          "start": 293,
+          "duration": 36
+        },
+        {
+          "text": "救回来",
+          "start": 329,
+          "duration": 22
+        },
+        {
+          "text": "也不需要圣人",
+          "start": 351,
+          "duration": 44
+        },
+        {
+          "text": "关注我",
+          "start": 395,
+          "duration": 22
+        },
+        {
+          "text": "下一期讲钱的事",
+          "start": 417,
+          "duration": 51
+        },
+        {
+          "text": "一家好好的银行",
+          "start": 468,
+          "duration": 51
+        },
+        {
+          "text": "怎么被一句闲话",
+          "start": 519,
+          "duration": 51
+        },
+        {
+          "text": "三天挤倒",
+          "start": 570,
+          "duration": 29
+        },
+        {
+          "text": "那叫银行挤兑",
+          "start": 599,
+          "duration": 44
+        }
+      ]
+    }
+  ]
+}
