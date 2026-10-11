@@ -1,0 +1,1646 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 7681,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "hook",
+      "image": null,
+      "ui": {
+        "lines": [
+          "今天一块糖",
+          "明天两块糖"
+        ],
+        "sub": "杏花村私塾 · 一道怪题"
+      },
+      "narration": "私塾先生出过一道怪题：这块饴糖，今天给你一块，或者，明天给你两块。全班都伸手要今天的。只有一个最馋的孩子，每次都等到明天。十年后，荒年里全村人饿得卖田，这个孩子，却粮仓满满。他不是意志力强，他是有一样别人没有的东西。",
+      "emphasis": [
+        "最馋",
+        "粮仓满满"
+      ],
+      "start": 0,
+      "duration": 515,
+      "audioFrames": 501,
+      "captions": [
+        {
+          "text": "私塾先生出过一道怪题",
+          "start": 0,
+          "duration": 67
+        },
+        {
+          "text": "这块饴糖",
+          "start": 73,
+          "duration": 29
+        },
+        {
+          "text": "今天给你一块",
+          "start": 104,
+          "duration": 29
+        },
+        {
+          "text": "或者",
+          "start": 135,
+          "duration": 18
+        },
+        {
+          "text": "明天给你两块",
+          "start": 155,
+          "duration": 36
+        },
+        {
+          "text": "全班都伸手要今天的",
+          "start": 198,
+          "duration": 62
+        },
+        {
+          "text": "只有一个最馋的孩子",
+          "start": 267,
+          "duration": 47
+        },
+        {
+          "text": "每次都等到明天",
+          "start": 316,
+          "duration": 47
+        },
+        {
+          "text": "十年后",
+          "start": 370,
+          "duration": 30
+        },
+        {
+          "text": "荒年里全村人饿得卖田",
+          "start": 402,
+          "duration": 65
+        },
+        {
+          "text": "这个孩子",
+          "start": 469,
+          "duration": 28
+        },
+        {
+          "text": "却粮仓满满",
+          "start": 499,
+          "duration": 44
+        },
+        {
+          "text": "他不是意志力强",
+          "start": 550,
+          "duration": 41
+        },
+        {
+          "text": "他是有一样别人没有的东西",
+          "start": 592,
+          "duration": 64
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_school",
+      "ui": null,
+      "narration": "徽州山里有个杏花村。村口私塾，程先生教书，兜里常揣着饴糖。他爱出那道题：伸出手，掌心一块糖。孩子若要，当场吃掉。孩子若忍，第二天给两块。十年里，全村孩子都被考过。",
+      "emphasis": [
+        "两块",
+        "都考过"
+      ],
+      "start": 515,
+      "duration": 401,
+      "audioFrames": 387,
+      "captions": [
+        {
+          "text": "徽州山里有个杏花村",
+          "start": 0,
+          "duration": 61
+        },
+        {
+          "text": "村口私塾",
+          "start": 68,
+          "duration": 35
+        },
+        {
+          "text": "程先生教书",
+          "start": 104,
+          "duration": 35
+        },
+        {
+          "text": "兜里常揣着饴糖",
+          "start": 141,
+          "duration": 48
+        },
+        {
+          "text": "他爱出那道题",
+          "start": 196,
+          "duration": 42
+        },
+        {
+          "text": "伸出手",
+          "start": 244,
+          "duration": 28
+        },
+        {
+          "text": "掌心一块糖",
+          "start": 274,
+          "duration": 41
+        },
+        {
+          "text": "孩子若要",
+          "start": 322,
+          "duration": 27
+        },
+        {
+          "text": "当场吃掉",
+          "start": 351,
+          "duration": 34
+        },
+        {
+          "text": "孩子若忍",
+          "start": 392,
+          "duration": 26
+        },
+        {
+          "text": "第二天给两块",
+          "start": 420,
+          "duration": 38
+        },
+        {
+          "text": "十年里",
+          "start": 465,
+          "duration": 27
+        },
+        {
+          "text": "全村孩子都被考过",
+          "start": 493,
+          "duration": 51
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_candy",
+      "ui": null,
+      "narration": "要今天那块的，十个里有九个。孩子嘛，糖到了嘴边，谁能等。到手就剥进嘴里，甜半天。第二天先生真掏出两块，他们眼巴巴看着，也就咽口口水完事。下回再考，还是要今天的。",
+      "emphasis": [
+        "十个里有九个"
+      ],
+      "start": 916,
+      "duration": 375,
+      "audioFrames": 361,
+      "captions": [
+        {
+          "text": "要今天那块的",
+          "start": 0,
+          "duration": 30
+        },
+        {
+          "text": "十个里有九个",
+          "start": 32,
+          "duration": 44
+        },
+        {
+          "text": "孩子嘛",
+          "start": 83,
+          "duration": 25
+        },
+        {
+          "text": "糖到了嘴边",
+          "start": 109,
+          "duration": 33
+        },
+        {
+          "text": "谁能等",
+          "start": 144,
+          "duration": 29
+        },
+        {
+          "text": "到手就剥进嘴里",
+          "start": 180,
+          "duration": 39
+        },
+        {
+          "text": "甜半天",
+          "start": 221,
+          "duration": 33
+        },
+        {
+          "text": "第二天先生真掏出两块",
+          "start": 261,
+          "duration": 65
+        },
+        {
+          "text": "他们眼巴巴看着",
+          "start": 328,
+          "duration": 36
+        },
+        {
+          "text": "也就咽口口水完事",
+          "start": 365,
+          "duration": 54
+        },
+        {
+          "text": "下回再考",
+          "start": 426,
+          "duration": 29
+        },
+        {
+          "text": "还是要今天的",
+          "start": 457,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_xiaoman",
+      "ui": null,
+      "narration": "只有小满不一样。这孩子出了名的馋，可每次都把伸出去的手缩回来，说：先生，我要明天的。第二天拿到两块糖，他也馋得直咽口水，却只吃一块，另一块收进铁盒。村里人都觉得这孩子怪。",
+      "emphasis": [
+        "要明天的",
+        "收进铁盒"
+      ],
+      "start": 1291,
+      "duration": 388,
+      "audioFrames": 374,
+      "captions": [
+        {
+          "text": "只有小满不一样",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "这孩子出了名的馋",
+          "start": 47,
+          "duration": 45
+        },
+        {
+          "text": "可每次都把伸出去的手缩回来",
+          "start": 94,
+          "duration": 60
+        },
+        {
+          "text": "说",
+          "start": 156,
+          "duration": 27
+        },
+        {
+          "text": "先生",
+          "start": 190,
+          "duration": 20
+        },
+        {
+          "text": "我要明天的",
+          "start": 212,
+          "duration": 30
+        },
+        {
+          "text": "第二天拿到两块糖",
+          "start": 249,
+          "duration": 45
+        },
+        {
+          "text": "他也馋得直咽口水",
+          "start": 296,
+          "duration": 41
+        },
+        {
+          "text": "却只吃一块",
+          "start": 339,
+          "duration": 30
+        },
+        {
+          "text": "另一块收进铁盒",
+          "start": 371,
+          "duration": 50
+        },
+        {
+          "text": "村里人都觉得这孩子怪",
+          "start": 427,
+          "duration": 71
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "先生的坏实验",
+        "steps": [
+          {
+            "head": "两块改三块",
+            "note": "还是等明天"
+          },
+          {
+            "head": "三块改四块",
+            "note": "他还是要明天的"
+          },
+          {
+            "head": "先生憋不住了",
+            "note": "这孩子怎么忍得住？"
+          }
+        ]
+      },
+      "narration": "先生起先当他意志力好。后来发现不对。有一回先生故意使坏：明天的两块改成三块，再改成四块，只求他今天吃一块试试。小满还是摇头。先生憋不住问他：你这孩子，怎么忍得住？",
+      "emphasis": [
+        "故意使坏",
+        "忍不住"
+      ],
+      "start": 1679,
+      "duration": 379,
+      "audioFrames": 365,
+      "captions": [
+        {
+          "text": "先生起先当他意志力好",
+          "start": 0,
+          "duration": 67
+        },
+        {
+          "text": "后来发现不对",
+          "start": 74,
+          "duration": 34
+        },
+        {
+          "text": "有一回先生故意使坏",
+          "start": 115,
+          "duration": 63
+        },
+        {
+          "text": "明天的两块改成三块",
+          "start": 184,
+          "duration": 57
+        },
+        {
+          "text": "再改成四块",
+          "start": 243,
+          "duration": 34
+        },
+        {
+          "text": "只求他今天吃一块试试",
+          "start": 279,
+          "duration": 52
+        },
+        {
+          "text": "小满还是摇头",
+          "start": 338,
+          "duration": 46
+        },
+        {
+          "text": "先生憋不住问他",
+          "start": 391,
+          "duration": 41
+        },
+        {
+          "text": "你这孩子",
+          "start": 439,
+          "duration": 29
+        },
+        {
+          "text": "怎么忍得住",
+          "start": 469,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_notebook",
+      "ui": null,
+      "narration": "小满从怀里掏出个本子。本子上记着一笔账：某月某日，忍一块，得两块，存一块。翻到后头，还有一行小字：跟先生约好，往后每日的糖，先记账，月底一总取。先生这才明白，这孩子不是忍，他是把诱惑挪走了。",
+      "emphasis": [
+        "糖票",
+        "不是忍"
+      ],
+      "start": 2058,
+      "duration": 435,
+      "audioFrames": 421,
+      "captions": [
+        {
+          "text": "小满从怀里掏出个本子",
+          "start": 0,
+          "duration": 59
+        },
+        {
+          "text": "本子上记着一笔账",
+          "start": 65,
+          "duration": 47
+        },
+        {
+          "text": "某月某日",
+          "start": 120,
+          "duration": 30
+        },
+        {
+          "text": "忍一块",
+          "start": 151,
+          "duration": 23
+        },
+        {
+          "text": "得两块",
+          "start": 176,
+          "duration": 27
+        },
+        {
+          "text": "存一块",
+          "start": 205,
+          "duration": 28
+        },
+        {
+          "text": "翻到后头",
+          "start": 240,
+          "duration": 27
+        },
+        {
+          "text": "还有一行小字",
+          "start": 268,
+          "duration": 35
+        },
+        {
+          "text": "跟先生约好",
+          "start": 310,
+          "duration": 29
+        },
+        {
+          "text": "往后每日的糖",
+          "start": 341,
+          "duration": 41
+        },
+        {
+          "text": "先记账",
+          "start": 384,
+          "duration": 24
+        },
+        {
+          "text": "月底一总取",
+          "start": 409,
+          "duration": 43
+        },
+        {
+          "text": "先生这才明白",
+          "start": 459,
+          "duration": 37
+        },
+        {
+          "text": "这孩子不是忍",
+          "start": 498,
+          "duration": 36
+        },
+        {
+          "text": "他是把诱惑挪走了",
+          "start": 536,
+          "duration": 49
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "小满的秘密",
+        "wrong": "他意志力强，忍得住馋",
+        "right": "他不跟馋当面较劲",
+        "note": "记在纸上的糖，就不再是嘴边的糖"
+      },
+      "narration": "那本子，先生后来给它起了个名，叫糖票。小满的馋没比谁少，他只是不跟自己的馋当面较劲。该到手没到手的糖，记在纸上，就不再是嘴边的糖。月底取糖的时候，他多出来的，一年比一年多。",
+      "emphasis": [
+        "不是忍",
+        "挪走了"
+      ],
+      "start": 2493,
+      "duration": 413,
+      "audioFrames": 399,
+      "captions": [
+        {
+          "text": "那本子",
+          "start": 0,
+          "duration": 23
+        },
+        {
+          "text": "先生后来给它起了个名",
+          "start": 25,
+          "duration": 59
+        },
+        {
+          "text": "叫糖票",
+          "start": 86,
+          "duration": 34
+        },
+        {
+          "text": "小满的馋没比谁少",
+          "start": 127,
+          "duration": 57
+        },
+        {
+          "text": "他只是不跟自己的馋当面较劲",
+          "start": 185,
+          "duration": 72
+        },
+        {
+          "text": "该到手没到手的糖",
+          "start": 264,
+          "duration": 48
+        },
+        {
+          "text": "记在纸上",
+          "start": 314,
+          "duration": 28
+        },
+        {
+          "text": "就不再是嘴边的糖",
+          "start": 343,
+          "duration": 49
+        },
+        {
+          "text": "月底取糖的时候",
+          "start": 399,
+          "duration": 40
+        },
+        {
+          "text": "他多出来的",
+          "start": 441,
+          "duration": 27
+        },
+        {
+          "text": "一年比一年多",
+          "start": 470,
+          "duration": 44
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "image",
+      "image": "s08_granary",
+      "ui": null,
+      "narration": "十年过去，小满长大，接了家里的粮铺。这一年，皖南大旱，春荒来得又急又狠。粮价一天一个样。村里人饿得慌，有人开始卖田。好田，贱卖，换粮度命。买田的贩子把价压到脚底板。",
+      "emphasis": [
+        "三倍",
+        "账上记一笔"
+      ],
+      "start": 2906,
+      "duration": 383,
+      "audioFrames": 369,
+      "captions": [
+        {
+          "text": "十年过去",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "小满长大",
+          "start": 31,
+          "duration": 30
+        },
+        {
+          "text": "接了家里的粮铺",
+          "start": 63,
+          "duration": 41
+        },
+        {
+          "text": "这一年",
+          "start": 111,
+          "duration": 26
+        },
+        {
+          "text": "皖南大旱",
+          "start": 138,
+          "duration": 30
+        },
+        {
+          "text": "春荒来得又急又狠",
+          "start": 170,
+          "duration": 45
+        },
+        {
+          "text": "粮价一天一个样",
+          "start": 222,
+          "duration": 43
+        },
+        {
+          "text": "村里人饿得慌",
+          "start": 272,
+          "duration": 37
+        },
+        {
+          "text": "有人开始卖田",
+          "start": 311,
+          "duration": 39
+        },
+        {
+          "text": "好田",
+          "start": 357,
+          "duration": 22
+        },
+        {
+          "text": "贱卖",
+          "start": 380,
+          "duration": 20
+        },
+        {
+          "text": "换粮度命",
+          "start": 402,
+          "duration": 34
+        },
+        {
+          "text": "买田的贩子把价压到脚底板",
+          "start": 443,
+          "duration": 75
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "image",
+      "image": "s09_sellland",
+      "ui": null,
+      "narration": "村里人不知道，小满的粮铺，秋收时就囤了粮。他算了笔账：春荒一斗米的价钱，是秋收的三倍。他秋收买粮，账上记一笔，春荒不动粮。饿肚子的日子，他一家喝粥掺豆，粮仓的门，一天都没开。",
+      "emphasis": [
+        "门，一天都没开"
+      ],
+      "start": 3289,
+      "duration": 412,
+      "audioFrames": 398,
+      "captions": [
+        {
+          "text": "村里人不知道",
+          "start": 0,
+          "duration": 33
+        },
+        {
+          "text": "小满的粮铺",
+          "start": 35,
+          "duration": 32
+        },
+        {
+          "text": "秋收时就囤了粮",
+          "start": 68,
+          "duration": 52
+        },
+        {
+          "text": "他算了笔账",
+          "start": 127,
+          "duration": 34
+        },
+        {
+          "text": "春荒一斗米的价钱",
+          "start": 169,
+          "duration": 48
+        },
+        {
+          "text": "是秋收的三倍",
+          "start": 219,
+          "duration": 39
+        },
+        {
+          "text": "他秋收买粮",
+          "start": 265,
+          "duration": 36
+        },
+        {
+          "text": "账上记一笔",
+          "start": 302,
+          "duration": 38
+        },
+        {
+          "text": "春荒不动粮",
+          "start": 342,
+          "duration": 42
+        },
+        {
+          "text": "饿肚子的日子",
+          "start": 390,
+          "duration": 32
+        },
+        {
+          "text": "他一家喝粥掺豆",
+          "start": 424,
+          "duration": 41
+        },
+        {
+          "text": "粮仓的门",
+          "start": 467,
+          "duration": 33
+        },
+        {
+          "text": "一天都没开",
+          "start": 502,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "priceLadder",
+      "image": null,
+      "ui": {
+        "title": "一斗米的价",
+        "bars": [
+          {
+            "label": "秋收",
+            "value": 1,
+            "text": "一倍"
+          },
+          {
+            "label": "春荒",
+            "value": 3,
+            "text": "三倍"
+          },
+          {
+            "label": "秋后想赎田",
+            "value": 6,
+            "text": "又翻倍"
+          }
+        ],
+        "note": "一来一回，家底换了姓"
+      },
+      "narration": "熬到秋收，粮价落回原处，村里人才反应过来：小满那年没卖一斗粮，也没贱卖一寸田。反倒是年初卖田的几家，秋后想赎，贩子开价翻倍。一来一回，家底就换了姓。同样的荒年，两样的人生。",
+      "emphasis": [
+        "落回原处",
+        "换了姓"
+      ],
+      "start": 3701,
+      "duration": 424,
+      "audioFrames": 410,
+      "captions": [
+        {
+          "text": "熬到秋收",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "粮价落回原处",
+          "start": 31,
+          "duration": 44
+        },
+        {
+          "text": "村里人才反应过来",
+          "start": 77,
+          "duration": 48
+        },
+        {
+          "text": "小满那年没卖一斗粮",
+          "start": 131,
+          "duration": 62
+        },
+        {
+          "text": "也没贱卖一寸田",
+          "start": 195,
+          "duration": 46
+        },
+        {
+          "text": "反倒是年初卖田的几家",
+          "start": 248,
+          "duration": 55
+        },
+        {
+          "text": "秋后想赎",
+          "start": 305,
+          "duration": 35
+        },
+        {
+          "text": "贩子开价翻倍",
+          "start": 342,
+          "duration": 46
+        },
+        {
+          "text": "一来一回",
+          "start": 394,
+          "duration": 25
+        },
+        {
+          "text": "家底就换了姓",
+          "start": 421,
+          "duration": 39
+        },
+        {
+          "text": "同样的荒年",
+          "start": 467,
+          "duration": 30
+        },
+        {
+          "text": "两样的人生",
+          "start": 499,
+          "duration": 42
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "reveal",
+      "image": null,
+      "ui": {
+        "word": "双曲贴现",
+        "en": "HYPERBOLIC DISCOUNTING",
+        "sub": "心里那杆秤，有两颗秤砣"
+      },
+      "narration": "故事讲到这儿，谜底也到了。小满糖票上那笔账，现代经济学有个名字，叫：双曲贴现。它说的是一件事：人心里那杆秤，称今天的斤两，和称明天的斤两，用的不是同一颗秤砣。",
+      "emphasis": [
+        "双曲贴现"
+      ],
+      "start": 4125,
+      "duration": 355,
+      "audioFrames": 341,
+      "captions": [
+        {
+          "text": "故事讲到这儿",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "谜底也到了",
+          "start": 37,
+          "duration": 32
+        },
+        {
+          "text": "小满糖票上那笔账",
+          "start": 76,
+          "duration": 46
+        },
+        {
+          "text": "现代经济学有个名字",
+          "start": 124,
+          "duration": 45
+        },
+        {
+          "text": "叫",
+          "start": 171,
+          "duration": 26
+        },
+        {
+          "text": "双曲贴现",
+          "start": 204,
+          "duration": 35
+        },
+        {
+          "text": "它说的是一件事",
+          "start": 245,
+          "duration": 41
+        },
+        {
+          "text": "人心里那杆秤",
+          "start": 293,
+          "duration": 38
+        },
+        {
+          "text": "称今天的斤两",
+          "start": 332,
+          "duration": 35
+        },
+        {
+          "text": "和称明天的斤两",
+          "start": 369,
+          "duration": 41
+        },
+        {
+          "text": "用的不是同一颗秤砣",
+          "start": 412,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "curve",
+      "image": null,
+      "ui": {
+        "title": "两颗秤砣",
+        "subtitle": "同一样东西，隔多久拿到手的\"价值感\"",
+        "yLabels": [
+          "0",
+          "",
+          "半",
+          "",
+          "一"
+        ],
+        "points": [
+          {
+            "x": "今天",
+            "y": 1
+          },
+          {
+            "x": "一天后",
+            "y": 0.55
+          },
+          {
+            "x": "一周后",
+            "y": 0.38
+          },
+          {
+            "x": "一月后",
+            "y": 0.28
+          },
+          {
+            "x": "一季后",
+            "y": 0.2
+          }
+        ],
+        "points2": [
+          {
+            "x": "今天",
+            "y": 1
+          },
+          {
+            "x": "一天后",
+            "y": 0.88
+          },
+          {
+            "x": "一周后",
+            "y": 0.6
+          },
+          {
+            "x": "一月后",
+            "y": 0.38
+          },
+          {
+            "x": "一季后",
+            "y": 0.22
+          }
+        ],
+        "legend": [
+          {
+            "text": "人心（双曲）",
+            "color": "#F0755E"
+          },
+          {
+            "text": "理性（指数）",
+            "color": "#D9A653",
+            "dash": true
+          }
+        ],
+        "note": "今天对明天，差距奇大；第一百天对第一百零一天，没人在乎"
+      },
+      "narration": "这杆秤怪在哪？今天对明天，差距奇大。一块糖今天吃，天大；放到明天，两块都嫌吸引力掉价。可要是从第一百天挪到第一百零一天，几乎没人在乎。同样的一天，贴着\"现在\"就金贵，离远了就打折。像一张先陡后平的曲线，所以叫双曲。",
+      "emphasis": [
+        "同一颗秤砣",
+        "贴着现在就金贵"
+      ],
+      "start": 4480,
+      "duration": 482,
+      "audioFrames": 468,
+      "captions": [
+        {
+          "text": "这杆秤怪在哪",
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "text": "今天对明天",
+          "start": 50,
+          "duration": 32
+        },
+        {
+          "text": "差距奇大",
+          "start": 83,
+          "duration": 36
+        },
+        {
+          "text": "一块糖今天吃",
+          "start": 126,
+          "duration": 35
+        },
+        {
+          "text": "天大",
+          "start": 163,
+          "duration": 26
+        },
+        {
+          "text": "放到明天",
+          "start": 196,
+          "duration": 28
+        },
+        {
+          "text": "两块都嫌吸引力掉价",
+          "start": 226,
+          "duration": 56
+        },
+        {
+          "text": "可要是从第一百天\n挪到第一百零一天",
+          "start": 289,
+          "duration": 81
+        },
+        {
+          "text": "几乎没人在乎",
+          "start": 371,
+          "duration": 36
+        },
+        {
+          "text": "同样的一天",
+          "start": 415,
+          "duration": 31
+        },
+        {
+          "text": "贴着现在就金贵",
+          "start": 447,
+          "duration": 43
+        },
+        {
+          "text": "离远了就打折",
+          "start": 492,
+          "duration": 43
+        },
+        {
+          "text": "像一张先陡后平的曲线",
+          "start": 542,
+          "duration": 53
+        },
+        {
+          "text": "所以叫双曲",
+          "start": 597,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "所有拖延的病根",
+        "wrong": "拖延是懒，是意志薄弱",
+        "right": "是\"现在\"这一头，天然重",
+        "note": "敌人不在明天，在今夜十二点之前"
+      },
+      "narration": "正因如此，人才会一边知道该存钱，一边月光；一边知道该锻炼，一边躺平。不是不懂道理，是\"现在\"这一头，天然重。敌人不在明天，在今夜十二点之前。所有拖延，都是这杆秤在暗中称量。",
+      "emphasis": [
+        "一边知道",
+        "一边躺平"
+      ],
+      "start": 4962,
+      "duration": 405,
+      "audioFrames": 391,
+      "captions": [
+        {
+          "text": "正因如此",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "人才会一边知道该存钱",
+          "start": 31,
+          "duration": 66
+        },
+        {
+          "text": "一边月光",
+          "start": 99,
+          "duration": 32
+        },
+        {
+          "text": "一边知道该锻炼",
+          "start": 138,
+          "duration": 38
+        },
+        {
+          "text": "一边躺平",
+          "start": 178,
+          "duration": 35
+        },
+        {
+          "text": "不是不懂道理",
+          "start": 220,
+          "duration": 29
+        },
+        {
+          "text": "是现在这一头",
+          "start": 250,
+          "duration": 31
+        },
+        {
+          "text": "天然重",
+          "start": 282,
+          "duration": 32
+        },
+        {
+          "text": "敌人不在明天",
+          "start": 322,
+          "duration": 33
+        },
+        {
+          "text": "在今夜十二点之前",
+          "start": 357,
+          "duration": 55
+        },
+        {
+          "text": "所有拖延",
+          "start": 418,
+          "duration": 30
+        },
+        {
+          "text": "都是这杆秤在暗中称量",
+          "start": 450,
+          "duration": 72
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "小满的结构",
+        "steps": [
+          {
+            "head": "糖，记在票上",
+            "note": "诱惑被物理挪走"
+          },
+          {
+            "head": "粮，囤在仓里",
+            "note": "春荒动不了它"
+          },
+          {
+            "head": "绑住今天的手",
+            "note": "承诺机制"
+          },
+          {
+            "head": "明天过得去",
+            "note": "结构赢馋，不靠狠劲"
+          }
+        ],
+        "note": "承诺机制：亲手绑住今天的手"
+      },
+      "narration": "小满的聪明，不是意志力赢了自己的馋。他一辈子都馋。他赢的，是结构：把糖记在票上，把粮囤在仓里，把\"今天的一块\"从物理上挪走。经济学管这叫承诺机制：亲手绑住今天的手，好让明天过得去。",
+      "emphasis": [
+        "结构",
+        "承诺机制"
+      ],
+      "start": 5367,
+      "duration": 399,
+      "audioFrames": 385,
+      "captions": [
+        {
+          "text": "小满的聪明",
+          "start": 0,
+          "duration": 30
+        },
+        {
+          "text": "不是意志力赢了自己的馋",
+          "start": 32,
+          "duration": 65
+        },
+        {
+          "text": "他一辈子都馋",
+          "start": 103,
+          "duration": 41
+        },
+        {
+          "text": "他赢的",
+          "start": 151,
+          "duration": 26
+        },
+        {
+          "text": "是结构",
+          "start": 179,
+          "duration": 29
+        },
+        {
+          "text": "把糖记在票上",
+          "start": 214,
+          "duration": 35
+        },
+        {
+          "text": "把粮囤在仓里",
+          "start": 251,
+          "duration": 34
+        },
+        {
+          "text": "把今天的一块从物理上挪走",
+          "start": 287,
+          "duration": 65
+        },
+        {
+          "text": "经济学管这叫承诺机制",
+          "start": 359,
+          "duration": 66
+        },
+        {
+          "text": "亲手绑住今天的手",
+          "start": 431,
+          "duration": 45
+        },
+        {
+          "text": "好让明天过得去",
+          "start": 478,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "现代社会的糖票",
+        "colHeads": [
+          "糖票",
+          "绑住的是"
+        ],
+        "rows": [
+          {
+            "head": "定期存款",
+            "cells": [
+              "取出来要亏利息"
+            ]
+          },
+          {
+            "head": "健身房年卡",
+            "cells": [
+              "给未来的自己交押金"
+            ]
+          },
+          {
+            "head": "番茄钟",
+            "cells": [
+              "二十五分钟，半张糖票"
+            ]
+          }
+        ],
+        "note": "连乌利塞斯绑桅杆，也是古希腊的定期存款"
+      },
+      "narration": "现代社会的糖票，遍地都是。定期存款，取出来要亏利息，是银行帮你绑手。健身房年卡，钱先交足，是给未来的自己交押金。乌利塞斯把自己绑在桅杆上听歌声，是古希腊人版的定期存款。连番茄钟的二十五分钟，也算半张糖票。",
+      "emphasis": [
+        "遍地都是"
+      ],
+      "start": 5766,
+      "duration": 480,
+      "audioFrames": 466,
+      "captions": [
+        {
+          "text": "现代社会的糖票",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "遍地都是",
+          "start": 42,
+          "duration": 35
+        },
+        {
+          "text": "定期存款",
+          "start": 84,
+          "duration": 30
+        },
+        {
+          "text": "取出来要亏利息",
+          "start": 116,
+          "duration": 43
+        },
+        {
+          "text": "是银行帮你绑手",
+          "start": 161,
+          "duration": 43
+        },
+        {
+          "text": "健身房年卡",
+          "start": 210,
+          "duration": 35
+        },
+        {
+          "text": "钱先交足",
+          "start": 247,
+          "duration": 37
+        },
+        {
+          "text": "是给未来的自己交押金",
+          "start": 286,
+          "duration": 56
+        },
+        {
+          "text": "乌利塞斯把自己绑\n在桅杆上听歌声",
+          "start": 349,
+          "duration": 79
+        },
+        {
+          "text": "是古希腊人版的定期存款",
+          "start": 430,
+          "duration": 61
+        },
+        {
+          "text": "连番茄钟的二十五分钟",
+          "start": 498,
+          "duration": 56
+        },
+        {
+          "text": "也算半张糖票",
+          "start": 555,
+          "duration": 42
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "商家反过来用这杆秤",
+        "steps": [
+          {
+            "head": "分期付款",
+            "note": "大痛切小，刀刀落在\"以后\""
+          },
+          {
+            "head": "订阅制",
+            "note": "月扣的钱小到懒得称"
+          },
+          {
+            "head": "先享后付",
+            "note": "付款那一刻被挪出\"现在\""
+          }
+        ],
+        "note": "你以为你算得过商家，其实是秤先被算走了"
+      },
+      "narration": "商家反过来利用这杆秤。分期付款，把大痛切成小痛，每一刀都落在\"以后\"，秤都不抖。订阅制，按月扣的钱，小到今天这头懒得称。先享后付，付的那一刻被挪出了\"现在\"。你以为你算得过商家，其实是你的秤先被算走了。",
+      "emphasis": [
+        "切开",
+        "挪出"
+      ],
+      "start": 6246,
+      "duration": 443,
+      "audioFrames": 429,
+      "captions": [
+        {
+          "text": "商家反过来利用这杆秤",
+          "start": 0,
+          "duration": 57
+        },
+        {
+          "text": "分期付款",
+          "start": 64,
+          "duration": 31
+        },
+        {
+          "text": "把大痛切成小痛",
+          "start": 96,
+          "duration": 44
+        },
+        {
+          "text": "每一刀都落在以后",
+          "start": 142,
+          "duration": 42
+        },
+        {
+          "text": "秤都不抖",
+          "start": 186,
+          "duration": 36
+        },
+        {
+          "text": "订阅制",
+          "start": 229,
+          "duration": 26
+        },
+        {
+          "text": "按月扣的钱",
+          "start": 256,
+          "duration": 33
+        },
+        {
+          "text": "小到今天这头懒得称",
+          "start": 292,
+          "duration": 50
+        },
+        {
+          "text": "先享后付",
+          "start": 349,
+          "duration": 30
+        },
+        {
+          "text": "付的那一刻被挪出了现在",
+          "start": 381,
+          "duration": 64
+        },
+        {
+          "text": "你以为你算得过商家",
+          "start": 452,
+          "duration": 42
+        },
+        {
+          "text": "其实是你的秤先被算走了",
+          "start": 495,
+          "duration": 66
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "mapping",
+      "image": null,
+      "ui": {
+        "title": "管住自己，靠结构",
+        "rows": [
+          [
+            "今天一块明天两块",
+            "现时偏好"
+          ],
+          [
+            "小满的铁盒与糖票",
+            "承诺机制"
+          ],
+          [
+            "越滚越多的糖",
+            "延迟满足的复利"
+          ],
+          [
+            "春荒贱卖的田",
+            "双曲贴现下的亏本账"
+          ],
+          [
+            "囤粮的仓",
+            "挪走诱惑的结构"
+          ],
+          [
+            "粥里掺豆的日子",
+            "度过贴现的窄门"
+          ]
+        ]
+      },
+      "narration": "回头看杏花村。今天一块明天两块的糖，是现时偏好；小满的铁盒和糖票，是承诺机制；账本上越滚越多的糖，是延迟满足的复利；春荒贱卖的田，是双曲贴现下的亏本账；囤粮的仓，是挪走诱惑的结构。管住自己，从来不靠狠劲，靠结构。",
+      "emphasis": [
+        "靠结构",
+        "不靠狠劲"
+      ],
+      "start": 6689,
+      "duration": 518,
+      "audioFrames": 504,
+      "captions": [
+        {
+          "text": "回头看杏花村",
+          "start": 0,
+          "duration": 46
+        },
+        {
+          "text": "今天一块明天两块的糖",
+          "start": 53,
+          "duration": 56
+        },
+        {
+          "text": "是现时偏好",
+          "start": 111,
+          "duration": 39
+        },
+        {
+          "text": "小满的铁盒和糖票",
+          "start": 157,
+          "duration": 48
+        },
+        {
+          "text": "是承诺机制",
+          "start": 207,
+          "duration": 40
+        },
+        {
+          "text": "账本上越滚越多的糖",
+          "start": 254,
+          "duration": 54
+        },
+        {
+          "text": "是延迟满足的复利",
+          "start": 309,
+          "duration": 46
+        },
+        {
+          "text": "春荒贱卖的田",
+          "start": 362,
+          "duration": 43
+        },
+        {
+          "text": "是双曲贴现下的亏本账",
+          "start": 407,
+          "duration": 64
+        },
+        {
+          "text": "囤粮的仓",
+          "start": 478,
+          "duration": 31
+        },
+        {
+          "text": "是挪走诱惑的结构",
+          "start": 511,
+          "duration": 55
+        },
+        {
+          "text": "管住自己",
+          "start": 573,
+          "duration": 28
+        },
+        {
+          "text": "从来不靠狠劲",
+          "start": 603,
+          "duration": 35
+        },
+        {
+          "text": "靠结构",
+          "start": 639,
+          "duration": 29
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "cta",
+      "image": null,
+      "ui": {
+        "title": "下一件当品",
+        "story": "蛇患成灾，官府悬赏捕蛇，一条三十文。赏金一发，蛇越捕越多。废了赏金第二天，满城毒蛇。这是怎么回事？",
+        "tag": "古德哈特定律"
+      },
+      "narration": "你手里有没有一张糖票？定存、年卡、还有那个设了闹钟的番茄钟，都算。没有的话，今天就可以造一张。下一件当品，当个毒的：蛇患成灾，官府悬赏捕蛇，赏金一发，蛇越捕越多。废了赏金之后，满城毒蛇。这是怎么回事？下期见。",
+      "emphasis": [
+        "越捕越多",
+        "满城毒蛇"
+      ],
+      "start": 7207,
+      "duration": 474,
+      "audioFrames": 460,
+      "captions": [
+        {
+          "text": "你手里有没有一张糖票",
+          "start": 0,
+          "duration": 50
+        },
+        {
+          "text": "定存",
+          "start": 60,
+          "duration": 26
+        },
+        {
+          "text": "年卡",
+          "start": 88,
+          "duration": 23
+        },
+        {
+          "text": "还有那个设了闹钟的番茄钟",
+          "start": 112,
+          "duration": 52
+        },
+        {
+          "text": "都算",
+          "start": 166,
+          "duration": 23
+        },
+        {
+          "text": "没有的话",
+          "start": 195,
+          "duration": 27
+        },
+        {
+          "text": "今天就可以造一张",
+          "start": 224,
+          "duration": 41
+        },
+        {
+          "text": "下一件当品",
+          "start": 271,
+          "duration": 29
+        },
+        {
+          "text": "当个毒的",
+          "start": 302,
+          "duration": 30
+        },
+        {
+          "text": "蛇患成灾",
+          "start": 338,
+          "duration": 35
+        },
+        {
+          "text": "官府悬赏捕蛇",
+          "start": 376,
+          "duration": 49
+        },
+        {
+          "text": "赏金一发",
+          "start": 427,
+          "duration": 31
+        },
+        {
+          "text": "蛇越捕越多",
+          "start": 459,
+          "duration": 40
+        },
+        {
+          "text": "废了赏金之后",
+          "start": 506,
+          "duration": 35
+        },
+        {
+          "text": "满城毒蛇",
+          "start": 543,
+          "duration": 37
+        },
+        {
+          "text": "这是怎么回事",
+          "start": 587,
+          "duration": 38
+        },
+        {
+          "text": "下期见",
+          "start": 635,
+          "duration": 29
+        }
+      ]
+    }
+  ]
+}
