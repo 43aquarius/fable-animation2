@@ -1,0 +1,1575 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 7826,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "hook",
+      "image": null,
+      "ui": {
+        "lines": [
+          "三年学徒",
+          "一文工钱没有"
+        ],
+        "sub": "徽州绸缎庄 · 一道怪规矩"
+      },
+      "narration": "徽州府，绸缎街上的大掌柜收学徒，规矩只有一条：三年，一文工钱没有。少年胡正跪着磕了头。同乡都笑他傻：隔壁米行半年出师，还月月发钱。三年后，笑话他的人还在柜台拨算盘，他已经是全城最年轻的大掌柜。这三年，他到底学了什么？",
+      "emphasis": [
+        "一文工钱没有",
+        "大掌柜"
+      ],
+      "start": 0,
+      "duration": 540,
+      "audioFrames": 526,
+      "captions": [
+        {
+          "text": "徽州府",
+          "start": 0,
+          "duration": 27
+        },
+        {
+          "text": "绸缎街上的大掌柜收学徒",
+          "start": 29,
+          "duration": 73
+        },
+        {
+          "text": "规矩只有一条",
+          "start": 103,
+          "duration": 44
+        },
+        {
+          "text": "三年",
+          "start": 154,
+          "duration": 26
+        },
+        {
+          "text": "一文工钱没有",
+          "start": 182,
+          "duration": 38
+        },
+        {
+          "text": "少年胡正跪着磕了头",
+          "start": 227,
+          "duration": 64
+        },
+        {
+          "text": "同乡都笑他傻",
+          "start": 298,
+          "duration": 43
+        },
+        {
+          "text": "隔壁米行半年出师",
+          "start": 347,
+          "duration": 50
+        },
+        {
+          "text": "还月月发钱",
+          "start": 400,
+          "duration": 33
+        },
+        {
+          "text": "三年后",
+          "start": 439,
+          "duration": 27
+        },
+        {
+          "text": "笑话他的人还在柜台拨算盘",
+          "start": 468,
+          "duration": 71
+        },
+        {
+          "text": "他已经是全城最年轻的大掌柜",
+          "start": 541,
+          "duration": 75
+        },
+        {
+          "text": "这三年",
+          "start": 623,
+          "duration": 27
+        },
+        {
+          "text": "他到底学了什么",
+          "start": 652,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_kowtow",
+      "ui": null,
+      "narration": "胡正家里穷，爹娘砸锅卖铁，把他送进城里绸缎庄当学徒。掌柜的收他那天，只说了一句话：铺子里的规矩，学三年，无工钱，管吃住。愿意，就留下来。胡正想了半宿，留下了。",
+      "emphasis": [
+        "三年",
+        "管吃住"
+      ],
+      "start": 540,
+      "duration": 372,
+      "audioFrames": 358,
+      "captions": [
+        {
+          "text": "胡正家里穷",
+          "start": 0,
+          "duration": 38
+        },
+        {
+          "text": "爹娘砸锅卖铁",
+          "start": 40,
+          "duration": 40
+        },
+        {
+          "text": "把他送进城里绸缎庄当学徒",
+          "start": 82,
+          "duration": 72
+        },
+        {
+          "text": "掌柜的收他那天",
+          "start": 161,
+          "duration": 42
+        },
+        {
+          "text": "只说了一句话",
+          "start": 204,
+          "duration": 38
+        },
+        {
+          "text": "铺子里的规矩",
+          "start": 249,
+          "duration": 31
+        },
+        {
+          "text": "学三年",
+          "start": 282,
+          "duration": 29
+        },
+        {
+          "text": "无工钱",
+          "start": 313,
+          "duration": 24
+        },
+        {
+          "text": "管吃住",
+          "start": 339,
+          "duration": 30
+        },
+        {
+          "text": "愿意",
+          "start": 376,
+          "duration": 23
+        },
+        {
+          "text": "就留下来",
+          "start": 400,
+          "duration": 29
+        },
+        {
+          "text": "胡正想了半宿",
+          "start": 436,
+          "duration": 33
+        },
+        {
+          "text": "留下了",
+          "start": 470,
+          "duration": 27
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_learn",
+      "ui": null,
+      "narration": "头一年，他学的是真手艺。缎子的成色，绫罗的织法，苏杭两地的行情，看布摸手感，开口报价钱。这些东西，快的话一年，慢的一年半，也就都门儿清了。连掌柜的都点头：这孩子，出息。",
+      "emphasis": [
+        "出息"
+      ],
+      "start": 912,
+      "duration": 384,
+      "audioFrames": 370,
+      "captions": [
+        {
+          "text": "头一年",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "他学的是真手艺",
+          "start": 30,
+          "duration": 43
+        },
+        {
+          "text": "缎子的成色",
+          "start": 79,
+          "duration": 33
+        },
+        {
+          "text": "绫罗的织法",
+          "start": 114,
+          "duration": 31
+        },
+        {
+          "text": "苏杭两地的行情",
+          "start": 147,
+          "duration": 44
+        },
+        {
+          "text": "看布摸手感",
+          "start": 193,
+          "duration": 31
+        },
+        {
+          "text": "开口报价钱",
+          "start": 225,
+          "duration": 41
+        },
+        {
+          "text": "这些东西",
+          "start": 272,
+          "duration": 24
+        },
+        {
+          "text": "快的话一年",
+          "start": 299,
+          "duration": 30
+        },
+        {
+          "text": "慢的一年半",
+          "start": 330,
+          "duration": 32
+        },
+        {
+          "text": "也就都门儿清了",
+          "start": 364,
+          "duration": 39
+        },
+        {
+          "text": "连掌柜的都点头",
+          "start": 409,
+          "duration": 48
+        },
+        {
+          "text": "这孩子",
+          "start": 464,
+          "duration": 27
+        },
+        {
+          "text": "出息",
+          "start": 493,
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_chore",
+      "ui": null,
+      "narration": "可学徒的约是三年。第二年开始，胡正干的还是那些活：扫地，擦柜台，给掌柜端茶，站门口迎客。新来的学徒私下嘀咕：手艺都学完了，凭什么还白干两年？隔壁米行早出师了。胡正不吭声，照旧干。",
+      "emphasis": [
+        "凭什么",
+        "白干两年"
+      ],
+      "start": 1296,
+      "duration": 438,
+      "audioFrames": 424,
+      "captions": [
+        {
+          "text": "可学徒的约是三年",
+          "start": 0,
+          "duration": 46
+        },
+        {
+          "text": "第二年开始",
+          "start": 52,
+          "duration": 29
+        },
+        {
+          "text": "胡正干的还是那些活",
+          "start": 83,
+          "duration": 65
+        },
+        {
+          "text": "扫地",
+          "start": 155,
+          "duration": 26
+        },
+        {
+          "text": "擦柜台",
+          "start": 182,
+          "duration": 27
+        },
+        {
+          "text": "给掌柜端茶",
+          "start": 211,
+          "duration": 35
+        },
+        {
+          "text": "站门口迎客",
+          "start": 248,
+          "duration": 38
+        },
+        {
+          "text": "新来的学徒私下嘀咕",
+          "start": 294,
+          "duration": 57
+        },
+        {
+          "text": "手艺都学完了",
+          "start": 357,
+          "duration": 39
+        },
+        {
+          "text": "凭什么还白干两年",
+          "start": 398,
+          "duration": 52
+        },
+        {
+          "text": "隔壁米行早出师了",
+          "start": 460,
+          "duration": 51
+        },
+        {
+          "text": "胡正不吭声",
+          "start": 518,
+          "duration": 36
+        },
+        {
+          "text": "照旧干",
+          "start": 555,
+          "duration": 29
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_chener",
+      "ui": null,
+      "narration": "同乡陈二比他聪明。进的米行，半年出师，月月领三百文。陈二路过绸缎庄，看胡正在扫地，隔着门喊：胡正，你这是何苦？掌柜的白使唤你两年，你亏大了！胡正笑笑，把地扫完，把柜台擦亮。",
+      "emphasis": [
+        "你亏大了"
+      ],
+      "start": 1734,
+      "duration": 428,
+      "audioFrames": 414,
+      "captions": [
+        {
+          "text": "同乡陈二比他聪明",
+          "start": 0,
+          "duration": 54
+        },
+        {
+          "text": "进的米行",
+          "start": 61,
+          "duration": 29
+        },
+        {
+          "text": "半年出师",
+          "start": 92,
+          "duration": 31
+        },
+        {
+          "text": "月月领三百文",
+          "start": 124,
+          "duration": 39
+        },
+        {
+          "text": "陈二路过绸缎庄",
+          "start": 170,
+          "duration": 48
+        },
+        {
+          "text": "看胡正在扫地",
+          "start": 219,
+          "duration": 39
+        },
+        {
+          "text": "隔着门喊",
+          "start": 261,
+          "duration": 32
+        },
+        {
+          "text": "胡正",
+          "start": 299,
+          "duration": 19
+        },
+        {
+          "text": "你这是何苦",
+          "start": 320,
+          "duration": 35
+        },
+        {
+          "text": "掌柜的白使唤你两年",
+          "start": 365,
+          "duration": 64
+        },
+        {
+          "text": "你亏大了",
+          "start": 431,
+          "duration": 31
+        },
+        {
+          "text": "胡正笑笑",
+          "start": 472,
+          "duration": 33
+        },
+        {
+          "text": "把地扫完",
+          "start": 507,
+          "duration": 31
+        },
+        {
+          "text": "把柜台擦亮",
+          "start": 539,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_night",
+      "ui": null,
+      "narration": "第三年冬天，胡正出师。这天夜里，掌柜的把他叫进内室，桌上摆着一杯酒。掌柜的说：杭州分号缺个采买，管三十万两的流水。这差事，我想了半个月，全庄上下，只有你，我敢交。",
+      "emphasis": [
+        "三十万两",
+        "我敢交"
+      ],
+      "start": 2162,
+      "duration": 387,
+      "audioFrames": 373,
+      "captions": [
+        {
+          "text": "第三年冬天",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "胡正出师",
+          "start": 36,
+          "duration": 34
+        },
+        {
+          "text": "这天夜里",
+          "start": 76,
+          "duration": 24
+        },
+        {
+          "text": "掌柜的把他叫进内室",
+          "start": 102,
+          "duration": 58
+        },
+        {
+          "text": "桌上摆着一杯酒",
+          "start": 162,
+          "duration": 43
+        },
+        {
+          "text": "掌柜的说",
+          "start": 212,
+          "duration": 35
+        },
+        {
+          "text": "杭州分号缺个采买",
+          "start": 253,
+          "duration": 47
+        },
+        {
+          "text": "管三十万两的流水",
+          "start": 302,
+          "duration": 46
+        },
+        {
+          "text": "这差事",
+          "start": 355,
+          "duration": 28
+        },
+        {
+          "text": "我想了半个月",
+          "start": 384,
+          "duration": 31
+        },
+        {
+          "text": "全庄上下",
+          "start": 417,
+          "duration": 34
+        },
+        {
+          "text": "只有你",
+          "start": 453,
+          "duration": 25
+        },
+        {
+          "text": "我敢交",
+          "start": 480,
+          "duration": 32
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "掌柜的筛子",
+        "steps": [
+          {
+            "head": "手艺，一年就教会",
+            "note": "庄里人人都有，不是稀缺"
+          },
+          {
+            "head": "三十万两要押对人",
+            "note": "我夜里要睡得着觉"
+          },
+          {
+            "head": "三年无工钱",
+            "note": "熬不住的，自动退场"
+          },
+          {
+            "head": "筛剩下的",
+            "note": "全城找不出第二个"
+          }
+        ],
+        "note": "掌柜的买的，从来不是手艺"
+      },
+      "narration": "胡正愣住：掌柜的，比我手艺好的，庄里还有两个。掌柜的摇头：手艺？手艺一年就教会了，你们都有。可三十万两的银子交出去，我夜里要睡得着觉。能熬三年不要工钱还把地扫干净的人，全城我找不出第二个。",
+      "emphasis": [
+        "睡得着觉",
+        "找不出第二个"
+      ],
+      "start": 2549,
+      "duration": 443,
+      "audioFrames": 429,
+      "captions": [
+        {
+          "text": "胡正愣住",
+          "start": 0,
+          "duration": 34
+        },
+        {
+          "text": "掌柜的",
+          "start": 40,
+          "duration": 27
+        },
+        {
+          "text": "比我手艺好的",
+          "start": 69,
+          "duration": 32
+        },
+        {
+          "text": "庄里还有两个",
+          "start": 102,
+          "duration": 42
+        },
+        {
+          "text": "掌柜的摇头",
+          "start": 151,
+          "duration": 41
+        },
+        {
+          "text": "手艺",
+          "start": 198,
+          "duration": 29
+        },
+        {
+          "text": "手艺一年就教会了",
+          "start": 237,
+          "duration": 54
+        },
+        {
+          "text": "你们都有",
+          "start": 293,
+          "duration": 32
+        },
+        {
+          "text": "可三十万两的银子交出去",
+          "start": 331,
+          "duration": 54
+        },
+        {
+          "text": "我夜里要睡得着觉",
+          "start": 387,
+          "duration": 47
+        },
+        {
+          "text": "能熬三年不要工钱\n还把地扫干净的人",
+          "start": 441,
+          "duration": 87
+        },
+        {
+          "text": "全城我找不出第二个",
+          "start": 529,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "image",
+      "image": "s08_rise",
+      "ui": null,
+      "narration": "后来五年，胡正管着杭州的采买，货银两清，一笔差错没出。三十岁上，他成了绸缎街最年轻的大掌柜。同乡陈二，还是米行的伙计，算盘打得飞快，月钱涨到四百文，也就到头了。",
+      "emphasis": [
+        "一笔差错没出",
+        "到头了"
+      ],
+      "start": 2992,
+      "duration": 392,
+      "audioFrames": 378,
+      "captions": [
+        {
+          "text": "后来五年",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "胡正管着杭州的采买",
+          "start": 30,
+          "duration": 51
+        },
+        {
+          "text": "货银两清",
+          "start": 83,
+          "duration": 32
+        },
+        {
+          "text": "一笔差错没出",
+          "start": 116,
+          "duration": 42
+        },
+        {
+          "text": "三十岁上",
+          "start": 165,
+          "duration": 30
+        },
+        {
+          "text": "他成了绸缎街最年轻的大掌柜",
+          "start": 197,
+          "duration": 76
+        },
+        {
+          "text": "同乡陈二",
+          "start": 280,
+          "duration": 32
+        },
+        {
+          "text": "还是米行的伙计",
+          "start": 313,
+          "duration": 40
+        },
+        {
+          "text": "算盘打得飞快",
+          "start": 355,
+          "duration": 41
+        },
+        {
+          "text": "月钱涨到四百文",
+          "start": 398,
+          "duration": 49
+        },
+        {
+          "text": "也就到头了",
+          "start": 449,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "他到底学了什么",
+        "wrong": "三年，学的是手艺",
+        "right": "三年，是一道筛子",
+        "note": "筛的是耐心、信用、靠得住：那些看不见的东西"
+      },
+      "narration": "有人问胡正：你那三年，到底学了什么？他想了想，说：头一年学手艺。后两年，学的不是东西，是让掌柜的看见，我是能把三年熬下来的人。这话说出来，人人点头，又人人摇头。点头是懂了，摇头是细思极恐。",
+      "emphasis": [
+        "筛子",
+        "靠得住"
+      ],
+      "start": 3384,
+      "duration": 433,
+      "audioFrames": 419,
+      "captions": [
+        {
+          "text": "有人问胡正",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "你那三年",
+          "start": 43,
+          "duration": 29
+        },
+        {
+          "text": "到底学了什么",
+          "start": 73,
+          "duration": 34
+        },
+        {
+          "text": "他想了想",
+          "start": 117,
+          "duration": 27
+        },
+        {
+          "text": "说",
+          "start": 145,
+          "duration": 27
+        },
+        {
+          "text": "头一年学手艺",
+          "start": 180,
+          "duration": 46
+        },
+        {
+          "text": "后两年",
+          "start": 232,
+          "duration": 28
+        },
+        {
+          "text": "学的不是东西",
+          "start": 262,
+          "duration": 33
+        },
+        {
+          "text": "是让掌柜的看见",
+          "start": 297,
+          "duration": 41
+        },
+        {
+          "text": "我是能把三年熬下来的人",
+          "start": 340,
+          "duration": 51
+        },
+        {
+          "text": "这话说出来",
+          "start": 398,
+          "duration": 32
+        },
+        {
+          "text": "人人点头",
+          "start": 431,
+          "duration": 31
+        },
+        {
+          "text": "又人人摇头",
+          "start": 464,
+          "duration": 40
+        },
+        {
+          "text": "点头是懂了",
+          "start": 511,
+          "duration": 34
+        },
+        {
+          "text": "摇头是细思极恐",
+          "start": 547,
+          "duration": 48
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "reveal",
+      "image": null,
+      "ui": {
+        "word": "信号传递",
+        "en": "SIGNALING",
+        "sub": "祖师爷斯宾塞 · 2001 年诺贝尔奖"
+      },
+      "narration": "故事讲到这儿，谜底也到了。那三年学徒，学的根本不是手艺。它是一道筛子，替东家筛出那些看不见的东西：耐心，信用，靠得住。这门学问，经济学叫它：信号传递。祖师爷是斯宾塞，二〇〇一年诺奖。",
+      "emphasis": [
+        "信号传递"
+      ],
+      "start": 3817,
+      "duration": 409,
+      "audioFrames": 395,
+      "captions": [
+        {
+          "text": "故事讲到这儿",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "谜底也到了",
+          "start": 37,
+          "duration": 32
+        },
+        {
+          "text": "那三年学徒",
+          "start": 76,
+          "duration": 34
+        },
+        {
+          "text": "学的根本不是手艺",
+          "start": 112,
+          "duration": 44
+        },
+        {
+          "text": "它是一道筛子",
+          "start": 163,
+          "duration": 33
+        },
+        {
+          "text": "替东家筛出那些看不见的东西",
+          "start": 198,
+          "duration": 70
+        },
+        {
+          "text": "耐心",
+          "start": 275,
+          "duration": 21
+        },
+        {
+          "text": "信用",
+          "start": 298,
+          "duration": 23
+        },
+        {
+          "text": "靠得住",
+          "start": 323,
+          "duration": 26
+        },
+        {
+          "text": "这门学问",
+          "start": 356,
+          "duration": 29
+        },
+        {
+          "text": "经济学叫它",
+          "start": 386,
+          "duration": 39
+        },
+        {
+          "text": "信号传递",
+          "start": 433,
+          "duration": 33
+        },
+        {
+          "text": "祖师爷是斯宾塞",
+          "start": 472,
+          "duration": 41
+        },
+        {
+          "text": "二〇〇一年诺奖",
+          "start": 515,
+          "duration": 45
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "信号的逻辑",
+        "steps": [
+          {
+            "head": "嘴上说没用",
+            "note": "人人都说自己靠谱"
+          },
+          {
+            "head": "那就看代价",
+            "note": "撒谎的人赔不起的动作"
+          },
+          {
+            "head": "疼，才有分量",
+            "note": "便宜信号等于没信号"
+          },
+          {
+            "head": "自动分离",
+            "note": "假的退场，真的留下"
+          }
+        ],
+        "note": "看不见的品质，靠代价标价"
+      },
+      "narration": "斯宾塞当年问了个怪问题：雇主招人，简历都会写字，人人都说自己靠谱。靠谱看不见摸不着，你信谁？他发现了第二层答案：既然嘴上说没用，那就看代价。凡是成本高到撒谎的人赔不起的动作，就是信号。",
+      "emphasis": [
+        "看代价",
+        "赔不起"
+      ],
+      "start": 4226,
+      "duration": 411,
+      "audioFrames": 397,
+      "captions": [
+        {
+          "text": "斯宾塞当年问了个怪问题",
+          "start": 0,
+          "duration": 58
+        },
+        {
+          "text": "雇主招人",
+          "start": 65,
+          "duration": 32
+        },
+        {
+          "text": "简历都会写字",
+          "start": 98,
+          "duration": 37
+        },
+        {
+          "text": "人人都说自己靠谱",
+          "start": 137,
+          "duration": 42
+        },
+        {
+          "text": "靠谱看不见摸不着",
+          "start": 186,
+          "duration": 56
+        },
+        {
+          "text": "你信谁",
+          "start": 243,
+          "duration": 28
+        },
+        {
+          "text": "他发现了第二层答案",
+          "start": 281,
+          "duration": 47
+        },
+        {
+          "text": "既然嘴上说没用",
+          "start": 335,
+          "duration": 40
+        },
+        {
+          "text": "那就看代价",
+          "start": 376,
+          "duration": 34
+        },
+        {
+          "text": "凡是成本高到撒谎\n的人赔不起的动作",
+          "start": 418,
+          "duration": 83
+        },
+        {
+          "text": "就是信号",
+          "start": 503,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "为什么非得三年",
+        "wrong": "考验轻一点，更人性化",
+        "right": "代价必须疼，信号才有分量",
+        "note": "罚一百文谁都装得起，筛子就废了"
+      },
+      "narration": "三年无工钱，为什么非得三年？因为这个代价必须疼。疼到什么程度？熬不住的人，自动退场。要是当学徒只罚一百文，谁都能装一装，筛子就废了。信号的价钱，就是它的分量。太便宜的信号，等于没有信号。",
+      "emphasis": [
+        "必须疼",
+        "等于没有信号"
+      ],
+      "start": 4637,
+      "duration": 413,
+      "audioFrames": 399,
+      "captions": [
+        {
+          "text": "三年无工钱",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "为什么非得三年",
+          "start": 38,
+          "duration": 43
+        },
+        {
+          "text": "因为这个代价必须疼",
+          "start": 91,
+          "duration": 52
+        },
+        {
+          "text": "疼到什么程度",
+          "start": 149,
+          "duration": 38
+        },
+        {
+          "text": "熬不住的人",
+          "start": 198,
+          "duration": 28
+        },
+        {
+          "text": "自动退场",
+          "start": 227,
+          "duration": 32
+        },
+        {
+          "text": "要是当学徒只罚一百文",
+          "start": 266,
+          "duration": 65
+        },
+        {
+          "text": "谁都能装一装",
+          "start": 333,
+          "duration": 37
+        },
+        {
+          "text": "筛子就废了",
+          "start": 372,
+          "duration": 34
+        },
+        {
+          "text": "信号的价钱",
+          "start": 413,
+          "duration": 30
+        },
+        {
+          "text": "就是它的分量",
+          "start": 445,
+          "duration": 39
+        },
+        {
+          "text": "太便宜的信号",
+          "start": 491,
+          "duration": 36
+        },
+        {
+          "text": "等于没有信号",
+          "start": 529,
+          "duration": 34
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "无用之用",
+        "wrong": "扫地端茶是浪费",
+        "right": "正因为没用，才筛得住人",
+        "note": "有用的活，精明人立刻挤进来装样子"
+      },
+      "narration": "这就能解释一件怪事：学徒后两年干的杂活，扫地端茶，跟绸缎生意八竿子打不着。看着是浪费，其实是点金术。正因为这些活没用，才只有真肯沉下来的人才留得住。要是有用，精明人立刻就会挤进来装样子。",
+      "emphasis": [
+        "点金术",
+        "留得住"
+      ],
+      "start": 5050,
+      "duration": 428,
+      "audioFrames": 414,
+      "captions": [
+        {
+          "text": "这就能解释一件怪事",
+          "start": 0,
+          "duration": 67
+        },
+        {
+          "text": "学徒后两年干的杂活",
+          "start": 74,
+          "duration": 56
+        },
+        {
+          "text": "扫地端茶",
+          "start": 131,
+          "duration": 32
+        },
+        {
+          "text": "跟绸缎生意八竿子打不着",
+          "start": 165,
+          "duration": 64
+        },
+        {
+          "text": "看着是浪费",
+          "start": 236,
+          "duration": 31
+        },
+        {
+          "text": "其实是点金术",
+          "start": 269,
+          "duration": 41
+        },
+        {
+          "text": "正因为这些活没用",
+          "start": 317,
+          "duration": 40
+        },
+        {
+          "text": "才只有真肯沉下来的人才留得住",
+          "start": 359,
+          "duration": 68
+        },
+        {
+          "text": "要是有用",
+          "start": 435,
+          "duration": 27
+        },
+        {
+          "text": "精明人立刻就会挤进来装样子",
+          "start": 464,
+          "duration": 66
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "image",
+      "image": "s14_peacock",
+      "ui": null,
+      "narration": "把这件事推到天上，就是孔雀的尾巴。公孔雀拖着一条巨大的尾巴，又沉又招天敌，纯亏。可母孔雀偏偏挑尾巴最大的。因为只有身体倍儿棒的公孔雀，才赔得起这条尾巴。尾巴是一张体检报告，造假造不出来。",
+      "emphasis": [
+        "尾巴",
+        "造假造不出来"
+      ],
+      "start": 5478,
+      "duration": 430,
+      "audioFrames": 416,
+      "captions": [
+        {
+          "text": "把这件事推到天上",
+          "start": 0,
+          "duration": 44
+        },
+        {
+          "text": "就是孔雀的尾巴",
+          "start": 46,
+          "duration": 46
+        },
+        {
+          "text": "公孔雀拖着一条巨大的尾巴",
+          "start": 99,
+          "duration": 62
+        },
+        {
+          "text": "又沉又招天敌",
+          "start": 163,
+          "duration": 47
+        },
+        {
+          "text": "纯亏",
+          "start": 212,
+          "duration": 27
+        },
+        {
+          "text": "可母孔雀偏偏挑尾巴最大的",
+          "start": 246,
+          "duration": 71
+        },
+        {
+          "text": "因为只有身体倍儿棒的公孔雀",
+          "start": 323,
+          "duration": 64
+        },
+        {
+          "text": "才赔得起这条尾巴",
+          "start": 388,
+          "duration": 46
+        },
+        {
+          "text": "尾巴是一张体检报告",
+          "start": 441,
+          "duration": 50
+        },
+        {
+          "text": "造假造不出来",
+          "start": 493,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "人间俯拾皆是",
+        "colHeads": [
+          "信号",
+          "赔的是什么"
+        ],
+        "rows": [
+          {
+            "head": "大学文凭",
+            "cells": [
+              "四年青春几十万"
+            ]
+          },
+          {
+            "head": "大牌广告",
+            "cells": [
+              "一年烧几十亿"
+            ]
+          },
+          {
+            "head": "健身年卡",
+            "cells": [
+              "给未来的自己交押金"
+            ]
+          }
+        ],
+        "note": "看不见的品质，明码标价"
+      },
+      "narration": "人间的例子俯拾皆是。大学文凭，四年青春几十万，学的东西工作里未必用得上，可它证明你坐得住冷板凳。大牌一年烧几十亿打广告，不为介绍产品，为的是告诉你：我们赔得起，跑不了。健身房年卡，本身就是给自己交的信号押金。",
+      "emphasis": [
+        "俯拾皆是"
+      ],
+      "start": 5908,
+      "duration": 502,
+      "audioFrames": 488,
+      "captions": [
+        {
+          "text": "人间的例子俯拾皆是",
+          "start": 0,
+          "duration": 68
+        },
+        {
+          "text": "大学文凭",
+          "start": 74,
+          "duration": 30
+        },
+        {
+          "text": "四年青春几十万",
+          "start": 106,
+          "duration": 48
+        },
+        {
+          "text": "学的东西工作里未必用得上",
+          "start": 156,
+          "duration": 62
+        },
+        {
+          "text": "可它证明你坐得住冷板凳",
+          "start": 219,
+          "duration": 72
+        },
+        {
+          "text": "大牌一年烧几十亿打广告",
+          "start": 298,
+          "duration": 72
+        },
+        {
+          "text": "不为介绍产品",
+          "start": 372,
+          "duration": 35
+        },
+        {
+          "text": "为的是告诉你",
+          "start": 410,
+          "duration": 31
+        },
+        {
+          "text": "我们赔得起",
+          "start": 447,
+          "duration": 28
+        },
+        {
+          "text": "跑不了",
+          "start": 477,
+          "duration": 28
+        },
+        {
+          "text": "健身房年卡",
+          "start": 512,
+          "duration": 35
+        },
+        {
+          "text": "本身就是给自己交的信号押金",
+          "start": 549,
+          "duration": 70
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "信号的暗面",
+        "steps": [
+          {
+            "head": "人人都去刷信号",
+            "note": "考研考编考证，门槛越抬越高"
+          },
+          {
+            "head": "信号通胀",
+            "note": "文凭越来越不值钱"
+          },
+          {
+            "head": "跑步机效应",
+            "note": "人人陪跑，谁也下不来"
+          }
+        ],
+        "note": "研究生学历送外卖：不是人多了，是信号多了"
+      },
+      "narration": "可信号也有暗面。当人人都去考研考编刷证，信号的门槛就被抬得越来越高，文凭越来越不值钱，这叫信号军备竞赛。本来筛人的筛子，变成了人人陪跑的跑步机。研究生学历去送外卖，不是人多了，是信号通胀了。",
+      "emphasis": [
+        "军备竞赛",
+        "信号通胀"
+      ],
+      "start": 6410,
+      "duration": 423,
+      "audioFrames": 409,
+      "captions": [
+        {
+          "text": "可信号也有暗面",
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "text": "当人人都去考研考编刷证",
+          "start": 47,
+          "duration": 53
+        },
+        {
+          "text": "信号的门槛就被抬得越来越高",
+          "start": 101,
+          "duration": 70
+        },
+        {
+          "text": "文凭越来越不值钱",
+          "start": 173,
+          "duration": 45
+        },
+        {
+          "text": "这叫信号军备竞赛",
+          "start": 219,
+          "duration": 56
+        },
+        {
+          "text": "本来筛人的筛子",
+          "start": 283,
+          "duration": 39
+        },
+        {
+          "text": "变成了人人陪跑的跑步机",
+          "start": 323,
+          "duration": 59
+        },
+        {
+          "text": "研究生学历去送外卖",
+          "start": 390,
+          "duration": 57
+        },
+        {
+          "text": "不是人多了",
+          "start": 449,
+          "duration": 28
+        },
+        {
+          "text": "是信号通胀了",
+          "start": 479,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "mapping",
+      "image": null,
+      "ui": {
+        "title": "看不见的品质，明码标价",
+        "rows": [
+          [
+            "三年无工钱",
+            "信号成本"
+          ],
+          [
+            "掌柜的",
+            "雇主（信号接收方）"
+          ],
+          [
+            "扫地端茶的杂活",
+            "无实际产出的仪式"
+          ],
+          [
+            "熬不住退场的陈二",
+            "低类型的自动分离"
+          ],
+          [
+            "三十万两的差事",
+            "高薪岗位的回报"
+          ],
+          [
+            "文凭与孔雀尾",
+            "同一原理的后代"
+          ]
+        ]
+      },
+      "narration": "回头看绸缎庄。三年学徒，是无用的杂活吗？不是，它是代价。掌柜的夜里能睡着觉，是信号的回报。熬不下去自动退场的陈二们，是筛子的另一面。文凭，体检报告，孔雀尾，烧钱的广告，都是那三年学徒的后代。看不见的品质，明码标价。",
+      "emphasis": [
+        "信号成本",
+        "自动分离"
+      ],
+      "start": 6833,
+      "duration": 525,
+      "audioFrames": 511,
+      "captions": [
+        {
+          "text": "回头看绸缎庄",
+          "start": 0,
+          "duration": 44
+        },
+        {
+          "text": "三年学徒",
+          "start": 51,
+          "duration": 35
+        },
+        {
+          "text": "是无用的杂活吗",
+          "start": 87,
+          "duration": 46
+        },
+        {
+          "text": "不是",
+          "start": 143,
+          "duration": 19
+        },
+        {
+          "text": "它是代价",
+          "start": 164,
+          "duration": 32
+        },
+        {
+          "text": "掌柜的夜里能睡着觉",
+          "start": 203,
+          "duration": 62
+        },
+        {
+          "text": "是信号的回报",
+          "start": 267,
+          "duration": 38
+        },
+        {
+          "text": "熬不下去自动退场的陈二们",
+          "start": 312,
+          "duration": 70
+        },
+        {
+          "text": "是筛子的另一面",
+          "start": 384,
+          "duration": 38
+        },
+        {
+          "text": "文凭",
+          "start": 429,
+          "duration": 23
+        },
+        {
+          "text": "体检报告",
+          "start": 454,
+          "duration": 27
+        },
+        {
+          "text": "孔雀尾",
+          "start": 483,
+          "duration": 31
+        },
+        {
+          "text": "烧钱的广告",
+          "start": 515,
+          "duration": 33
+        },
+        {
+          "text": "都是那三年学徒的后代",
+          "start": 550,
+          "duration": 57
+        },
+        {
+          "text": "看不见的品质",
+          "start": 615,
+          "duration": 37
+        },
+        {
+          "text": "明码标价",
+          "start": 654,
+          "duration": 41
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "cta",
+      "image": null,
+      "ui": {
+        "title": "下一件当品",
+        "story": "私塾先生摆出两块饴糖：今天给你一块，或者明天给你两块。全班最馋的那个孩子，每次都等到明天。他有什么秘密？",
+        "tag": "双曲贴现"
+      },
+      "narration": "下次你看见一个人做一件吃力不讨好的事，别急着笑他傻。先算算，他可能是在向世界发一个信号。下一件当品，当个甜的：私塾先生摆出两块饴糖，今天一块，明天两块，班里最馋的孩子，居然每次都等到明天。他有什么秘密？下期见。",
+      "emphasis": [
+        "最馋",
+        "秘密"
+      ],
+      "start": 7358,
+      "duration": 468,
+      "audioFrames": 454,
+      "captions": [
+        {
+          "text": "下次你看见一个人做\n一件吃力不讨好的事",
+          "start": 0,
+          "duration": 83
+        },
+        {
+          "text": "别急着笑他傻",
+          "start": 85,
+          "duration": 39
+        },
+        {
+          "text": "先算算",
+          "start": 130,
+          "duration": 28
+        },
+        {
+          "text": "他可能是在向世界发一个信号",
+          "start": 160,
+          "duration": 62
+        },
+        {
+          "text": "下一件当品",
+          "start": 229,
+          "duration": 29
+        },
+        {
+          "text": "当个甜的",
+          "start": 260,
+          "duration": 32
+        },
+        {
+          "text": "私塾先生摆出两块饴糖",
+          "start": 298,
+          "duration": 62
+        },
+        {
+          "text": "今天一块",
+          "start": 362,
+          "duration": 23
+        },
+        {
+          "text": "明天两块",
+          "start": 386,
+          "duration": 27
+        },
+        {
+          "text": "班里最馋的孩子",
+          "start": 415,
+          "duration": 46
+        },
+        {
+          "text": "居然每次都等到明天",
+          "start": 463,
+          "duration": 64
+        },
+        {
+          "text": "他有什么秘密",
+          "start": 534,
+          "duration": 33
+        },
+        {
+          "text": "下期见",
+          "start": 577,
+          "duration": 29
+        }
+      ]
+    }
+  ]
+}
