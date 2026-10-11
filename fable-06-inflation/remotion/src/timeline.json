@@ -1,0 +1,1693 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 8054,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "hook",
+      "image": null,
+      "ui": {
+        "lines": [
+          "一两银子",
+          "买不来一斗米"
+        ],
+        "sub": "云川城 · 围城第六十天"
+      },
+      "narration": "围城第六十天，云川城里，一两银子买不来一斗米。米铺掌柜说了句怪话：\"不是米没了，是你手里的钱，没了。\"官府的钱从哪来？这座城，用六十天，试出了一个答案。",
+      "emphasis": [
+        "钱，没了",
+        "六十天"
+      ],
+      "start": 0,
+      "duration": 354,
+      "audioFrames": 340,
+      "captions": [
+        {
+          "text": "围城第六十天",
+          "start": 0,
+          "duration": 45
+        },
+        {
+          "text": "云川城里",
+          "start": 47,
+          "duration": 31
+        },
+        {
+          "text": "一两银子买不来一斗米",
+          "start": 79,
+          "duration": 63
+        },
+        {
+          "text": "米铺掌柜说了句怪话",
+          "start": 149,
+          "duration": 56
+        },
+        {
+          "text": "不是米没了",
+          "start": 212,
+          "duration": 28
+        },
+        {
+          "text": "是你手里的钱",
+          "start": 242,
+          "duration": 37
+        },
+        {
+          "text": "没了",
+          "start": 281,
+          "duration": 22
+        },
+        {
+          "text": "官府的钱从哪来",
+          "start": 310,
+          "duration": 46
+        },
+        {
+          "text": "这座城",
+          "start": 366,
+          "duration": 27
+        },
+        {
+          "text": "用六十天",
+          "start": 395,
+          "duration": 31
+        },
+        {
+          "text": "试出了一个答案",
+          "start": 427,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_siege",
+      "ui": null,
+      "narration": "北虏围了云川城。守将武之隆手里有三千兵，库房里只有一箱碎银。军饷断了半个月，城墙上站岗的兵，饿着肚子。要兵拼命，兵要钱。可城门封死，银子进不来。",
+      "emphasis": [
+        "三千兵",
+        "一箱碎银",
+        "银子进不来"
+      ],
+      "start": 354,
+      "duration": 353,
+      "audioFrames": 339,
+      "captions": [
+        {
+          "text": "北虏围了云川城",
+          "start": 0,
+          "duration": 47
+        },
+        {
+          "text": "守将武之隆手里有三千兵",
+          "start": 54,
+          "duration": 71
+        },
+        {
+          "text": "库房里只有一箱碎银",
+          "start": 127,
+          "duration": 57
+        },
+        {
+          "text": "军饷断了半个月",
+          "start": 191,
+          "duration": 35
+        },
+        {
+          "text": "城墙上站岗的兵",
+          "start": 228,
+          "duration": 46
+        },
+        {
+          "text": "饿着肚子",
+          "start": 276,
+          "duration": 29
+        },
+        {
+          "text": "要兵拼命",
+          "start": 312,
+          "duration": 32
+        },
+        {
+          "text": "兵要钱",
+          "start": 346,
+          "duration": 29
+        },
+        {
+          "text": "可城门封死",
+          "start": 382,
+          "duration": 35
+        },
+        {
+          "text": "银子进不来",
+          "start": 418,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_print",
+      "ui": null,
+      "narration": "账房师爷献了一计：发宝钞。拿将军的印，印纸票，写明\"凭票即兑，围解之日，一贯钞兑一两银\"。城里人信将军，信这张纸。印版连夜刻好，天亮开印。",
+      "emphasis": [
+        "宝钞",
+        "凭票即兑",
+        "天亮开印"
+      ],
+      "start": 707,
+      "duration": 337,
+      "audioFrames": 323,
+      "captions": [
+        {
+          "text": "账房师爷献了一计",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "发宝钞",
+          "start": 59,
+          "duration": 29
+        },
+        {
+          "text": "拿将军的印",
+          "start": 95,
+          "duration": 28
+        },
+        {
+          "text": "印纸票",
+          "start": 125,
+          "duration": 28
+        },
+        {
+          "text": "写明凭票即兑",
+          "start": 155,
+          "duration": 38
+        },
+        {
+          "text": "围解之日",
+          "start": 195,
+          "duration": 34
+        },
+        {
+          "text": "一贯钞兑一两银",
+          "start": 230,
+          "duration": 48
+        },
+        {
+          "text": "城里人信将军",
+          "start": 285,
+          "duration": 38
+        },
+        {
+          "text": "信这张纸",
+          "start": 325,
+          "duration": 34
+        },
+        {
+          "text": "印版连夜刻好",
+          "start": 366,
+          "duration": 45
+        },
+        {
+          "text": "天亮开印",
+          "start": 413,
+          "duration": 34
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_market",
+      "ui": null,
+      "narration": "头十天，宝钞真管用。守军领了饷，去米铺买米，去肉铺割肉，去成衣铺添冬衣。市面活了，人心稳了。掌柜们收钞的时候没犹豫：将军的印，还能有假？",
+      "emphasis": [
+        "市面活了",
+        "人心稳了"
+      ],
+      "start": 1044,
+      "duration": 333,
+      "audioFrames": 319,
+      "captions": [
+        {
+          "text": "头十天",
+          "start": 0,
+          "duration": 27
+        },
+        {
+          "text": "宝钞真管用",
+          "start": 28,
+          "duration": 43
+        },
+        {
+          "text": "守军领了饷",
+          "start": 78,
+          "duration": 35
+        },
+        {
+          "text": "去米铺买米",
+          "start": 116,
+          "duration": 31
+        },
+        {
+          "text": "去肉铺割肉",
+          "start": 148,
+          "duration": 30
+        },
+        {
+          "text": "去成衣铺添冬衣",
+          "start": 180,
+          "duration": 44
+        },
+        {
+          "text": "市面活了",
+          "start": 230,
+          "duration": 30
+        },
+        {
+          "text": "人心稳了",
+          "start": 262,
+          "duration": 35
+        },
+        {
+          "text": "掌柜们收钞的时候没犹豫",
+          "start": 304,
+          "duration": 72
+        },
+        {
+          "text": "将军的印",
+          "start": 383,
+          "duration": 25
+        },
+        {
+          "text": "还能有假",
+          "start": 409,
+          "duration": 34
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_press",
+      "ui": null,
+      "narration": "可围城没完。第四十天，援军音讯全无，城墙上天天要赏钱，抚恤要钱，买粮要钱。印版一刻没停。印了多少？没人说得清。师爷只回了三个字：够用的。",
+      "emphasis": [
+        "印版一刻没停",
+        "够用的"
+      ],
+      "start": 1377,
+      "duration": 330,
+      "audioFrames": 316,
+      "captions": [
+        {
+          "text": "可围城没完",
+          "start": 0,
+          "duration": 38
+        },
+        {
+          "text": "第四十天",
+          "start": 45,
+          "duration": 28
+        },
+        {
+          "text": "援军音讯全无",
+          "start": 74,
+          "duration": 44
+        },
+        {
+          "text": "城墙上天天要赏钱",
+          "start": 120,
+          "duration": 54
+        },
+        {
+          "text": "抚恤要钱",
+          "start": 176,
+          "duration": 28
+        },
+        {
+          "text": "买粮要钱",
+          "start": 206,
+          "duration": 34
+        },
+        {
+          "text": "印版一刻没停",
+          "start": 247,
+          "duration": 43
+        },
+        {
+          "text": "印了多少",
+          "start": 297,
+          "duration": 28
+        },
+        {
+          "text": "没人说得清",
+          "start": 335,
+          "duration": 36
+        },
+        {
+          "text": "师爷只回了三个字",
+          "start": 377,
+          "duration": 48
+        },
+        {
+          "text": "够用的",
+          "start": 432,
+          "duration": 28
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_wetink",
+      "ui": null,
+      "narration": "米铺掌柜第一个觉出不对。那天三个军爷来买米，背一样的麻袋，倒出来一样的票子。他捻起一张对着光看：墨，还没干透。",
+      "emphasis": [
+        "墨，还没干透"
+      ],
+      "start": 1707,
+      "duration": 252,
+      "audioFrames": 238,
+      "captions": [
+        {
+          "text": "米铺掌柜第一个觉出不对",
+          "start": 0,
+          "duration": 66
+        },
+        {
+          "text": "那天三个军爷来买米",
+          "start": 73,
+          "duration": 45
+        },
+        {
+          "text": "背一样的麻袋",
+          "start": 120,
+          "duration": 35
+        },
+        {
+          "text": "倒出来一样的票子",
+          "start": 156,
+          "duration": 43
+        },
+        {
+          "text": "他捻起一张对着光看",
+          "start": 206,
+          "duration": 54
+        },
+        {
+          "text": "墨",
+          "start": 267,
+          "duration": 20
+        },
+        {
+          "text": "还没干透",
+          "start": 289,
+          "duration": 33
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "priceLadder",
+      "image": null,
+      "ui": {
+        "title": "一斗米的价",
+        "bars": [
+          {
+            "label": "第 10 天",
+            "value": 1,
+            "text": "一贯"
+          },
+          {
+            "label": "第 40 天",
+            "value": 3,
+            "text": "三贯"
+          },
+          {
+            "label": "第 60 天",
+            "value": 10,
+            "text": "十贯"
+          }
+        ],
+        "note": "不是我涨价，是钱在跌价"
+      },
+      "narration": "掌柜夜里拨算盘。城里钞票一天比一天多，米缸一天比一天浅。第二天挂出新价：一斗米，三贯钞。又过十天，十贯。买米的人骂他发国难财。他说：\"不是我涨价，是钱在跌价。\"",
+      "emphasis": [
+        "三贯钞",
+        "十贯",
+        "钱在跌价"
+      ],
+      "start": 1959,
+      "duration": 402,
+      "audioFrames": 388,
+      "captions": [
+        {
+          "text": "掌柜夜里拨算盘",
+          "start": 0,
+          "duration": 54
+        },
+        {
+          "text": "城里钞票一天比一天多",
+          "start": 61,
+          "duration": 62
+        },
+        {
+          "text": "米缸一天比一天浅",
+          "start": 124,
+          "duration": 49
+        },
+        {
+          "text": "第二天挂出新价",
+          "start": 180,
+          "duration": 48
+        },
+        {
+          "text": "一斗米",
+          "start": 235,
+          "duration": 27
+        },
+        {
+          "text": "三贯钞",
+          "start": 263,
+          "duration": 35
+        },
+        {
+          "text": "又过十天",
+          "start": 305,
+          "duration": 33
+        },
+        {
+          "text": "十贯",
+          "start": 339,
+          "duration": 28
+        },
+        {
+          "text": "买米的人骂他发国难财",
+          "start": 374,
+          "duration": 64
+        },
+        {
+          "text": "他说",
+          "start": 445,
+          "duration": 25
+        },
+        {
+          "text": "不是我涨价",
+          "start": 477,
+          "duration": 29
+        },
+        {
+          "text": "是钱在跌价",
+          "start": 508,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "gresham",
+      "image": null,
+      "ui": {
+        "title": "市面只剩钞在跑",
+        "left": {
+          "char": "银",
+          "label": "银锭",
+          "note": "藏进床底 · 见光就藏"
+        },
+        "right": {
+          "char": "钞",
+          "label": "宝钞",
+          "note": "满天飞 · 见票就花"
+        }
+      },
+      "narration": "有人偷偷拿银子来买米。一两银，掌柜眼睛都亮了，恨不得倒贴。可打那天起，再没人拿银子出来。银子被藏进床底、埋进灶间。人人心里门儿清：宝钞满天飞，见票就花；银锭子金贵，见光就藏。市面上，只剩钞在跑。",
+      "emphasis": [
+        "藏进床底",
+        "只剩钞在跑"
+      ],
+      "start": 2361,
+      "duration": 458,
+      "audioFrames": 444,
+      "captions": [
+        {
+          "text": "有人偷偷拿银子来买米",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "一两银",
+          "start": 59,
+          "duration": 30
+        },
+        {
+          "text": "掌柜眼睛都亮了",
+          "start": 90,
+          "duration": 37
+        },
+        {
+          "text": "恨不得倒贴",
+          "start": 129,
+          "duration": 39
+        },
+        {
+          "text": "可打那天起",
+          "start": 174,
+          "duration": 29
+        },
+        {
+          "text": "再没人拿银子出来",
+          "start": 205,
+          "duration": 46
+        },
+        {
+          "text": "银子被藏进床底",
+          "start": 257,
+          "duration": 45
+        },
+        {
+          "text": "埋进灶间",
+          "start": 304,
+          "duration": 33
+        },
+        {
+          "text": "人人心里门儿清",
+          "start": 344,
+          "duration": 43
+        },
+        {
+          "text": "宝钞满天飞",
+          "start": 394,
+          "duration": 39
+        },
+        {
+          "text": "见票就花",
+          "start": 434,
+          "duration": 34
+        },
+        {
+          "text": "银锭子金贵",
+          "start": 475,
+          "duration": 35
+        },
+        {
+          "text": "见光就藏",
+          "start": 512,
+          "duration": 40
+        },
+        {
+          "text": "市面上",
+          "start": 559,
+          "duration": 26
+        },
+        {
+          "text": "只剩钞在跑",
+          "start": 587,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "image",
+      "image": "s09_split",
+      "ui": null,
+      "narration": "最先拿到新钞的，是军需官，还有跟他相熟的几家粮商。米价还是一贯的时候，他们就把城里的好米好布，成车成车拉进了自家仓库。最后拿到新钞的，是伤兵和抬伤兵的民夫。等他们攥着票子爬到米铺，米价已经翻了十倍。同一张纸，先到的人拿它捡了便宜，后到的人拿它挨了饿。",
+      "emphasis": [
+        "先到的人",
+        "后到的人",
+        "挨了饿"
+      ],
+      "start": 2819,
+      "duration": 592,
+      "audioFrames": 578,
+      "captions": [
+        {
+          "text": "最先拿到新钞的",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "是军需官",
+          "start": 43,
+          "duration": 32
+        },
+        {
+          "text": "还有跟他相熟的几家粮商",
+          "start": 76,
+          "duration": 59
+        },
+        {
+          "text": "米价还是一贯的时候",
+          "start": 142,
+          "duration": 49
+        },
+        {
+          "text": "他们就把城里的好米好布",
+          "start": 193,
+          "duration": 50
+        },
+        {
+          "text": "成车成车拉进了自家仓库",
+          "start": 245,
+          "duration": 81
+        },
+        {
+          "text": "最后拿到新钞的",
+          "start": 333,
+          "duration": 37
+        },
+        {
+          "text": "是伤兵和抬伤兵的民夫",
+          "start": 372,
+          "duration": 63
+        },
+        {
+          "text": "等他们攥着票子爬到米铺",
+          "start": 441,
+          "duration": 67
+        },
+        {
+          "text": "米价已经翻了十倍",
+          "start": 510,
+          "duration": 49
+        },
+        {
+          "text": "同一张纸",
+          "start": 566,
+          "duration": 28
+        },
+        {
+          "text": "先到的人拿它捡了便宜",
+          "start": 596,
+          "duration": 59
+        },
+        {
+          "text": "后到的人拿它挨了饿",
+          "start": 657,
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "image",
+      "image": "s10_dead",
+      "ui": null,
+      "narration": "第六十天，宝钞没人收了。集市退回老办法：一袋盐，换半筐炭；半坛酒，换一把斧头。有人拿宝钞糊窗户，有人拿它引火，灶膛里烧得噼啪响。将军府还贴着告示：一贯钞，兑一两银。告示底下，再没人排队。",
+      "emphasis": [
+        "没人收了",
+        "再没人排队"
+      ],
+      "start": 3411,
+      "duration": 434,
+      "audioFrames": 420,
+      "captions": [
+        {
+          "text": "第六十天",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "宝钞没人收了",
+          "start": 30,
+          "duration": 41
+        },
+        {
+          "text": "集市退回老办法",
+          "start": 78,
+          "duration": 43
+        },
+        {
+          "text": "一袋盐",
+          "start": 128,
+          "duration": 29
+        },
+        {
+          "text": "换半筐炭",
+          "start": 158,
+          "duration": 37
+        },
+        {
+          "text": "半坛酒",
+          "start": 202,
+          "duration": 28
+        },
+        {
+          "text": "换一把斧头",
+          "start": 232,
+          "duration": 33
+        },
+        {
+          "text": "有人拿宝钞糊窗户",
+          "start": 271,
+          "duration": 42
+        },
+        {
+          "text": "有人拿它引火",
+          "start": 315,
+          "duration": 29
+        },
+        {
+          "text": "灶膛里烧得噼啪响",
+          "start": 346,
+          "duration": 51
+        },
+        {
+          "text": "将军府还贴着告示",
+          "start": 403,
+          "duration": 50
+        },
+        {
+          "text": "一贯钞",
+          "start": 460,
+          "duration": 30
+        },
+        {
+          "text": "兑一两银",
+          "start": 492,
+          "duration": 35
+        },
+        {
+          "text": "告示底下",
+          "start": 533,
+          "duration": 30
+        },
+        {
+          "text": "再没人排队",
+          "start": 565,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "reveal",
+      "image": null,
+      "ui": {
+        "word": "通货膨胀",
+        "en": "INFLATION",
+        "sub": "他印出来的是钱吗？是。"
+      },
+      "narration": "围解之后，有商人拿着一麻袋宝钞，去找武之隆兑现。武之隆开了库房：里面只剩那箱碎银，和一座印版。他印出来的是钱吗？是。城里信它的时候，它比银子还好使。故事讲到这儿，谜底也到了。这门学问，经济学叫它：通货膨胀。",
+      "emphasis": [
+        "通货膨胀"
+      ],
+      "start": 3845,
+      "duration": 463,
+      "audioFrames": 449,
+      "captions": [
+        {
+          "text": "围解之后",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "有商人拿着一麻袋宝钞",
+          "start": 29,
+          "duration": 53
+        },
+        {
+          "text": "去找武之隆兑现",
+          "start": 84,
+          "duration": 42
+        },
+        {
+          "text": "武之隆开了库房",
+          "start": 133,
+          "duration": 45
+        },
+        {
+          "text": "里面只剩那箱碎银",
+          "start": 185,
+          "duration": 50
+        },
+        {
+          "text": "和一座印版",
+          "start": 236,
+          "duration": 31
+        },
+        {
+          "text": "他印出来的是钱吗",
+          "start": 274,
+          "duration": 46
+        },
+        {
+          "text": "是",
+          "start": 330,
+          "duration": 23
+        },
+        {
+          "text": "城里信它的时候",
+          "start": 360,
+          "duration": 38
+        },
+        {
+          "text": "它比银子还好使",
+          "start": 400,
+          "duration": 42
+        },
+        {
+          "text": "故事讲到这儿",
+          "start": 449,
+          "duration": 36
+        },
+        {
+          "text": "谜底也到了",
+          "start": 486,
+          "duration": 32
+        },
+        {
+          "text": "这门学问",
+          "start": 525,
+          "duration": 29
+        },
+        {
+          "text": "经济学叫它",
+          "start": 555,
+          "duration": 39
+        },
+        {
+          "text": "通货膨胀",
+          "start": 602,
+          "duration": 41
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "方向反了",
+        "wrong": "以为：东西变贵了",
+        "right": "其实：钱先变贱",
+        "note": "一张钞票值多少，只看它能换走多少东西"
+      },
+      "narration": "很多人以为，通胀是东西变贵了。方向反了。是钱先变贱，东西才显得贵。一张钞票值多少，不看纸，不看印，只看它能从城里换走多少东西。围城里货没多，钱翻了不知多少倍，每张钞票能换走的米，就薄了。",
+      "emphasis": [
+        "方向反了",
+        "钱先变贱",
+        "薄了"
+      ],
+      "start": 4308,
+      "duration": 428,
+      "audioFrames": 414,
+      "captions": [
+        {
+          "text": "很多人以为",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "通胀是东西变贵了",
+          "start": 30,
+          "duration": 49
+        },
+        {
+          "text": "方向反了",
+          "start": 86,
+          "duration": 33
+        },
+        {
+          "text": "是钱先变贱",
+          "start": 126,
+          "duration": 36
+        },
+        {
+          "text": "东西才显得贵",
+          "start": 164,
+          "duration": 39
+        },
+        {
+          "text": "一张钞票值多少",
+          "start": 210,
+          "duration": 42
+        },
+        {
+          "text": "不看纸",
+          "start": 254,
+          "duration": 25
+        },
+        {
+          "text": "不看印",
+          "start": 281,
+          "duration": 22
+        },
+        {
+          "text": "只看它能从城里换走多少东西",
+          "start": 305,
+          "duration": 74
+        },
+        {
+          "text": "围城里货没多",
+          "start": 386,
+          "duration": 37
+        },
+        {
+          "text": "钱翻了不知多少倍",
+          "start": 424,
+          "duration": 43
+        },
+        {
+          "text": "每张钞票能换走的米",
+          "start": 469,
+          "duration": 53
+        },
+        {
+          "text": "就薄了",
+          "start": 523,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "balance",
+      "image": null,
+      "ui": {
+        "title": "货币数量论",
+        "formula": "钱 × 转手速度 = 货 × 价格",
+        "left": {
+          "label": "全城的钱",
+          "note": "还在印，一天比一天重"
+        },
+        "right": {
+          "label": "全城的货",
+          "note": "被围着，一天比一天轻"
+        },
+        "note": "秤，只能往一边倒"
+      },
+      "narration": "这里有一杆秤。一边是全城的钱，一边是全城的货。钱乘上转手的速度，得等于货乘上价格。云川城被围，货只出不进，秤那头一天比一天轻。可钱还在印，秤这头一天比一天重。秤，只能往一边倒。价格，就是被压上去的。",
+      "emphasis": [
+        "一杆秤",
+        "只能往一边倒"
+      ],
+      "start": 4736,
+      "duration": 439,
+      "audioFrames": 425,
+      "captions": [
+        {
+          "text": "这里有一杆秤",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "一边是全城的钱",
+          "start": 42,
+          "duration": 41
+        },
+        {
+          "text": "一边是全城的货",
+          "start": 85,
+          "duration": 43
+        },
+        {
+          "text": "钱乘上转手的速度",
+          "start": 135,
+          "duration": 49
+        },
+        {
+          "text": "得等于货乘上价格",
+          "start": 186,
+          "duration": 43
+        },
+        {
+          "text": "云川城被围",
+          "start": 237,
+          "duration": 34
+        },
+        {
+          "text": "货只出不进",
+          "start": 272,
+          "duration": 33
+        },
+        {
+          "text": "秤那头一天比一天轻",
+          "start": 307,
+          "duration": 54
+        },
+        {
+          "text": "可钱还在印",
+          "start": 368,
+          "duration": 33
+        },
+        {
+          "text": "秤这头一天比一天重",
+          "start": 403,
+          "duration": 53
+        },
+        {
+          "text": "秤",
+          "start": 462,
+          "duration": 20
+        },
+        {
+          "text": "只能往一边倒",
+          "start": 484,
+          "duration": 39
+        },
+        {
+          "text": "价格",
+          "start": 530,
+          "duration": 22
+        },
+        {
+          "text": "就是被压上去的",
+          "start": 554,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "cantillon",
+      "image": null,
+      "ui": {
+        "title": "坎蒂隆效应",
+        "sub": "新钱像开闸的水，灌进城池",
+        "first": {
+          "label": "先漫到的地方",
+          "note": "军需官 · 粮商，按旧价囤"
+        },
+        "last": {
+          "label": "最后淹到的人",
+          "note": "普通人，拿新价买"
+        }
+      },
+      "narration": "通胀最狠的地方，还不是贵，是不匀。新钱像开闸的水，灌进城池。先漫到的地方，捞走好处：军需官按旧价囤米，粮商按旧价囤布。最后淹到的，是旱地上的普通人：拿新价买米，拿新价买布。同一轮通胀，有人趁水发财，有人被水没顶。这有个名字，坎蒂隆效应。",
+      "emphasis": [
+        "不匀",
+        "坎蒂隆效应",
+        "被水没顶"
+      ],
+      "start": 5175,
+      "duration": 561,
+      "audioFrames": 547,
+      "captions": [
+        {
+          "text": "通胀最狠的地方",
+          "start": 0,
+          "duration": 39
+        },
+        {
+          "text": "还不是贵",
+          "start": 41,
+          "duration": 28
+        },
+        {
+          "text": "是不匀",
+          "start": 70,
+          "duration": 33
+        },
+        {
+          "text": "新钱像开闸的水",
+          "start": 110,
+          "duration": 44
+        },
+        {
+          "text": "灌进城池",
+          "start": 156,
+          "duration": 41
+        },
+        {
+          "text": "先漫到的地方",
+          "start": 204,
+          "duration": 34
+        },
+        {
+          "text": "捞走好处",
+          "start": 240,
+          "duration": 34
+        },
+        {
+          "text": "军需官按旧价囤米",
+          "start": 281,
+          "duration": 49
+        },
+        {
+          "text": "粮商按旧价囤布",
+          "start": 332,
+          "duration": 57
+        },
+        {
+          "text": "最后淹到的",
+          "start": 395,
+          "duration": 29
+        },
+        {
+          "text": "是旱地上的普通人",
+          "start": 426,
+          "duration": 46
+        },
+        {
+          "text": "拿新价买米",
+          "start": 479,
+          "duration": 32
+        },
+        {
+          "text": "拿新价买布",
+          "start": 512,
+          "duration": 37
+        },
+        {
+          "text": "同一轮通胀",
+          "start": 556,
+          "duration": 32
+        },
+        {
+          "text": "有人趁水发财",
+          "start": 590,
+          "duration": 43
+        },
+        {
+          "text": "有人被水没顶",
+          "start": 635,
+          "duration": 41
+        },
+        {
+          "text": "这有个名字",
+          "start": 683,
+          "duration": 28
+        },
+        {
+          "text": "坎蒂隆效应",
+          "start": 713,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "这不是编的故事",
+        "colHeads": [
+          "年份 · 地方",
+          "发生了什么"
+        ],
+        "rows": [
+          {
+            "head": "1923 · 魏玛德国",
+            "cells": [
+              "一磅面包 4000 亿马克"
+            ]
+          },
+          {
+            "head": "1948 · 金圆券",
+            "cells": [
+              "十个月贬值两万倍"
+            ]
+          },
+          {
+            "head": "2008 · 津巴布韦",
+            "cells": [
+              "100 万亿面额"
+            ]
+          }
+        ],
+        "note": "同一个剧本：财政要钱，印钞机开动"
+      },
+      "narration": "这不是编的故事。一九二三年，德国魏玛，一磅面包卖四千亿马克，工资得用推车往家拉，纸币当柴烧，比柴还便宜。一九四八年，金圆券，十个月贬值两万倍，上海街头抱着一捆钱，买不来一袋米。二〇〇八年，津巴布韦，一百万亿的票子，印在钱上像一句嘲讽。每一场背后，都是同一个剧本：财政要钱，印钞机开动。",
+      "emphasis": [
+        "四千亿马克",
+        "两万倍",
+        "一百万亿"
+      ],
+      "start": 5736,
+      "duration": 671,
+      "audioFrames": 657,
+      "captions": [
+        {
+          "text": "这不是编的故事",
+          "start": 0,
+          "duration": 39
+        },
+        {
+          "text": "一九二三年",
+          "start": 46,
+          "duration": 35
+        },
+        {
+          "text": "德国魏玛",
+          "start": 83,
+          "duration": 27
+        },
+        {
+          "text": "一磅面包卖四千亿马克",
+          "start": 112,
+          "duration": 62
+        },
+        {
+          "text": "工资得用推车往家拉",
+          "start": 175,
+          "duration": 52
+        },
+        {
+          "text": "纸币当柴烧",
+          "start": 229,
+          "duration": 44
+        },
+        {
+          "text": "比柴还便宜",
+          "start": 275,
+          "duration": 36
+        },
+        {
+          "text": "一九四八年",
+          "start": 318,
+          "duration": 37
+        },
+        {
+          "text": "金圆券",
+          "start": 356,
+          "duration": 26
+        },
+        {
+          "text": "十个月贬值两万倍",
+          "start": 383,
+          "duration": 55
+        },
+        {
+          "text": "上海街头抱着一捆钱",
+          "start": 440,
+          "duration": 62
+        },
+        {
+          "text": "买不来一袋米",
+          "start": 503,
+          "duration": 34
+        },
+        {
+          "text": "二〇〇八年",
+          "start": 544,
+          "duration": 31
+        },
+        {
+          "text": "津巴布韦",
+          "start": 577,
+          "duration": 34
+        },
+        {
+          "text": "一百万亿的票子",
+          "start": 613,
+          "duration": 35
+        },
+        {
+          "text": "印在钱上像一句嘲讽",
+          "start": 650,
+          "duration": 57
+        },
+        {
+          "text": "每一场背后",
+          "start": 714,
+          "duration": 32
+        },
+        {
+          "text": "都是同一个剧本",
+          "start": 748,
+          "duration": 37
+        },
+        {
+          "text": "财政要钱",
+          "start": 791,
+          "duration": 29
+        },
+        {
+          "text": "印钞机开动",
+          "start": 823,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "curve",
+      "image": null,
+      "ui": {
+        "title": "2020 大放水之后",
+        "subtitle": "美国 CPI 同比涨幅（%）",
+        "points": [
+          {
+            "x": "2019",
+            "y": 1.8
+          },
+          {
+            "x": "2020",
+            "y": 1.2
+          },
+          {
+            "x": "2021",
+            "y": 4.7
+          },
+          {
+            "x": "2022",
+            "y": 8
+          }
+        ],
+        "note": "四十年最高，美联储连夜加息抽水"
+      },
+      "narration": "那今天的官府呢？现代央行把那杆秤焊在了制度里：印多少钱，先问货有多少。可二〇二〇年，全球大放水，秤又歪了。两年后，美国通胀冲到百分之九，四十年的最高。美联储连夜加息，把放出去的水往回抽。印出来的每一张钱，早晚有人买单。",
+      "emphasis": [
+        "百分之九",
+        "四十年的最高",
+        "买单"
+      ],
+      "start": 6407,
+      "duration": 520,
+      "audioFrames": 506,
+      "captions": [
+        {
+          "text": "那今天的官府呢",
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "text": "现代央行把那杆秤焊在了制度里",
+          "start": 50,
+          "duration": 75
+        },
+        {
+          "text": "印多少钱",
+          "start": 131,
+          "duration": 33
+        },
+        {
+          "text": "先问货有多少",
+          "start": 166,
+          "duration": 38
+        },
+        {
+          "text": "可二〇二〇年",
+          "start": 211,
+          "duration": 39
+        },
+        {
+          "text": "全球大放水",
+          "start": 251,
+          "duration": 40
+        },
+        {
+          "text": "秤又歪了",
+          "start": 293,
+          "duration": 36
+        },
+        {
+          "text": "两年后",
+          "start": 335,
+          "duration": 28
+        },
+        {
+          "text": "美国通胀冲到百分之九",
+          "start": 365,
+          "duration": 62
+        },
+        {
+          "text": "四十年的最高",
+          "start": 429,
+          "duration": 44
+        },
+        {
+          "text": "美联储连夜加息",
+          "start": 479,
+          "duration": 48
+        },
+        {
+          "text": "把放出去的水往回抽",
+          "start": 529,
+          "duration": 57
+        },
+        {
+          "text": "印出来的每一张钱",
+          "start": 592,
+          "duration": 43
+        },
+        {
+          "text": "早晚有人买单",
+          "start": 637,
+          "duration": 36
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "mapping",
+      "image": null,
+      "ui": {
+        "title": "一座城，就是一个货币",
+        "rows": [
+          [
+            "被围的城",
+            "物资进不来的市场"
+          ],
+          [
+            "宝钞",
+            "政府开动的印钞机"
+          ],
+          [
+            "将军的印",
+            "国家信用"
+          ],
+          [
+            "米价一贯到十贯",
+            "物价水平"
+          ],
+          [
+            "藏银花钞",
+            "良币退场"
+          ],
+          [
+            "军需官先花新钞",
+            "坎蒂隆效应"
+          ],
+          [
+            "围解那天库房空空",
+            "信用的破产"
+          ]
+        ]
+      },
+      "narration": "回头看云川城。被围的城，是物资进不来的市场；宝钞，是政府开动的印钞机；将军的印，是国家信用；米价从一贯到十贯，是物价水平；藏银子、花钞票，是良币退场；军需官先花新钞，是坎蒂隆效应；围解那天库房空空，是信用的破产。一座城走完的路，一个货币，也走得完。",
+      "emphasis": [
+        "印钞机",
+        "国家信用",
+        "信用的破产"
+      ],
+      "start": 6927,
+      "duration": 587,
+      "audioFrames": 573,
+      "captions": [
+        {
+          "text": "回头看云川城",
+          "start": 0,
+          "duration": 47
+        },
+        {
+          "text": "被围的城",
+          "start": 54,
+          "duration": 32
+        },
+        {
+          "text": "是物资进不来的市场",
+          "start": 87,
+          "duration": 49
+        },
+        {
+          "text": "宝钞",
+          "start": 144,
+          "duration": 23
+        },
+        {
+          "text": "是政府开动的印钞机",
+          "start": 168,
+          "duration": 55
+        },
+        {
+          "text": "将军的印",
+          "start": 230,
+          "duration": 25
+        },
+        {
+          "text": "是国家信用",
+          "start": 256,
+          "duration": 37
+        },
+        {
+          "text": "米价从一贯到十贯",
+          "start": 300,
+          "duration": 50
+        },
+        {
+          "text": "是物价水平",
+          "start": 351,
+          "duration": 40
+        },
+        {
+          "text": "藏银子",
+          "start": 398,
+          "duration": 27
+        },
+        {
+          "text": "花钞票",
+          "start": 427,
+          "duration": 23
+        },
+        {
+          "text": "是良币退场",
+          "start": 452,
+          "duration": 38
+        },
+        {
+          "text": "军需官先花新钞",
+          "start": 497,
+          "duration": 50
+        },
+        {
+          "text": "是坎蒂隆效应",
+          "start": 548,
+          "duration": 41
+        },
+        {
+          "text": "围解那天库房空空",
+          "start": 597,
+          "duration": 48
+        },
+        {
+          "text": "是信用的破产",
+          "start": 646,
+          "duration": 39
+        },
+        {
+          "text": "一座城走完的路",
+          "start": 692,
+          "duration": 44
+        },
+        {
+          "text": "一个货币",
+          "start": 737,
+          "duration": 25
+        },
+        {
+          "text": "也走得完",
+          "start": 764,
+          "duration": 31
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "cta",
+      "image": null,
+      "ui": {
+        "title": "下一件当品",
+        "story": "两个都会织布的人，一个专心织布，一个专心种地，俩人都不会对方的手艺，最后反而都变富了。凭什么？",
+        "tag": "比较优势"
+      },
+      "narration": "你钱包里的钱，也在围城里。货，还是那些货；钱，一年比一年多。看懂这一层，你就懂了为什么有人急着买房买金，有人在算利率。下一件当品，我给你当个更好玩的：两个都会织布的人，一个专心织布，一个专心种地，俩人都不会对方的手艺，最后反而都变富了。凭什么？下期见。",
+      "emphasis": [
+        "都变富了",
+        "凭什么"
+      ],
+      "start": 7514,
+      "duration": 540,
+      "audioFrames": 526,
+      "captions": [
+        {
+          "text": "你钱包里的钱",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "也在围城里",
+          "start": 37,
+          "duration": 36
+        },
+        {
+          "text": "货",
+          "start": 80,
+          "duration": 17
+        },
+        {
+          "text": "还是那些货",
+          "start": 99,
+          "duration": 33
+        },
+        {
+          "text": "钱",
+          "start": 139,
+          "duration": 22
+        },
+        {
+          "text": "一年比一年多",
+          "start": 162,
+          "duration": 44
+        },
+        {
+          "text": "看懂这一层",
+          "start": 213,
+          "duration": 30
+        },
+        {
+          "text": "你就懂了为什么有\n人急着买房买金",
+          "start": 245,
+          "duration": 78
+        },
+        {
+          "text": "有人在算利率",
+          "start": 325,
+          "duration": 35
+        },
+        {
+          "text": "下一件当品",
+          "start": 366,
+          "duration": 29
+        },
+        {
+          "text": "我给你当个更好玩的",
+          "start": 397,
+          "duration": 48
+        },
+        {
+          "text": "两个都会织布的人",
+          "start": 451,
+          "duration": 35
+        },
+        {
+          "text": "一个专心织布",
+          "start": 489,
+          "duration": 38
+        },
+        {
+          "text": "一个专心种地",
+          "start": 528,
+          "duration": 38
+        },
+        {
+          "text": "俩人都不会对方的手艺",
+          "start": 568,
+          "duration": 51
+        },
+        {
+          "text": "最后反而都变富了",
+          "start": 621,
+          "duration": 42
+        },
+        {
+          "text": "凭什么",
+          "start": 670,
+          "duration": 26
+        },
+        {
+          "text": "下期见",
+          "start": 706,
+          "duration": 29
+        }
+      ]
+    }
+  ]
+}
