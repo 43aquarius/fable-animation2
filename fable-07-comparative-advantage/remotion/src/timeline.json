@@ -1,0 +1,1609 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 8020,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "hook",
+      "image": null,
+      "ui": {
+        "lines": [
+          "织布天下第一",
+          "把田让给最笨的人"
+        ],
+        "sub": "松江城 · 一笔人人嘲笑的糊涂账"
+      },
+      "narration": "松江城里，人人夸沈巧：织布天下第一，种田也是好手。可这年荒月，她做了一件让全城跌破眼镜的事：把田让给手最笨的师妹去种，自己只管织布。全城都笑她傻。三年后，笑话她的人，都闭了嘴。",
+      "emphasis": [
+        "天下第一",
+        "最笨",
+        "闭了嘴"
+      ],
+      "start": 0,
+      "duration": 444,
+      "audioFrames": 430,
+      "captions": [
+        {
+          "text": "松江城里",
+          "start": 0,
+          "duration": 33
+        },
+        {
+          "text": "人人夸沈巧",
+          "start": 35,
+          "duration": 40
+        },
+        {
+          "text": "织布天下第一",
+          "start": 82,
+          "duration": 43
+        },
+        {
+          "text": "种田也是好手",
+          "start": 127,
+          "duration": 42
+        },
+        {
+          "text": "可这年荒月",
+          "start": 176,
+          "duration": 32
+        },
+        {
+          "text": "她做了一件让全城跌破眼镜的事",
+          "start": 210,
+          "duration": 87
+        },
+        {
+          "text": "把田让给手最笨的师妹去种",
+          "start": 304,
+          "duration": 70
+        },
+        {
+          "text": "自己只管织布",
+          "start": 375,
+          "duration": 42
+        },
+        {
+          "text": "全城都笑她傻",
+          "start": 424,
+          "duration": 46
+        },
+        {
+          "text": "三年后",
+          "start": 476,
+          "duration": 27
+        },
+        {
+          "text": "笑话她的人",
+          "start": 506,
+          "duration": 31
+        },
+        {
+          "text": "都闭了嘴",
+          "start": 539,
+          "duration": 31
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_shenqiao",
+      "ui": null,
+      "narration": "沈家两个女子，同门学艺。师姐沈巧，一双巧手，松江城头一份。织机上一日能出三匹布，下了织机又能下田，一日种得一石米。两样活，她都是城里最快的。",
+      "emphasis": [
+        "三匹布",
+        "一石米"
+      ],
+      "start": 444,
+      "duration": 353,
+      "audioFrames": 339,
+      "captions": [
+        {
+          "text": "沈家两个女子",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "同门学艺",
+          "start": 38,
+          "duration": 33
+        },
+        {
+          "text": "师姐沈巧",
+          "start": 78,
+          "duration": 36
+        },
+        {
+          "text": "一双巧手",
+          "start": 116,
+          "duration": 30
+        },
+        {
+          "text": "松江城头一份",
+          "start": 148,
+          "duration": 47
+        },
+        {
+          "text": "织机上一日能出三匹布",
+          "start": 201,
+          "duration": 63
+        },
+        {
+          "text": "下了织机又能下田",
+          "start": 266,
+          "duration": 48
+        },
+        {
+          "text": "一日种得一石米",
+          "start": 317,
+          "duration": 45
+        },
+        {
+          "text": "两样活",
+          "start": 369,
+          "duration": 31
+        },
+        {
+          "text": "她都是城里最快的",
+          "start": 402,
+          "duration": 44
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_azhuo",
+      "ui": null,
+      "narration": "师妹阿拙，名字里就带着命。织一日，出一匹布。下田一日，种八斗米。布比不过师姐，米也比不过师姐。同门九年，样样垫底。旁人都说，她这辈子，只能给师姐打个下手。",
+      "emphasis": [
+        "一匹布",
+        "八斗米",
+        "垫底"
+      ],
+      "start": 797,
+      "duration": 349,
+      "audioFrames": 335,
+      "captions": [
+        {
+          "text": "师妹阿拙",
+          "start": 0,
+          "duration": 29
+        },
+        {
+          "text": "名字里就带着命",
+          "start": 30,
+          "duration": 40
+        },
+        {
+          "text": "织一日",
+          "start": 77,
+          "duration": 25
+        },
+        {
+          "text": "出一匹布",
+          "start": 104,
+          "duration": 32
+        },
+        {
+          "text": "下田一日",
+          "start": 143,
+          "duration": 30
+        },
+        {
+          "text": "种八斗米",
+          "start": 175,
+          "duration": 34
+        },
+        {
+          "text": "布比不过师姐",
+          "start": 215,
+          "duration": 31
+        },
+        {
+          "text": "米也比不过师姐",
+          "start": 248,
+          "duration": 44
+        },
+        {
+          "text": "同门九年",
+          "start": 299,
+          "duration": 33
+        },
+        {
+          "text": "样样垫底",
+          "start": 334,
+          "duration": 33
+        },
+        {
+          "text": "旁人都说",
+          "start": 374,
+          "duration": 28
+        },
+        {
+          "text": "她这辈子",
+          "start": 404,
+          "duration": 29
+        },
+        {
+          "text": "只能给师姐打个下手",
+          "start": 435,
+          "duration": 49
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_famine",
+      "ui": null,
+      "narration": "荒年来了。江南米贵，一匹布换不来半石米。各家各户，又织又种，两头忙两头慌。沈巧算了笔账：全家老小要吃饭，织机不能停，田也不能荒。可她一个人，就是长出四只手，也顾不过来。",
+      "emphasis": [
+        "米贵",
+        "两头慌"
+      ],
+      "start": 1146,
+      "duration": 418,
+      "audioFrames": 404,
+      "captions": [
+        {
+          "text": "荒年来了",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "江南米贵",
+          "start": 38,
+          "duration": 35
+        },
+        {
+          "text": "一匹布换不来半石米",
+          "start": 75,
+          "duration": 62
+        },
+        {
+          "text": "各家各户",
+          "start": 144,
+          "duration": 31
+        },
+        {
+          "text": "又织又种",
+          "start": 176,
+          "duration": 31
+        },
+        {
+          "text": "两头忙两头慌",
+          "start": 209,
+          "duration": 46
+        },
+        {
+          "text": "沈巧算了笔账",
+          "start": 262,
+          "duration": 43
+        },
+        {
+          "text": "全家老小要吃饭",
+          "start": 312,
+          "duration": 43
+        },
+        {
+          "text": "织机不能停",
+          "start": 356,
+          "duration": 42
+        },
+        {
+          "text": "田也不能荒",
+          "start": 400,
+          "duration": 38
+        },
+        {
+          "text": "可她一个人",
+          "start": 445,
+          "duration": 28
+        },
+        {
+          "text": "就是长出四只手",
+          "start": 475,
+          "duration": 44
+        },
+        {
+          "text": "也顾不过来",
+          "start": 521,
+          "duration": 31
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_deal",
+      "ui": null,
+      "narration": "她去了师妹家，说了句谁都没想到的话：阿拙，你的田自己种，往后你的米，我用布换。一匹布，换你八斗米。阿拙懵了：师姐，我织布种田都不如你，你跟我换什么？",
+      "emphasis": [
+        "一匹布",
+        "八斗米"
+      ],
+      "start": 1564,
+      "duration": 330,
+      "audioFrames": 316,
+      "captions": [
+        {
+          "text": "她去了师妹家",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "说了句谁都没想到的话",
+          "start": 37,
+          "duration": 54
+        },
+        {
+          "text": "阿拙",
+          "start": 98,
+          "duration": 20
+        },
+        {
+          "text": "你的田自己种",
+          "start": 120,
+          "duration": 36
+        },
+        {
+          "text": "往后你的米",
+          "start": 159,
+          "duration": 29
+        },
+        {
+          "text": "我用布换",
+          "start": 189,
+          "duration": 31
+        },
+        {
+          "text": "一匹布",
+          "start": 228,
+          "duration": 26
+        },
+        {
+          "text": "换你八斗米",
+          "start": 256,
+          "duration": 34
+        },
+        {
+          "text": "阿拙懵了",
+          "start": 296,
+          "duration": 33
+        },
+        {
+          "text": "师姐",
+          "start": 336,
+          "duration": 22
+        },
+        {
+          "text": "我织布种田都不如你",
+          "start": 359,
+          "duration": 53
+        },
+        {
+          "text": "你跟我换什么",
+          "start": 414,
+          "duration": 34
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "两本账",
+        "colHeads": [
+          "织布（匹／日）",
+          "种米（石／日）"
+        ],
+        "rows": [
+          {
+            "head": "师姐·沈巧",
+            "cells": [
+              "3",
+              "1"
+            ]
+          },
+          {
+            "head": "师妹·阿拙",
+            "cells": [
+              "1",
+              "0.8"
+            ]
+          }
+        ],
+        "note": "沈巧两样都强：样样都是绝对优势"
+      },
+      "narration": "沈巧说：我没看错人，我看的是账。我一日在织机上出三匹布。我若下一天田，只种一石米。这一石米的代价，是我三匹布。你种一天田出八斗米，你若改去织一天布，只出一匹。你一石米的代价，是一匹多布。种米这活，你赔得比我少。",
+      "emphasis": [
+        "三匹布",
+        "一匹"
+      ],
+      "start": 1894,
+      "duration": 483,
+      "audioFrames": 469,
+      "captions": [
+        {
+          "text": "沈巧说",
+          "start": 0,
+          "duration": 33
+        },
+        {
+          "text": "我没看错人",
+          "start": 40,
+          "duration": 30
+        },
+        {
+          "text": "我看的是账",
+          "start": 72,
+          "duration": 34
+        },
+        {
+          "text": "我一日在织机上出三匹布",
+          "start": 112,
+          "duration": 64
+        },
+        {
+          "text": "我若下一天田",
+          "start": 183,
+          "duration": 33
+        },
+        {
+          "text": "只种一石米",
+          "start": 218,
+          "duration": 43
+        },
+        {
+          "text": "这一石米的代价",
+          "start": 268,
+          "duration": 41
+        },
+        {
+          "text": "是我三匹布",
+          "start": 310,
+          "duration": 39
+        },
+        {
+          "text": "你种一天田出八斗米",
+          "start": 356,
+          "duration": 55
+        },
+        {
+          "text": "你若改去织一天布",
+          "start": 413,
+          "duration": 41
+        },
+        {
+          "text": "只出一匹",
+          "start": 456,
+          "duration": 33
+        },
+        {
+          "text": "你一石米的代价",
+          "start": 496,
+          "duration": 40
+        },
+        {
+          "text": "是一匹多布",
+          "start": 538,
+          "duration": 34
+        },
+        {
+          "text": "种米这活",
+          "start": 578,
+          "duration": 32
+        },
+        {
+          "text": "你赔得比我少",
+          "start": 612,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "image",
+      "image": "s07_focus",
+      "ui": null,
+      "narration": "阿拙听不懂什么代价不代价。她只听懂一句：师姐要跟我换，我就有活路了。两家就此定了约。沈巧从此再不下田，织机从早响到晚。阿拙从此再不碰织机，一心侍弄田地。",
+      "emphasis": [
+        "有活路了"
+      ],
+      "start": 2377,
+      "duration": 344,
+      "audioFrames": 330,
+      "captions": [
+        {
+          "text": "阿拙听不懂什么代价不代价",
+          "start": 0,
+          "duration": 59
+        },
+        {
+          "text": "她只听懂一句",
+          "start": 66,
+          "duration": 41
+        },
+        {
+          "text": "师姐要跟我换",
+          "start": 114,
+          "duration": 32
+        },
+        {
+          "text": "我就有活路了",
+          "start": 147,
+          "duration": 35
+        },
+        {
+          "text": "两家就此定了约",
+          "start": 189,
+          "duration": 46
+        },
+        {
+          "text": "沈巧从此再不下田",
+          "start": 242,
+          "duration": 51
+        },
+        {
+          "text": "织机从早响到晚",
+          "start": 294,
+          "duration": 46
+        },
+        {
+          "text": "阿拙从此再不碰织机",
+          "start": 347,
+          "duration": 48
+        },
+        {
+          "text": "一心侍弄田地",
+          "start": 397,
+          "duration": 49
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "image",
+      "image": "s08_gossip",
+      "ui": null,
+      "narration": "村里人看不明白了。李婶在河边说闲话：沈巧疯了吧？她自己种田比谁都快，反倒把田让给最笨的阿拙种。这买卖，明摆着吃亏。王婆婆接话：可不是嘛，阿拙那是捡了天大的便宜，攀上高枝了。",
+      "emphasis": [
+        "疯了",
+        "吃亏"
+      ],
+      "start": 2721,
+      "duration": 429,
+      "audioFrames": 415,
+      "captions": [
+        {
+          "text": "村里人看不明白了",
+          "start": 0,
+          "duration": 43
+        },
+        {
+          "text": "李婶在河边说闲话",
+          "start": 49,
+          "duration": 57
+        },
+        {
+          "text": "沈巧疯了吧",
+          "start": 113,
+          "duration": 37
+        },
+        {
+          "text": "她自己种田比谁都快",
+          "start": 160,
+          "duration": 61
+        },
+        {
+          "text": "反倒把田让给最笨的阿拙种",
+          "start": 222,
+          "duration": 69
+        },
+        {
+          "text": "这买卖",
+          "start": 298,
+          "duration": 26
+        },
+        {
+          "text": "明摆着吃亏",
+          "start": 326,
+          "duration": 40
+        },
+        {
+          "text": "王婆婆接话",
+          "start": 373,
+          "duration": 44
+        },
+        {
+          "text": "可不是嘛",
+          "start": 424,
+          "duration": 31
+        },
+        {
+          "text": "阿拙那是捡了天大的便宜",
+          "start": 457,
+          "duration": 61
+        },
+        {
+          "text": "攀上高枝了",
+          "start": 520,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "priceLadder",
+      "image": null,
+      "ui": {
+        "title": "秋收结账",
+        "bars": [
+          {
+            "label": "各干各的",
+            "value": 10,
+            "text": "十成"
+          },
+          {
+            "label": "换着干",
+            "value": 12,
+            "text": "十二成"
+          }
+        ],
+        "note": "凭空多出来的两成"
+      },
+      "narration": "秋收结账。沈家：布出得比往年多了三成，一匹没浪费在自家田里。阿拙家：米囤满了仓，从前她种一石米的功夫，如今能种出一石二。两家的米和布凑在一处，比从前各干各的，多出整整两成的收成。凭空的，多出来的。",
+      "emphasis": [
+        "多了三成",
+        "两成"
+      ],
+      "start": 3150,
+      "duration": 466,
+      "audioFrames": 452,
+      "captions": [
+        {
+          "text": "秋收结账",
+          "start": 0,
+          "duration": 39
+        },
+        {
+          "text": "沈家",
+          "start": 46,
+          "duration": 31
+        },
+        {
+          "text": "布出得比往年多了三成",
+          "start": 84,
+          "duration": 60
+        },
+        {
+          "text": "一匹没浪费在自家田里",
+          "start": 146,
+          "duration": 59
+        },
+        {
+          "text": "阿拙家",
+          "start": 212,
+          "duration": 27
+        },
+        {
+          "text": "米囤满了仓",
+          "start": 247,
+          "duration": 32
+        },
+        {
+          "text": "从前她种一石米的功夫",
+          "start": 280,
+          "duration": 54
+        },
+        {
+          "text": "如今能种出一石二",
+          "start": 336,
+          "duration": 47
+        },
+        {
+          "text": "两家的米和布凑在一处",
+          "start": 390,
+          "duration": 62
+        },
+        {
+          "text": "比从前各干各的",
+          "start": 454,
+          "duration": 38
+        },
+        {
+          "text": "多出整整两成的收成",
+          "start": 494,
+          "duration": 56
+        },
+        {
+          "text": "凭空的",
+          "start": 556,
+          "duration": 24
+        },
+        {
+          "text": "多出来的",
+          "start": 582,
+          "duration": 27
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "image",
+      "image": "s10_market",
+      "ui": null,
+      "narration": "第二年，第三年，两家的日子肉眼见好。旁人看不下去了，学着两家换。东家布换西家米，南村米换北村豆。到第三年秋，松江城外，以物易物成了市。人人都说沈巧带了个好头。她只淡淡一句：账算得清，日子就过得顺。",
+      "emphasis": [
+        "成了市"
+      ],
+      "start": 3616,
+      "duration": 494,
+      "audioFrames": 480,
+      "captions": [
+        {
+          "text": "第二年",
+          "start": 0,
+          "duration": 23
+        },
+        {
+          "text": "第三年",
+          "start": 25,
+          "duration": 26
+        },
+        {
+          "text": "两家的日子肉眼见好",
+          "start": 53,
+          "duration": 68
+        },
+        {
+          "text": "旁人看不下去了",
+          "start": 127,
+          "duration": 34
+        },
+        {
+          "text": "学着两家换",
+          "start": 163,
+          "duration": 39
+        },
+        {
+          "text": "东家布换西家米",
+          "start": 209,
+          "duration": 40
+        },
+        {
+          "text": "南村米换北村豆",
+          "start": 250,
+          "duration": 56
+        },
+        {
+          "text": "到第三年秋",
+          "start": 313,
+          "duration": 41
+        },
+        {
+          "text": "松江城外",
+          "start": 356,
+          "duration": 33
+        },
+        {
+          "text": "以物易物成了市",
+          "start": 390,
+          "duration": 48
+        },
+        {
+          "text": "人人都说沈巧带了个好头",
+          "start": 445,
+          "duration": 76
+        },
+        {
+          "text": "她只淡淡一句",
+          "start": 527,
+          "duration": 42
+        },
+        {
+          "text": "账算得清",
+          "start": 576,
+          "duration": 30
+        },
+        {
+          "text": "日子就过得顺",
+          "start": 608,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "reveal",
+      "image": null,
+      "ui": {
+        "word": "比较优势",
+        "en": "COMPARATIVE ADVANTAGE",
+        "sub": "祖师爷：大卫·李嘉图，两百年前"
+      },
+      "narration": "故事讲到这儿，谜底也到了。沈巧那一笔账，经济学里有个大名，叫：比较优势。这门学问的祖师爷，两百年前一个炒股炒成百万富翁的英国人，大卫·李嘉图。",
+      "emphasis": [
+        "比较优势"
+      ],
+      "start": 4110,
+      "duration": 343,
+      "audioFrames": 329,
+      "captions": [
+        {
+          "text": "故事讲到这儿",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "谜底也到了",
+          "start": 37,
+          "duration": 32
+        },
+        {
+          "text": "沈巧那一笔账",
+          "start": 76,
+          "duration": 40
+        },
+        {
+          "text": "经济学里有个大名",
+          "start": 118,
+          "duration": 44
+        },
+        {
+          "text": "叫",
+          "start": 163,
+          "duration": 26
+        },
+        {
+          "text": "比较优势",
+          "start": 196,
+          "duration": 32
+        },
+        {
+          "text": "这门学问的祖师爷",
+          "start": 235,
+          "duration": 41
+        },
+        {
+          "text": "两百年前一个炒股炒\n成百万富翁的英国人",
+          "start": 277,
+          "duration": 98
+        },
+        {
+          "text": "大卫·李嘉图",
+          "start": 377,
+          "duration": 51
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "钥匙：机会成本",
+        "colHeads": [
+          "种米的代价（放弃的布）",
+          "种米谁划算"
+        ],
+        "rows": [
+          {
+            "head": "沈巧",
+            "cells": [
+              "3 匹",
+              "不划算"
+            ]
+          },
+          {
+            "head": "阿拙",
+            "cells": [
+              "1 匹",
+              "划算"
+            ]
+          }
+        ],
+        "highlight": [
+          1,
+          1
+        ],
+        "note": "阿拙在种米上，赔得相对少"
+      },
+      "narration": "先说一个误会。多数人以为，交换是因为你强我弱，强的干强的，弱的干弱的。不对。真正的钥匙，是机会成本。你为得到一样东西，放弃掉的另一样东西，才是它的真实代价。沈巧种一石米，放弃的是三匹布。阿拙种八斗米，只放弃一匹布。种米这件事，阿拙赔得少。她就在种米上有比较优势。",
+      "emphasis": [
+        "机会成本",
+        "赔得少"
+      ],
+      "start": 4453,
+      "duration": 586,
+      "audioFrames": 572,
+      "captions": [
+        {
+          "text": "先说一个误会",
+          "start": 0,
+          "duration": 35
+        },
+        {
+          "text": "多数人以为",
+          "start": 42,
+          "duration": 30
+        },
+        {
+          "text": "交换是因为你强我弱",
+          "start": 74,
+          "duration": 56
+        },
+        {
+          "text": "强的干强的",
+          "start": 132,
+          "duration": 35
+        },
+        {
+          "text": "弱的干弱的",
+          "start": 169,
+          "duration": 31
+        },
+        {
+          "text": "不对",
+          "start": 206,
+          "duration": 23
+        },
+        {
+          "text": "真正的钥匙",
+          "start": 235,
+          "duration": 33
+        },
+        {
+          "text": "是机会成本",
+          "start": 270,
+          "duration": 38
+        },
+        {
+          "text": "你为得到一样东西",
+          "start": 316,
+          "duration": 37
+        },
+        {
+          "text": "放弃掉的另一样东西",
+          "start": 354,
+          "duration": 44
+        },
+        {
+          "text": "才是它的真实代价",
+          "start": 399,
+          "duration": 51
+        },
+        {
+          "text": "沈巧种一石米",
+          "start": 457,
+          "duration": 39
+        },
+        {
+          "text": "放弃的是三匹布",
+          "start": 498,
+          "duration": 49
+        },
+        {
+          "text": "阿拙种八斗米",
+          "start": 553,
+          "duration": 37
+        },
+        {
+          "text": "只放弃一匹布",
+          "start": 592,
+          "duration": 42
+        },
+        {
+          "text": "种米这件事",
+          "start": 640,
+          "duration": 33
+        },
+        {
+          "text": "阿拙赔得少",
+          "start": 675,
+          "duration": 36
+        },
+        {
+          "text": "她就在种米上有比较优势",
+          "start": 718,
+          "duration": 68
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "妙就妙在这儿",
+        "wrong": "两样都强，就该两样都自己干",
+        "right": "只要机会成本不同，饼就能变大",
+        "note": "谁也没吃亏，总产出却变多：贸易的底层逻辑"
+      },
+      "narration": "妙就妙在这儿。沈巧两样都比阿拙强，样样都是绝对优势。可只要两人的机会成本不一样，就总有一样活，是阿拙相对赔得少的。让她专心干这个，两人合起来，总产出变大。天生的，谁也没吃亏，饼却变大了。这就是贸易的底层逻辑。",
+      "emphasis": [
+        "绝对优势",
+        "饼却变大了"
+      ],
+      "start": 5039,
+      "duration": 458,
+      "audioFrames": 444,
+      "captions": [
+        {
+          "text": "妙就妙在这儿",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "沈巧两样都比阿拙强",
+          "start": 48,
+          "duration": 58
+        },
+        {
+          "text": "样样都是绝对优势",
+          "start": 108,
+          "duration": 47
+        },
+        {
+          "text": "可只要两人的机会成本不一样",
+          "start": 162,
+          "duration": 58
+        },
+        {
+          "text": "就总有一样活",
+          "start": 222,
+          "duration": 35
+        },
+        {
+          "text": "是阿拙相对赔得少的",
+          "start": 259,
+          "duration": 51
+        },
+        {
+          "text": "让她专心干这个",
+          "start": 317,
+          "duration": 36
+        },
+        {
+          "text": "两人合起来",
+          "start": 355,
+          "duration": 31
+        },
+        {
+          "text": "总产出变大",
+          "start": 388,
+          "duration": 38
+        },
+        {
+          "text": "天生的",
+          "start": 432,
+          "duration": 28
+        },
+        {
+          "text": "谁也没吃亏",
+          "start": 461,
+          "duration": 34
+        },
+        {
+          "text": "饼却变大了",
+          "start": 497,
+          "duration": 33
+        },
+        {
+          "text": "这就是贸易的底层逻辑",
+          "start": 537,
+          "duration": 55
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "李嘉图的算术（1817）",
+        "steps": [
+          {
+            "head": "葡萄牙，两样都更强",
+            "note": "酿酒与织毛呢，绝对优势双杀"
+          },
+          {
+            "head": "但优势有大有小",
+            "note": "酿酒强得多，织呢只强一点"
+          },
+          {
+            "head": "各干相对最强的",
+            "note": "葡萄牙酿酒，英国织呢"
+          },
+          {
+            "head": "船来船往一交换",
+            "note": "两国总产出，都变多"
+          }
+        ],
+        "note": "《政治经济学及赋税原理》一页，撑起全球贸易"
+      },
+      "narration": "两百年前，李嘉图拿两个国家讲这件事。葡萄牙酿酒天赋，英国织毛呢拿手。就算葡萄牙两样都比英国强，只要优势大小不同，葡萄牙专心酿酒，英国专心织呢，再拿船换一换，两国都多赚。一八一七年写下这道理的书，叫《政治经济学及赋税原理》。后来所有的自由贸易、全球分工，源头都在这一页。",
+      "emphasis": [
+        "李嘉图",
+        "两国都多赚"
+      ],
+      "start": 5497,
+      "duration": 655,
+      "audioFrames": 641,
+      "captions": [
+        {
+          "text": "两百年前",
+          "start": 0,
+          "duration": 33
+        },
+        {
+          "text": "李嘉图拿两个国家讲这件事",
+          "start": 35,
+          "duration": 72
+        },
+        {
+          "text": "葡萄牙酿酒天赋",
+          "start": 114,
+          "duration": 46
+        },
+        {
+          "text": "英国织毛呢拿手",
+          "start": 162,
+          "duration": 43
+        },
+        {
+          "text": "就算葡萄牙两样都比英国强",
+          "start": 212,
+          "duration": 76
+        },
+        {
+          "text": "只要优势大小不同",
+          "start": 290,
+          "duration": 55
+        },
+        {
+          "text": "葡萄牙专心酿酒",
+          "start": 346,
+          "duration": 41
+        },
+        {
+          "text": "英国专心织呢",
+          "start": 389,
+          "duration": 39
+        },
+        {
+          "text": "再拿船换一换",
+          "start": 430,
+          "duration": 39
+        },
+        {
+          "text": "两国都多赚",
+          "start": 470,
+          "duration": 39
+        },
+        {
+          "text": "一八一七年写下这道理的书",
+          "start": 516,
+          "duration": 63
+        },
+        {
+          "text": "叫政治经济学及赋税原理",
+          "start": 581,
+          "duration": 82
+        },
+        {
+          "text": "后来所有的自由贸易",
+          "start": 670,
+          "duration": 46
+        },
+        {
+          "text": "全球分工",
+          "start": 717,
+          "duration": 33
+        },
+        {
+          "text": "源头都在这一页",
+          "start": 752,
+          "duration": 44
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "这故事今天还在演",
+        "colHeads": [
+          "谁",
+          "怎么算"
+        ],
+        "rows": [
+          {
+            "head": "顶尖律师",
+            "cells": [
+              "打字再快，也交给助理"
+            ]
+          },
+          {
+            "head": "他的账",
+            "cells": [
+              "打字一小时，亏掉一小时出庭费"
+            ]
+          },
+          {
+            "head": "国家之间",
+            "cells": [
+              "算机会成本，不算面子"
+            ]
+          }
+        ],
+        "note": "什么都最发达的国家，也要跟落后国家做买卖"
+      },
+      "narration": "这故事今天还在演。一个顶尖律师，打字比他的助理还快，他还是把打字交给助理。不是他打不了，是他打一小时字，亏掉的是一小时的出庭费。国家之间同理。有人问，什么都最发达的国家，为什么还要跟落后国家做买卖。答案还是那笔账：算机会成本，不算面子。",
+      "emphasis": [
+        "还在演"
+      ],
+      "start": 6152,
+      "duration": 520,
+      "audioFrames": 506,
+      "captions": [
+        {
+          "text": "这故事今天还在演",
+          "start": 0,
+          "duration": 46
+        },
+        {
+          "text": "一个顶尖律师",
+          "start": 53,
+          "duration": 39
+        },
+        {
+          "text": "打字比他的助理还快",
+          "start": 94,
+          "duration": 48
+        },
+        {
+          "text": "他还是把打字交给助理",
+          "start": 143,
+          "duration": 51
+        },
+        {
+          "text": "不是他打不了",
+          "start": 201,
+          "duration": 31
+        },
+        {
+          "text": "是他打一小时字",
+          "start": 234,
+          "duration": 42
+        },
+        {
+          "text": "亏掉的是一小时的出庭费",
+          "start": 278,
+          "duration": 69
+        },
+        {
+          "text": "国家之间同理",
+          "start": 353,
+          "duration": 38
+        },
+        {
+          "text": "有人问",
+          "start": 398,
+          "duration": 26
+        },
+        {
+          "text": "什么都最发达的国家",
+          "start": 426,
+          "duration": 46
+        },
+        {
+          "text": "为什么还要跟落后国家做买卖",
+          "start": 474,
+          "duration": 70
+        },
+        {
+          "text": "答案还是那笔账",
+          "start": 551,
+          "duration": 46
+        },
+        {
+          "text": "算机会成本",
+          "start": 604,
+          "duration": 35
+        },
+        {
+          "text": "不算面子",
+          "start": 641,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "落到你自己身上",
+        "wrong": "做得比外卖好，就该自己做",
+        "right": "算机会成本，别算面子",
+        "note": "做饭的一小时，写方案能换三份外卖"
+      },
+      "narration": "落到你自己身上。你会做饭，也做得比外卖好，可你还是会点外卖。不是懒，是你做饭的一小时，写方案能换回三份外卖。有人什么都自己干，事必躬亲，感动了自己，账上却是亏的。会算机会成本的人，才叫会过日子。",
+      "emphasis": [
+        "事必躬亲",
+        "账上却是亏的"
+      ],
+      "start": 6672,
+      "duration": 414,
+      "audioFrames": 400,
+      "captions": [
+        {
+          "text": "落到你自己身上",
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "text": "你会做饭",
+          "start": 47,
+          "duration": 25
+        },
+        {
+          "text": "也做得比外卖好",
+          "start": 73,
+          "duration": 36
+        },
+        {
+          "text": "可你还是会点外卖",
+          "start": 111,
+          "duration": 43
+        },
+        {
+          "text": "不是懒",
+          "start": 160,
+          "duration": 23
+        },
+        {
+          "text": "是你做饭的一小时",
+          "start": 186,
+          "duration": 44
+        },
+        {
+          "text": "写方案能换回三份外卖",
+          "start": 231,
+          "duration": 66
+        },
+        {
+          "text": "有人什么都自己干",
+          "start": 304,
+          "duration": 39
+        },
+        {
+          "text": "事必躬亲",
+          "start": 345,
+          "duration": 32
+        },
+        {
+          "text": "感动了自己",
+          "start": 378,
+          "duration": 31
+        },
+        {
+          "text": "账上却是亏的",
+          "start": 411,
+          "duration": 44
+        },
+        {
+          "text": "会算机会成本的人",
+          "start": 462,
+          "duration": 40
+        },
+        {
+          "text": "才叫会过日子",
+          "start": 504,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "mapping",
+      "image": null,
+      "ui": {
+        "title": "一笔小账，一座大厦",
+        "rows": [
+          [
+            "沈巧两样都强",
+            "绝对优势"
+          ],
+          [
+            "下田放弃三匹布",
+            "机会成本"
+          ],
+          [
+            "种米阿拙赔得少",
+            "比较优势"
+          ],
+          [
+            "一匹布换八斗米",
+            "贸易"
+          ],
+          [
+            "凭空多出的两成",
+            "贸易得利"
+          ],
+          [
+            "全城跟着换",
+            "市场分工"
+          ]
+        ]
+      },
+      "narration": "回头看松江城。沈巧两样都强，是绝对优势；她下田要放弃三匹布，是机会成本；种米这事阿拙相对赔得少，是比较优势；两家定约换布换米，是贸易；凭空多出的两成收成，是贸易得利；后来全城跟着换，是市场分工。一笔小账，撑起了后来全球贸易的大厦。",
+      "emphasis": [
+        "贸易得利",
+        "市场分工"
+      ],
+      "start": 7086,
+      "duration": 579,
+      "audioFrames": 565,
+      "captions": [
+        {
+          "text": "回头看松江城",
+          "start": 0,
+          "duration": 51
+        },
+        {
+          "text": "沈巧两样都强",
+          "start": 58,
+          "duration": 47
+        },
+        {
+          "text": "是绝对优势",
+          "start": 107,
+          "duration": 37
+        },
+        {
+          "text": "她下田要放弃三匹布",
+          "start": 151,
+          "duration": 68
+        },
+        {
+          "text": "是机会成本",
+          "start": 220,
+          "duration": 38
+        },
+        {
+          "text": "种米这事阿拙相对赔得少",
+          "start": 265,
+          "duration": 76
+        },
+        {
+          "text": "是比较优势",
+          "start": 343,
+          "duration": 36
+        },
+        {
+          "text": "两家定约换布换米",
+          "start": 386,
+          "duration": 48
+        },
+        {
+          "text": "是贸易",
+          "start": 436,
+          "duration": 27
+        },
+        {
+          "text": "凭空多出的两成收成",
+          "start": 470,
+          "duration": 51
+        },
+        {
+          "text": "是贸易得利",
+          "start": 523,
+          "duration": 36
+        },
+        {
+          "text": "后来全城跟着换",
+          "start": 566,
+          "duration": 41
+        },
+        {
+          "text": "是市场分工",
+          "start": 608,
+          "duration": 39
+        },
+        {
+          "text": "一笔小账",
+          "start": 654,
+          "duration": 28
+        },
+        {
+          "text": "撑起了后来全球贸易的大厦",
+          "start": 684,
+          "duration": 63
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "cta",
+      "image": null,
+      "ui": {
+        "title": "下一件当品",
+        "story": "一个少年拜师学艺三年，一文工钱没有。手艺，一年就能学会。剩下两年，他学的是什么？",
+        "tag": "信号传递"
+      },
+      "narration": "你生活里那些\"不划算\"，也许只是没算机会成本。下一件当品，当个悬的：一个少年，拜师学艺三年，一文工钱没有，手艺一年就能学会。剩下两年，他学的是什么？下期见。",
+      "emphasis": [
+        "一文工钱没有",
+        "学的是什么"
+      ],
+      "start": 7665,
+      "duration": 355,
+      "audioFrames": 341,
+      "captions": [
+        {
+          "text": "你生活里那些不划算",
+          "start": 0,
+          "duration": 43
+        },
+        {
+          "text": "也许只是没算机会成本",
+          "start": 44,
+          "duration": 54
+        },
+        {
+          "text": "下一件当品",
+          "start": 105,
+          "duration": 29
+        },
+        {
+          "text": "当个悬的",
+          "start": 136,
+          "duration": 32
+        },
+        {
+          "text": "一个少年",
+          "start": 174,
+          "duration": 31
+        },
+        {
+          "text": "拜师学艺三年",
+          "start": 207,
+          "duration": 42
+        },
+        {
+          "text": "一文工钱没有",
+          "start": 251,
+          "duration": 34
+        },
+        {
+          "text": "手艺一年就能学会",
+          "start": 287,
+          "duration": 62
+        },
+        {
+          "text": "剩下两年",
+          "start": 356,
+          "duration": 34
+        },
+        {
+          "text": "他学的是什么",
+          "start": 392,
+          "duration": 37
+        },
+        {
+          "text": "下期见",
+          "start": 439,
+          "duration": 29
+        }
+      ]
+    }
+  ]
+}
