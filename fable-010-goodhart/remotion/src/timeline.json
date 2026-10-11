@@ -1,0 +1,1730 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 8834,
+  "scenes": [
+    {
+      "id": "s01",
+      "type": "hook",
+      "image": null,
+      "ui": {
+        "lines": [
+          "赏金三十文",
+          "蛇越捕越多"
+        ],
+        "sub": "临江府 · 一道好心令"
+      },
+      "narration": "南边的临江府，蛇患成灾。官府出了道捕蛇令：一条毒蛇，赏三十文。头一个月，蛇真的少了。第三个月，蛇贩子出现了。官府一怒之下废了赏格，第二天，全城蛇患，比发令之前还凶十倍。这道好心的法令，怎么就养出了一城的蛇？",
+      "emphasis": [
+        "好心",
+        "凶十倍"
+      ],
+      "start": 0,
+      "duration": 511,
+      "audioFrames": 497,
+      "captions": [
+        {
+          "text": "南边的临江府",
+          "start": 0,
+          "duration": 39
+        },
+        {
+          "text": "蛇患成灾",
+          "start": 40,
+          "duration": 39
+        },
+        {
+          "text": "官府出了道捕蛇令",
+          "start": 87,
+          "duration": 51
+        },
+        {
+          "text": "一条毒蛇",
+          "start": 145,
+          "duration": 30
+        },
+        {
+          "text": "赏三十文",
+          "start": 177,
+          "duration": 38
+        },
+        {
+          "text": "头一个月",
+          "start": 221,
+          "duration": 27
+        },
+        {
+          "text": "蛇真的少了",
+          "start": 250,
+          "duration": 42
+        },
+        {
+          "text": "第三个月",
+          "start": 299,
+          "duration": 27
+        },
+        {
+          "text": "蛇贩子出现了",
+          "start": 328,
+          "duration": 42
+        },
+        {
+          "text": "官府一怒之下废了赏格",
+          "start": 376,
+          "duration": 69
+        },
+        {
+          "text": "第二天",
+          "start": 447,
+          "duration": 23
+        },
+        {
+          "text": "全城蛇患",
+          "start": 471,
+          "duration": 36
+        },
+        {
+          "text": "比发令之前还凶十倍",
+          "start": 509,
+          "duration": 55
+        },
+        {
+          "text": "这道好心的法令",
+          "start": 571,
+          "duration": 43
+        },
+        {
+          "text": "怎么就养出了一城的蛇",
+          "start": 616,
+          "duration": 54
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "type": "image",
+      "image": "s02_snakebite",
+      "ui": null,
+      "narration": "临江府临着江，湿热，草深。城里城外，眼镜蛇、银环蛇，年年咬伤人。今年格外凶，一个月里咬翻了十七个。乡绅联名递了帖子，知府拍案：发捕蛇令！凡拿到毒蛇，死活不论，府衙门前过秤，一条，赏钱三十文。",
+      "emphasis": [
+        "咬翻了十七个",
+        "拍案"
+      ],
+      "start": 511,
+      "duration": 511,
+      "audioFrames": 497,
+      "captions": [
+        {
+          "text": "临江府临着江",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "湿热",
+          "start": 43,
+          "duration": 22
+        },
+        {
+          "text": "草深",
+          "start": 67,
+          "duration": 29
+        },
+        {
+          "text": "城里城外",
+          "start": 102,
+          "duration": 32
+        },
+        {
+          "text": "眼镜蛇",
+          "start": 136,
+          "duration": 28
+        },
+        {
+          "text": "银环蛇",
+          "start": 166,
+          "duration": 29
+        },
+        {
+          "text": "年年咬伤人",
+          "start": 197,
+          "duration": 43
+        },
+        {
+          "text": "今年格外凶",
+          "start": 247,
+          "duration": 38
+        },
+        {
+          "text": "一个月里咬翻了十七个",
+          "start": 287,
+          "duration": 67
+        },
+        {
+          "text": "乡绅联名递了帖子",
+          "start": 361,
+          "duration": 51
+        },
+        {
+          "text": "知府拍案",
+          "start": 414,
+          "duration": 35
+        },
+        {
+          "text": "发捕蛇令",
+          "start": 455,
+          "duration": 32
+        },
+        {
+          "text": "凡拿到毒蛇",
+          "start": 497,
+          "duration": 37
+        },
+        {
+          "text": "死活不论",
+          "start": 536,
+          "duration": 31
+        },
+        {
+          "text": "府衙门前过秤",
+          "start": 569,
+          "duration": 35
+        },
+        {
+          "text": "一条",
+          "start": 607,
+          "duration": 24
+        },
+        {
+          "text": "赏钱三十文",
+          "start": 632,
+          "duration": 47
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "type": "image",
+      "image": "s03_hunt",
+      "ui": null,
+      "narration": "法令贴出去，全城叫好。头一个月，效果肉眼可见。猎户进山，孩童翻石，连挑夫都多了根蛇叉。府衙门前的竹笼，一天堆过一天。蛇咬伤的案子，从十七起，落到了三起。乡绅们弹冠相庆：妙策。",
+      "emphasis": [
+        "三起",
+        "妙策"
+      ],
+      "start": 1022,
+      "duration": 429,
+      "audioFrames": 415,
+      "captions": [
+        {
+          "text": "法令贴出去",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "全城叫好",
+          "start": 34,
+          "duration": 36
+        },
+        {
+          "text": "头一个月",
+          "start": 76,
+          "duration": 27
+        },
+        {
+          "text": "效果肉眼可见",
+          "start": 105,
+          "duration": 46
+        },
+        {
+          "text": "猎户进山",
+          "start": 157,
+          "duration": 35
+        },
+        {
+          "text": "孩童翻石",
+          "start": 194,
+          "duration": 33
+        },
+        {
+          "text": "连挑夫都多了根蛇叉",
+          "start": 229,
+          "duration": 57
+        },
+        {
+          "text": "府衙门前的竹笼",
+          "start": 293,
+          "duration": 38
+        },
+        {
+          "text": "一天堆过一天",
+          "start": 332,
+          "duration": 38
+        },
+        {
+          "text": "蛇咬伤的案子",
+          "start": 377,
+          "duration": 38
+        },
+        {
+          "text": "从十七起",
+          "start": 417,
+          "duration": 32
+        },
+        {
+          "text": "落到了三起",
+          "start": 451,
+          "duration": 34
+        },
+        {
+          "text": "乡绅们弹冠相庆",
+          "start": 492,
+          "duration": 54
+        },
+        {
+          "text": "妙策",
+          "start": 553,
+          "duration": 27
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "type": "image",
+      "image": "s04_mystery",
+      "ui": null,
+      "narration": "第二个月，怪事来了。交蛇的人不减反增，可山里的猎户说，蛇分明比开春时还难打了。城里也开始闹蛇，有人半夜在灶膛里摸到一条凉的。药铺的蛇药，头一回卖断了货。蛇，怎么越捕越多了？",
+      "emphasis": [
+        "越捕越多",
+        "断了货"
+      ],
+      "start": 1451,
+      "duration": 417,
+      "audioFrames": 403,
+      "captions": [
+        {
+          "text": "第二个月",
+          "start": 0,
+          "duration": 23
+        },
+        {
+          "text": "怪事来了",
+          "start": 25,
+          "duration": 32
+        },
+        {
+          "text": "交蛇的人不减反增",
+          "start": 63,
+          "duration": 58
+        },
+        {
+          "text": "可山里的猎户说",
+          "start": 123,
+          "duration": 39
+        },
+        {
+          "text": "蛇分明比开春时还难打了",
+          "start": 164,
+          "duration": 69
+        },
+        {
+          "text": "城里也开始闹蛇",
+          "start": 240,
+          "duration": 46
+        },
+        {
+          "text": "有人半夜在灶膛里摸到一条凉的",
+          "start": 287,
+          "duration": 79
+        },
+        {
+          "text": "药铺的蛇药",
+          "start": 373,
+          "duration": 35
+        },
+        {
+          "text": "头一回卖断了货",
+          "start": 410,
+          "duration": 48
+        },
+        {
+          "text": "蛇",
+          "start": 464,
+          "duration": 23
+        },
+        {
+          "text": "怎么越捕越多了",
+          "start": 488,
+          "duration": 38
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "type": "image",
+      "image": "s05_snakefarm",
+      "ui": null,
+      "narration": "答案在城南的破庙里。有胆大的夜里进去讨债，看见了这一幕：庙里一排排大缸，缸边盘着蛇，少说几百条。有人开起了蛇场：江对岸捉了蛇苗，养大了去府衙领赏，一条还是三十文，稳赚不赔。捕蛇令，成了蛇价。",
+      "emphasis": [
+        "几百条",
+        "稳赚不赔"
+      ],
+      "start": 1868,
+      "duration": 472,
+      "audioFrames": 458,
+      "captions": [
+        {
+          "text": "答案在城南的破庙里",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "有胆大的夜里进去讨债",
+          "start": 59,
+          "duration": 58
+        },
+        {
+          "text": "看见了这一幕",
+          "start": 118,
+          "duration": 38
+        },
+        {
+          "text": "庙里一排排大缸",
+          "start": 163,
+          "duration": 49
+        },
+        {
+          "text": "缸边盘着蛇",
+          "start": 213,
+          "duration": 37
+        },
+        {
+          "text": "少说几百条",
+          "start": 252,
+          "duration": 42
+        },
+        {
+          "text": "有人开起了蛇场",
+          "start": 302,
+          "duration": 42
+        },
+        {
+          "text": "江对岸捉了蛇苗",
+          "start": 350,
+          "duration": 44
+        },
+        {
+          "text": "养大了去府衙领赏",
+          "start": 396,
+          "duration": 55
+        },
+        {
+          "text": "一条还是三十文",
+          "start": 453,
+          "duration": 44
+        },
+        {
+          "text": "稳赚不赔",
+          "start": 500,
+          "duration": 38
+        },
+        {
+          "text": "捕蛇令",
+          "start": 544,
+          "duration": 24
+        },
+        {
+          "text": "成了蛇价",
+          "start": 570,
+          "duration": 37
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "type": "image",
+      "image": "s06_boss",
+      "ui": null,
+      "narration": "这买卖瞒不住多久。幕僚连夜禀告知府：满城的蛇，一多半是养的。赏金发出去四千贯，蛇患反倒进了城。知府气得摔了茶盏：本官赏的是捕蛇，不是养蛇！蛇贩子开的价，倒像是本官开的。明日就废了这道令！",
+      "emphasis": [
+        "四千贯",
+        "明日就废"
+      ],
+      "start": 2340,
+      "duration": 445,
+      "audioFrames": 431,
+      "captions": [
+        {
+          "text": "这买卖瞒不住多久",
+          "start": 0,
+          "duration": 52
+        },
+        {
+          "text": "幕僚连夜禀告知府",
+          "start": 59,
+          "duration": 51
+        },
+        {
+          "text": "满城的蛇",
+          "start": 117,
+          "duration": 33
+        },
+        {
+          "text": "一多半是养的",
+          "start": 152,
+          "duration": 41
+        },
+        {
+          "text": "赏金发出去四千贯",
+          "start": 199,
+          "duration": 48
+        },
+        {
+          "text": "蛇患反倒进了城",
+          "start": 249,
+          "duration": 51
+        },
+        {
+          "text": "知府气得摔了茶盏",
+          "start": 306,
+          "duration": 51
+        },
+        {
+          "text": "本官赏的是捕蛇",
+          "start": 364,
+          "duration": 43
+        },
+        {
+          "text": "不是养蛇",
+          "start": 408,
+          "duration": 33
+        },
+        {
+          "text": "蛇贩子开的价",
+          "start": 451,
+          "duration": 44
+        },
+        {
+          "text": "倒像是本官开的",
+          "start": 496,
+          "duration": 44
+        },
+        {
+          "text": "明日就废了这道令",
+          "start": 547,
+          "duration": 45
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "type": "image",
+      "image": "s07_release",
+      "ui": null,
+      "narration": "废令的告示，酉时贴出，戌时就有了动静。城南破庙的大缸，一夜之间空了。养蛇人盘算得明白：赏金没了，饲料钱就是纯亏。几千条蛇，放。天亮时分，临江府的井边、灶下、房梁上、米缸里，处处见蛇。满城尖叫。",
+      "emphasis": [
+        "一夜之间空了",
+        "满城尖叫"
+      ],
+      "start": 2785,
+      "duration": 468,
+      "audioFrames": 454,
+      "captions": [
+        {
+          "text": "废令的告示",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "酉时贴出",
+          "start": 34,
+          "duration": 28
+        },
+        {
+          "text": "戌时就有了动静",
+          "start": 63,
+          "duration": 42
+        },
+        {
+          "text": "城南破庙的大缸",
+          "start": 112,
+          "duration": 45
+        },
+        {
+          "text": "一夜之间空了",
+          "start": 159,
+          "duration": 39
+        },
+        {
+          "text": "养蛇人盘算得明白",
+          "start": 206,
+          "duration": 49
+        },
+        {
+          "text": "赏金没了",
+          "start": 261,
+          "duration": 31
+        },
+        {
+          "text": "饲料钱就是纯亏",
+          "start": 294,
+          "duration": 48
+        },
+        {
+          "text": "几千条蛇",
+          "start": 349,
+          "duration": 32
+        },
+        {
+          "text": "放",
+          "start": 383,
+          "duration": 24
+        },
+        {
+          "text": "天亮时分",
+          "start": 414,
+          "duration": 30
+        },
+        {
+          "text": "临江府的井边",
+          "start": 446,
+          "duration": 38
+        },
+        {
+          "text": "灶下",
+          "start": 485,
+          "duration": 21
+        },
+        {
+          "text": "房梁上",
+          "start": 508,
+          "duration": 26
+        },
+        {
+          "text": "米缸里",
+          "start": 536,
+          "duration": 24
+        },
+        {
+          "text": "处处见蛇",
+          "start": 561,
+          "duration": 38
+        },
+        {
+          "text": "满城尖叫",
+          "start": 607,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "知府想不明白的事",
+        "steps": [
+          {
+            "head": "官府赏的是",
+            "note": "捕蛇，本意是灭蛇"
+          },
+          {
+            "head": "百姓领到的是",
+            "note": "一条蛇，换三十文"
+          },
+          {
+            "head": "于是长出来的",
+            "note": "是蛇，不是平安"
+          },
+          {
+            "head": "定什么价，长什么货",
+            "note": "百姓是天下最会算账的人"
+          }
+        ],
+        "note": "您定的不是赏格，是价格"
+      },
+      "narration": "知府瘫在椅子上，半天说出一句：本官想不明白。我给的是灭蛇的赏钱，怎么就成了养蛇的本钱？幕僚苦笑：大人，您赏的从来不是蛇的死活，您赏的是一条蛇换三十文。百姓是天下最会算账的人，您定什么价，他们就长什么货。",
+      "emphasis": [
+        "想不明白",
+        "本钱"
+      ],
+      "start": 3253,
+      "duration": 446,
+      "audioFrames": 432,
+      "captions": [
+        {
+          "text": "知府瘫在椅子上",
+          "start": 0,
+          "duration": 41
+        },
+        {
+          "text": "半天说出一句",
+          "start": 43,
+          "duration": 40
+        },
+        {
+          "text": "本官想不明白",
+          "start": 89,
+          "duration": 42
+        },
+        {
+          "text": "我给的是灭蛇的赏钱",
+          "start": 138,
+          "duration": 48
+        },
+        {
+          "text": "怎么就成了养蛇的本钱",
+          "start": 188,
+          "duration": 53
+        },
+        {
+          "text": "幕僚苦笑",
+          "start": 251,
+          "duration": 39
+        },
+        {
+          "text": "大人",
+          "start": 296,
+          "duration": 18
+        },
+        {
+          "text": "您赏的从来不是蛇的死活",
+          "start": 316,
+          "duration": 54
+        },
+        {
+          "text": "您赏的是一条蛇换三十文",
+          "start": 372,
+          "duration": 71
+        },
+        {
+          "text": "百姓是天下最会算账的人",
+          "start": 450,
+          "duration": 53
+        },
+        {
+          "text": "您定什么价",
+          "start": 506,
+          "duration": 29
+        },
+        {
+          "text": "他们就长什么货",
+          "start": 536,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "type": "priceLadder",
+      "image": null,
+      "ui": {
+        "title": "这道令的价钱",
+        "bars": [
+          {
+            "label": "常年防蛇银",
+            "value": 1,
+            "text": "二百贯"
+          },
+          {
+            "label": "好心法令",
+            "value": 45,
+            "text": "九千贯"
+          }
+        ],
+        "note": "四十五倍：赏金+搜捕+抚恤，还没算被咬的人"
+      },
+      "narration": "后来调集民夫，搜了半个月，才算把蛇患压下去。账算下来，赏金四千贯，搜捕三千贯，医药抚恤两千贯，一共九千贯。而开令之前，只要常年的二百贯防蛇银。一道好心法令，多花了四十五倍的钱。这还没算被咬的人。",
+      "emphasis": [
+        "四十五倍"
+      ],
+      "start": 3699,
+      "duration": 469,
+      "audioFrames": 455,
+      "captions": [
+        {
+          "text": "后来调集民夫",
+          "start": 0,
+          "duration": 37
+        },
+        {
+          "text": "搜了半个月",
+          "start": 38,
+          "duration": 29
+        },
+        {
+          "text": "才算把蛇患压下去",
+          "start": 69,
+          "duration": 47
+        },
+        {
+          "text": "账算下来",
+          "start": 123,
+          "duration": 26
+        },
+        {
+          "text": "赏金四千贯",
+          "start": 151,
+          "duration": 43
+        },
+        {
+          "text": "搜捕三千贯",
+          "start": 195,
+          "duration": 41
+        },
+        {
+          "text": "医药抚恤两千贯",
+          "start": 238,
+          "duration": 47
+        },
+        {
+          "text": "一共九千贯",
+          "start": 287,
+          "duration": 40
+        },
+        {
+          "text": "而开令之前",
+          "start": 334,
+          "duration": 34
+        },
+        {
+          "text": "只要常年的二百贯防蛇银",
+          "start": 370,
+          "duration": 69
+        },
+        {
+          "text": "一道好心法令",
+          "start": 445,
+          "duration": 41
+        },
+        {
+          "text": "多花了四十五倍的钱",
+          "start": 488,
+          "duration": 53
+        },
+        {
+          "text": "这还没算被咬的人",
+          "start": 548,
+          "duration": 46
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "type": "reveal",
+      "image": null,
+      "ui": {
+        "word": "古德哈特定律",
+        "en": "GOODHART'S LAW",
+        "sub": "指标一旦变成目标，就测不准了"
+      },
+      "narration": "故事讲到这儿，谜底也到了。那道捕蛇令的死穴，经济学里有个名字，叫：古德哈特定律。一句话：当一个指标变成了目标，它就不再是个好指标。这条定律和它的一对孪生兄弟，撑起了后世所有的KPI血泪史。",
+      "emphasis": [
+        "古德哈特定律"
+      ],
+      "start": 4168,
+      "duration": 436,
+      "audioFrames": 422,
+      "captions": [
+        {
+          "text": "故事讲到这儿",
+          "start": 0,
+          "duration": 36
+        },
+        {
+          "text": "谜底也到了",
+          "start": 37,
+          "duration": 32
+        },
+        {
+          "text": "那道捕蛇令的死穴",
+          "start": 76,
+          "duration": 46
+        },
+        {
+          "text": "经济学里有个名字",
+          "start": 124,
+          "duration": 43
+        },
+        {
+          "text": "叫",
+          "start": 168,
+          "duration": 26
+        },
+        {
+          "text": "古德哈特定律",
+          "start": 201,
+          "duration": 39
+        },
+        {
+          "text": "一句话",
+          "start": 247,
+          "duration": 28
+        },
+        {
+          "text": "当一个指标变成了目标",
+          "start": 282,
+          "duration": 57
+        },
+        {
+          "text": "它就不再是个好指标",
+          "start": 340,
+          "duration": 50
+        },
+        {
+          "text": "这条定律和它的一对孪生兄弟",
+          "start": 397,
+          "duration": 76
+        },
+        {
+          "text": "撑起了后世所有的KPI血泪史",
+          "start": 475,
+          "duration": 79
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "concept",
+      "image": null,
+      "ui": {
+        "title": "尺子之死",
+        "wrong": "指标是客观的尺子",
+        "right": "刻度一换钱，尺子就变形",
+        "note": "全城的手都伸向了尺子本身：蛇量还在，量早不是蛇患"
+      },
+      "narration": "指标本来是尺子，用来量一件事做得好不好。蛇少了，说明蛇患在退。可官府把尺子钉死成赏格，量尺子的刻度，直接换钱。于是全城的手，都伸向了尺子本身。尺子还在，可它量的东西，早就不一样了。",
+      "emphasis": [
+        "影子",
+        "换钱"
+      ],
+      "start": 4604,
+      "duration": 436,
+      "audioFrames": 422,
+      "captions": [
+        {
+          "text": "指标本来是尺子",
+          "start": 0,
+          "duration": 43
+        },
+        {
+          "text": "用来量一件事做得好不好",
+          "start": 45,
+          "duration": 62
+        },
+        {
+          "text": "蛇少了",
+          "start": 114,
+          "duration": 30
+        },
+        {
+          "text": "说明蛇患在退",
+          "start": 146,
+          "duration": 47
+        },
+        {
+          "text": "可官府把尺子钉死成赏格",
+          "start": 200,
+          "duration": 68
+        },
+        {
+          "text": "量尺子的刻度",
+          "start": 270,
+          "duration": 38
+        },
+        {
+          "text": "直接换钱",
+          "start": 310,
+          "duration": 39
+        },
+        {
+          "text": "于是全城的手",
+          "start": 356,
+          "duration": 36
+        },
+        {
+          "text": "都伸向了尺子本身",
+          "start": 394,
+          "duration": 51
+        },
+        {
+          "text": "尺子还在",
+          "start": 452,
+          "duration": 30
+        },
+        {
+          "text": "可它量的东西",
+          "start": 483,
+          "duration": 34
+        },
+        {
+          "text": "早就不一样了",
+          "start": 519,
+          "duration": 34
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "定律的来历",
+        "steps": [
+          {
+            "head": "古德哈特看央行",
+            "note": "货币指标一被盯死，数据就变形"
+          },
+          {
+            "head": "一九七五年写下观察",
+            "note": "后来被提炼成那句话"
+          },
+          {
+            "head": "测度一旦成为目标",
+            "note": "立刻测不准了"
+          },
+          {
+            "head": "孪生兄弟",
+            "note": "坎贝尔定律，同样的意思"
+          }
+        ],
+        "note": ""
+      },
+      "narration": "英国经济学家古德哈特，本来是给央行看货币数据的。他发现，哪项货币指标一被央行盯死当目标，哪项数据就开始变形，变成一堆精心生产的假象。一九七五年他写下这个观察，后来被人提炼成那句定律：任何测度，一旦成为目标，就立刻测不准了。",
+      "emphasis": [
+        "盯死",
+        "变形"
+      ],
+      "start": 5040,
+      "duration": 539,
+      "audioFrames": 525,
+      "captions": [
+        {
+          "text": "英国经济学家古德哈特",
+          "start": 0,
+          "duration": 63
+        },
+        {
+          "text": "本来是给央行看货币数据的",
+          "start": 65,
+          "duration": 57
+        },
+        {
+          "text": "他发现",
+          "start": 129,
+          "duration": 22
+        },
+        {
+          "text": "哪项货币指标一被\n央行盯死当目标",
+          "start": 153,
+          "duration": 102
+        },
+        {
+          "text": "哪项数据就开始变形",
+          "start": 257,
+          "duration": 54
+        },
+        {
+          "text": "变成一堆精心生产的假象",
+          "start": 313,
+          "duration": 68
+        },
+        {
+          "text": "一九七五年他写下这个观察",
+          "start": 388,
+          "duration": 72
+        },
+        {
+          "text": "后来被人提炼成那句定律",
+          "start": 462,
+          "duration": 54
+        },
+        {
+          "text": "任何测度",
+          "start": 522,
+          "duration": 35
+        },
+        {
+          "text": "一旦成为目标",
+          "start": 559,
+          "duration": 36
+        },
+        {
+          "text": "就立刻测不准了",
+          "start": 597,
+          "duration": 42
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "历史里的蛇场",
+        "colHeads": [
+          "考核口径",
+          "长出来的货"
+        ],
+        "rows": [
+          {
+            "head": "俄国铁钉·按重量",
+            "cells": [
+              "拳头大的巨钉"
+            ]
+          },
+          {
+            "head": "改按数量",
+            "cells": [
+              "米粒大的小钉"
+            ]
+          },
+          {
+            "head": "伦敦急诊·四小时上限",
+            "cells": [
+              "门外排队，进门才计时"
+            ]
+          }
+        ],
+        "note": "指标一到，戏法就到"
+      },
+      "narration": "这类故事，历史里一抓一大把。俄国机器厂，铁钉按重量考核，车间就专造拳头大的巨钉；改按数量考核，就造一堆米粒大的小钉。伦敦医院给急诊定了四小时接诊上限，救护车就在门外排队干等，进了门才计时。指标一到，戏法就到。",
+      "emphasis": [
+        "一抓一大把"
+      ],
+      "start": 5579,
+      "duration": 508,
+      "audioFrames": 494,
+      "captions": [
+        {
+          "text": "这类故事",
+          "start": 0,
+          "duration": 28
+        },
+        {
+          "text": "历史里一抓一大把",
+          "start": 30,
+          "duration": 51
+        },
+        {
+          "text": "俄国机器厂",
+          "start": 88,
+          "duration": 32
+        },
+        {
+          "text": "铁钉按重量考核",
+          "start": 121,
+          "duration": 52
+        },
+        {
+          "text": "车间就专造拳头大的巨钉",
+          "start": 175,
+          "duration": 64
+        },
+        {
+          "text": "改按数量考核",
+          "start": 245,
+          "duration": 42
+        },
+        {
+          "text": "就造一堆米粒大的小钉",
+          "start": 289,
+          "duration": 57
+        },
+        {
+          "text": "伦敦医院给急诊定\n了四小时接诊上限",
+          "start": 353,
+          "duration": 90
+        },
+        {
+          "text": "救护车就在门外排队干等",
+          "start": 445,
+          "duration": 62
+        },
+        {
+          "text": "进了门才计时",
+          "start": 509,
+          "duration": 41
+        },
+        {
+          "text": "指标一到",
+          "start": 557,
+          "duration": 32
+        },
+        {
+          "text": "戏法就到",
+          "start": 590,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "三层拆解",
+        "steps": [
+          {
+            "head": "指标是影子",
+            "note": "蛇量，是蛇患的影子"
+          },
+          {
+            "head": "影子一旦换钱",
+            "note": "就有人动手，直接造影子"
+          },
+          {
+            "head": "丈量比目标短一截",
+            "note": "官府要的是平安，能赏的只有蛇"
+          }
+        ],
+        "note": "那条缝，专门咬好心人"
+      },
+      "narration": "道理拆开看就三层。第一层，指标从来只是影子，蛇量是蛇患的影子，产量是产能的影子。第二层，影子一旦换钱换官帽，就有人动手脚，直接造影子，养蛇就是这个。第三层，最冤的：官府要的明明是蛇患退去，可它只能量蛇，只能赏蛇。丈量，永远比目标短一截。",
+      "emphasis": [
+        "影子",
+        "短一截"
+      ],
+      "start": 6087,
+      "duration": 577,
+      "audioFrames": 563,
+      "captions": [
+        {
+          "text": "道理拆开看就三层",
+          "start": 0,
+          "duration": 49
+        },
+        {
+          "text": "第一层",
+          "start": 56,
+          "duration": 23
+        },
+        {
+          "text": "指标从来只是影子",
+          "start": 81,
+          "duration": 46
+        },
+        {
+          "text": "蛇量是蛇患的影子",
+          "start": 128,
+          "duration": 48
+        },
+        {
+          "text": "产量是产能的影子",
+          "start": 178,
+          "duration": 51
+        },
+        {
+          "text": "第二层",
+          "start": 236,
+          "duration": 23
+        },
+        {
+          "text": "影子一旦换钱换官帽",
+          "start": 261,
+          "duration": 68
+        },
+        {
+          "text": "就有人动手脚",
+          "start": 331,
+          "duration": 35
+        },
+        {
+          "text": "直接造影子",
+          "start": 368,
+          "duration": 35
+        },
+        {
+          "text": "养蛇就是这个",
+          "start": 404,
+          "duration": 38
+        },
+        {
+          "text": "第三层",
+          "start": 449,
+          "duration": 27
+        },
+        {
+          "text": "最冤的",
+          "start": 478,
+          "duration": 30
+        },
+        {
+          "text": "官府要的明明是蛇患退去",
+          "start": 515,
+          "duration": 71
+        },
+        {
+          "text": "可它只能量蛇",
+          "start": 588,
+          "duration": 38
+        },
+        {
+          "text": "只能赏蛇",
+          "start": 628,
+          "duration": 35
+        },
+        {
+          "text": "丈量",
+          "start": 670,
+          "duration": 23
+        },
+        {
+          "text": "永远比目标短一截",
+          "start": 694,
+          "duration": 48
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "type": "matrix",
+      "image": null,
+      "ui": {
+        "title": "今天的蛇场",
+        "colHeads": [
+          "盯死的指标",
+          "长出来的蛇"
+        ],
+        "rows": [
+          {
+            "head": "播放量",
+            "cells": [
+              "刷量产业"
+            ]
+          },
+          {
+            "head": "论文数",
+            "cells": [
+              "灌水与回购版面"
+            ]
+          },
+          {
+            "head": "手术成功率",
+            "cells": [
+              "危重病人被婉拒"
+            ]
+          },
+          {
+            "head": "升学率",
+            "cells": [
+              "差生被劝去职校"
+            ]
+          }
+        ],
+        "note": "每一次，目标都达成，事情都办砸"
+      },
+      "narration": "今天的版本你天天见。平台刷量，播放量成了KPI，就有刷播放的产业；高校数论文，就有灌水和回购版面；医院背手术成功率指标，危重病人就开始被婉拒。学校看升学率，差生就被劝去职校。每一次，目标都达成，事情都办砸。",
+      "emphasis": [
+        "天天见"
+      ],
+      "start": 6664,
+      "duration": 514,
+      "audioFrames": 500,
+      "captions": [
+        {
+          "text": "今天的版本你天天见",
+          "start": 0,
+          "duration": 57
+        },
+        {
+          "text": "平台刷量",
+          "start": 64,
+          "duration": 30
+        },
+        {
+          "text": "播放量成了KPI",
+          "start": 95,
+          "duration": 52
+        },
+        {
+          "text": "就有刷播放的产业",
+          "start": 149,
+          "duration": 54
+        },
+        {
+          "text": "高校数论文",
+          "start": 210,
+          "duration": 34
+        },
+        {
+          "text": "就有灌水和回购版面",
+          "start": 246,
+          "duration": 55
+        },
+        {
+          "text": "医院背手术成功率指标",
+          "start": 308,
+          "duration": 63
+        },
+        {
+          "text": "危重病人就开始被婉拒",
+          "start": 372,
+          "duration": 68
+        },
+        {
+          "text": "学校看升学率",
+          "start": 447,
+          "duration": 41
+        },
+        {
+          "text": "差生就被劝去职校",
+          "start": 489,
+          "duration": 52
+        },
+        {
+          "text": "每一次",
+          "start": 548,
+          "duration": 22
+        },
+        {
+          "text": "目标都达成",
+          "start": 572,
+          "duration": 35
+        },
+        {
+          "text": "事情都办砸",
+          "start": 609,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "type": "steps",
+      "image": null,
+      "ui": {
+        "title": "三味药",
+        "steps": [
+          {
+            "head": "多把尺子一起量",
+            "note": "蛇量、咬伤数、蛇药销量一起看"
+          },
+          {
+            "head": "考核离钱远一点",
+            "note": "为蛇患消退发赏，不为蛇的只数发"
+          },
+          {
+            "head": "定期换尺子",
+            "note": "让养蛇人永远慢半拍"
+          }
+        ],
+        "note": "不治病根，治的是命"
+      },
+      "narration": "那该怎么办？经济学没有仙丹，只有三味药。一，多把尺子一起量，蛇量、咬伤数、药铺蛇药销量，一起看，造假就难面面俱到。二，把考核离钱远一点，赏格宁可为蛇患的消退发，别为蛇的只数发。三，定期换尺子，让养蛇人永远慢半拍。这三味药不治病根，治的是命。",
+      "emphasis": [
+        "三味药",
+        "治的是命"
+      ],
+      "start": 7178,
+      "duration": 611,
+      "audioFrames": 597,
+      "captions": [
+        {
+          "text": "那该怎么办",
+          "start": 0,
+          "duration": 32
+        },
+        {
+          "text": "经济学没有仙丹",
+          "start": 41,
+          "duration": 40
+        },
+        {
+          "text": "只有三味药",
+          "start": 83,
+          "duration": 39
+        },
+        {
+          "text": "一",
+          "start": 129,
+          "duration": 19
+        },
+        {
+          "text": "多把尺子一起量",
+          "start": 149,
+          "duration": 41
+        },
+        {
+          "text": "蛇量",
+          "start": 193,
+          "duration": 27
+        },
+        {
+          "text": "咬伤数",
+          "start": 221,
+          "duration": 29
+        },
+        {
+          "text": "药铺蛇药销量",
+          "start": 251,
+          "duration": 39
+        },
+        {
+          "text": "一起看",
+          "start": 292,
+          "duration": 23
+        },
+        {
+          "text": "造假就难面面俱到",
+          "start": 317,
+          "duration": 64
+        },
+        {
+          "text": "二",
+          "start": 387,
+          "duration": 17
+        },
+        {
+          "text": "把考核离钱远一点",
+          "start": 406,
+          "duration": 37
+        },
+        {
+          "text": "赏格宁可为蛇患的消退发",
+          "start": 445,
+          "duration": 72
+        },
+        {
+          "text": "别为蛇的只数发",
+          "start": 518,
+          "duration": 45
+        },
+        {
+          "text": "三",
+          "start": 571,
+          "duration": 21
+        },
+        {
+          "text": "定期换尺子",
+          "start": 593,
+          "duration": 38
+        },
+        {
+          "text": "让养蛇人永远慢半拍",
+          "start": 633,
+          "duration": 68
+        },
+        {
+          "text": "这三味药不治病根",
+          "start": 708,
+          "duration": 54
+        },
+        {
+          "text": "治的是命",
+          "start": 764,
+          "duration": 31
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "type": "mapping",
+      "image": null,
+      "ui": {
+        "title": "那道令，从头到尾",
+        "rows": [
+          [
+            "一条蛇三十文",
+            "指标升级成目标"
+          ],
+          [
+            "赏格贴上城墙",
+            "丈量贴上价格"
+          ],
+          [
+            "城南蛇场",
+            "针对指标的精确造假"
+          ],
+          [
+            "废令放蛇",
+            "指标撤退后的反噬"
+          ],
+          [
+            "多花的九千贯",
+            "那条缝的价钱"
+          ],
+          [
+            "知府的好心",
+            "被丈量咬掉的那口"
+          ]
+        ]
+      },
+      "narration": "回头看临江府。捕蛇令，是指标升级成目标；三十文赏格，是丈量贴上了价格；城南蛇场，是针对指标的精确造假；废令放蛇，是指标撤退后的反噬；多花的九千贯，是丈量目标那条缝的价钱。知府从头到尾没有恶意，可那条缝，专门咬好心人。",
+      "emphasis": [
+        "指标",
+        "反噬"
+      ],
+      "start": 7789,
+      "duration": 512,
+      "audioFrames": 498,
+      "captions": [
+        {
+          "text": "回头看临江府",
+          "start": 0,
+          "duration": 39
+        },
+        {
+          "text": "捕蛇令",
+          "start": 45,
+          "duration": 24
+        },
+        {
+          "text": "是指标升级成目标",
+          "start": 71,
+          "duration": 52
+        },
+        {
+          "text": "三十文赏格",
+          "start": 129,
+          "duration": 36
+        },
+        {
+          "text": "是丈量贴上了价格",
+          "start": 166,
+          "duration": 48
+        },
+        {
+          "text": "城南蛇场",
+          "start": 221,
+          "duration": 32
+        },
+        {
+          "text": "是针对指标的精确造假",
+          "start": 254,
+          "duration": 68
+        },
+        {
+          "text": "废令放蛇",
+          "start": 329,
+          "duration": 33
+        },
+        {
+          "text": "是指标撤退后的反噬",
+          "start": 363,
+          "duration": 57
+        },
+        {
+          "text": "多花的九千贯",
+          "start": 426,
+          "duration": 36
+        },
+        {
+          "text": "是丈量目标那条缝的价钱",
+          "start": 464,
+          "duration": 58
+        },
+        {
+          "text": "知府从头到尾没有恶意",
+          "start": 529,
+          "duration": 63
+        },
+        {
+          "text": "可那条缝",
+          "start": 594,
+          "duration": 29
+        },
+        {
+          "text": "专门咬好心人",
+          "start": 624,
+          "duration": 39
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "type": "cta",
+      "image": null,
+      "ui": {
+        "title": "下一件当品",
+        "story": "上游的村子把河卖了，年年数钱。下游的村子只能喝泥汤。没人抢，没人偷，这买卖为什么说它是掠夺？",
+        "tag": "外部性"
+      },
+      "narration": "你手边大概也有一把变成目标的尺子：绩效分，粉丝数，体重秤上的数字。盯着它没错，盯死它，它就开始骗你。下一件当品，当口活水：上游的村子把河卖了，年年数钱，下游的村子只能喝泥汤。没人抢没人偷，这买卖为什么说它是掠夺？下期见。",
+      "emphasis": [
+        "没人抢没人偷",
+        "掠夺"
+      ],
+      "start": 8301,
+      "duration": 533,
+      "audioFrames": 519,
+      "captions": [
+        {
+          "text": "你手边大概也有一\n把变成目标的尺子",
+          "start": 0,
+          "duration": 81
+        },
+        {
+          "text": "绩效分",
+          "start": 88,
+          "duration": 26
+        },
+        {
+          "text": "粉丝数",
+          "start": 116,
+          "duration": 29
+        },
+        {
+          "text": "体重秤上的数字",
+          "start": 147,
+          "duration": 46
+        },
+        {
+          "text": "盯着它没错",
+          "start": 200,
+          "duration": 30
+        },
+        {
+          "text": "盯死它",
+          "start": 232,
+          "duration": 27
+        },
+        {
+          "text": "它就开始骗你",
+          "start": 261,
+          "duration": 36
+        },
+        {
+          "text": "下一件当品",
+          "start": 304,
+          "duration": 29
+        },
+        {
+          "text": "当口活水",
+          "start": 334,
+          "duration": 35
+        },
+        {
+          "text": "上游的村子把河卖了",
+          "start": 376,
+          "duration": 55
+        },
+        {
+          "text": "年年数钱",
+          "start": 432,
+          "duration": 35
+        },
+        {
+          "text": "下游的村子只能喝泥汤",
+          "start": 469,
+          "duration": 64
+        },
+        {
+          "text": "没人抢没人偷",
+          "start": 541,
+          "duration": 42
+        },
+        {
+          "text": "这买卖为什么说它是掠夺",
+          "start": 584,
+          "duration": 72
+        },
+        {
+          "text": "下期见",
+          "start": 666,
+          "duration": 29
+        }
+      ]
+    }
+  ]
+}
